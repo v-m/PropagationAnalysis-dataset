@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6527" time="409305">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUncommittedMasterChangeBaseCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUncommittedTopicChange</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileCommittedModifiedCommittedComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUncommittedMasterChange</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testConflicting</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUncommittedMasterChangeOtherCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileNotIncluded</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderCommittedModifiedCommittedComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testAssumeUnchanged</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testModified</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

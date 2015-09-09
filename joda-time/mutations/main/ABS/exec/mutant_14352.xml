@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14352" time="165392">
+  <failing>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Turk</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Chicago</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

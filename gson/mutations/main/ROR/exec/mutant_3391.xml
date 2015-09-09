@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3391" time="46171">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsLong</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMaxLongThatWrapsAround</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMinLongThatWrapsAround</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingNonZeroDecimalPointValuesAsIntegerFails</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

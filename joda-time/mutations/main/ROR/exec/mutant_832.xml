@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_832" time="192063">
+  <failing>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RD2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RD1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long1</case>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testToMutablePeriod</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RInterval1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RP2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RP1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RP5</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long_Chronology1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RP3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long_Chronology3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RInterval2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_long_Chronology2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RInterval3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RInterval4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

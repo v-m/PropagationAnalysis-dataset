@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1313" time="61291">
+  <failing>
+    <case>org.joda.time.TestDays.testToStandardSeconds</case>
+    <case>org.joda.time.TestHours.testToStandardMinutes</case>
+    <case>org.joda.time.TestDays.testMultipliedBy_int</case>
+    <case>org.joda.time.TestHours.testMultipliedBy_int</case>
+    <case>org.joda.time.TestPeriod_Basics.testNegated</case>
+    <case>org.joda.time.TestWeeks.testToStandardMinutes</case>
+    <case>org.joda.time.TestMinutes.testToStandardSeconds</case>
+    <case>org.joda.time.TestMonths.testMultipliedBy_int</case>
+    <case>org.joda.time.TestSeconds.testMultipliedBy_int</case>
+    <case>org.joda.time.TestYears.testMultipliedBy_int</case>
+    <case>org.joda.time.TestWeeks.testMultipliedBy_int</case>
+    <case>org.joda.time.TestDays.testToStandardMinutes</case>
+    <case>org.joda.time.TestWeeks.testToStandardHours</case>
+    <case>org.joda.time.TestWeeks.testToStandardSeconds</case>
+    <case>org.joda.time.TestWeeks.testToStandardDays</case>
+    <case>org.joda.time.TestDays.testToStandardHours</case>
+    <case>org.joda.time.TestHours.testToStandardSeconds</case>
+    <case>org.joda.time.TestMinutes.testMultipliedBy_int</case>
+    <case>org.joda.time.TestPeriod_Basics.testMultipliedBy</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

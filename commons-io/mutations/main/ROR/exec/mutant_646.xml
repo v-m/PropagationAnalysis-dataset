@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_646" time="84173">
+  <failing>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testFilterList</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testFilterSetNullParameters</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testFilterArray_fromList</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testFilterSet</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testFilterListNullParameters</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

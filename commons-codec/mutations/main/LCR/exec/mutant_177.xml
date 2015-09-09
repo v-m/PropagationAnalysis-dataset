@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_177" time="123212">
+  <failing>
+    <case>org.apache.commons.codec.language.DaitchMokotoffSoundexTest.testEncodeIgnoreTrimmable</case>
+    <case>org.apache.commons.codec.language.DaitchMokotoffSoundexTest.testEncodeIgnoreHyphens</case>
+    <case>org.apache.commons.codec.language.DaitchMokotoffSoundexTest.testEncodeIgnoreApostrophes</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

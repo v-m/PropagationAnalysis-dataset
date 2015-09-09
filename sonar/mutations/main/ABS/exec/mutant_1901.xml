@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1901" time="656291">
+  <failing>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.get_parent_by_id</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.select_by_project_key_and_language</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.find_all</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.find_children</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.insert</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.get_by_name_and_language</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.update</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.select_by_project_id_and_language</case>
+    <case>org.sonar.core.qualityprofile.db.QualityProfileDaoTest.get_by_id</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9563" time="150946">
+  <failing>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourZero_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_withHourZero_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourZero_Gaza</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourBack_NewYork_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourForward_Moscow_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourForward_NewYork_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourBack_Moscow_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_withHourZero_Gaza</case>
+    <case>org.joda.time.TestIllegalFieldValueException.testZoneTransition</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

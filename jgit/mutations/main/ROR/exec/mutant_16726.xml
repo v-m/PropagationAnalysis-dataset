@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16726" time="291566">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testInsertHeadMiddle</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyWholeObject_Length123</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testInsertTail</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyWholeObject_Length128</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testReplaceManifestBare</case>
+    <case>org.eclipse.jgit.api.GarbageCollectCommandTest.testGCmoreCommits</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testShuffleSegments</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithNestedSubmodules</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testLimitObjectSize_Length130CopyOk</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyZeros_Length128</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack3</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1NoObjectReuse</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

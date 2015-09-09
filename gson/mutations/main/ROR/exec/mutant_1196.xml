@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1196" time="60886">
+  <failing>
+    <case>com.google.gson.InnerClassExclusionStrategyTest.testExcludeInnerClassField</case>
+    <case>com.google.gson.InnerClassExclusionStrategyTest.testIncludeStaticNestedClassField</case>
+    <case>com.google.gson.InnerClassExclusionStrategyTest.testExcludeInnerClassObject</case>
+    <case>com.google.gson.InnerClassExclusionStrategyTest.testIncludeStaticNestedClassObject</case>
+    <case>com.google.gson.functional.FieldExclusionTest.testInnerClassExclusion</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

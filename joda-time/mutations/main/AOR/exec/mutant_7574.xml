@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7574" time="166484">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_winter_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromCalendarFields</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_summer_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_before1970</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_winter</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_summer</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_beforeYearZero3</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_beforeYearZero1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromCalendarFields_beforeYearZero1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromCalendarFields_beforeYearZero3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

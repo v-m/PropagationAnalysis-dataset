@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3178" time="46087">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testStringAsNumberWithTruncatedExponent</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedNumbers</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5858" time="320044">
+  <failing>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testSaveAddURI</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testSaveRemoveLastURI</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

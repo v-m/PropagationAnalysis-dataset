@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_993" time="128883">
+  <failing>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqual1</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqual2</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testWordEndingInMB</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualXalan</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testTranslateOfSCHAndCH</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualGary</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqualParis</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testTCH</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testDiscardOfSCEOrSCIOrSCY</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testMetaphone</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

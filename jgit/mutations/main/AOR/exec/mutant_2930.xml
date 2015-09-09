@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2930" time="346969">
+  <failing>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeDuplicateNames4</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeDuplicateNames1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeDuplicateNames2</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeDuplicateNames3</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting2</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting3</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting4</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting5</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting6</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting7</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTreeSorting8</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

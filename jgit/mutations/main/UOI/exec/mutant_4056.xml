@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4056" time="365278">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testShuffleSegments</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testLimitObjectSize_Length130CopyOk</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testInsertHeadMiddle</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyWholeObject_Length123</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testInsertTail</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyWholeObject_Length128</case>
+    <case>org.eclipse.jgit.internal.storage.pack.DeltaIndexTest.testCopyZeros_Length128</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

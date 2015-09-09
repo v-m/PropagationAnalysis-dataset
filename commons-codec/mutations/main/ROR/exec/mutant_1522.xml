@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1522" time="101178">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testgetMinRating_10_Returns3_Successfully</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Surnames_MURPHY_LYNCH_NoMatchExpected</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testgetMinRating_11_Returns_3_Successfully</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testgetMinRating_8_Returns3_Successfully</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

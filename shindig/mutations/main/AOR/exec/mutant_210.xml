@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_210" time="58568">
+  <failing>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testChangingContainers</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenTest.testNullValues</case>
+    <case>org.apache.shindig.common.crypto.BlobCrypterTest.testManyEntries</case>
+    <case>org.apache.shindig.common.crypto.BlobCrypterTest.testFixedKey</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testWrongContainer</case>
+    <case>org.apache.shindig.common.crypto.BlobCrypterTest.testEncryptAndDecrypt</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testExpired</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenTest.testRealValues</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testCreateToken</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

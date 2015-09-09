@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21988" time="187627">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeToday_Zone</case>
+    <case>org.joda.time.TestMinutes.testFactory_minutesBetween_RPartial</case>
+    <case>org.joda.time.TestLocalTime_Basics.testGetValues</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeToday_nullZone</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsBefore_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsAfter_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeTodayDefaultZone</case>
+    <case>org.joda.time.TestLocalTime_Basics.testGetValue_int</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString</case>
+    <case>org.joda.time.TestHours.testFactory_hoursBetween_RPartial</case>
+    <case>org.joda.time.TestStringConvert.testLocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTime_RI</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsEqual_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTime_nullRI</case>
+    <case>org.joda.time.TestSeconds.testFactory_secondsBetween_RPartial</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_DTFormatter</case>
+    <case>org.joda.time.TestLocalTime_Basics.testCompareTo</case>
+    <case>org.joda.time.TestLocalTime_Basics.testSerialization</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_String</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1366" time="326158">
+  <failing>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testTwoRevisions</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testDetachedHead</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnLastConflictAndSkip</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictCommitAndContinue</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndFailContinueIfFileIsDirty</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testConflictFreeWithSingleFile</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testInsertVsModify</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndAbortWithDetachedHEAD</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnLastConflictAndContinue</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertMultipleWithFail</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_DeleteEnd</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testDeleteVsModify</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertsIntoMidPosition</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndContinue</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPickWithContentMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndSkipWithConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndSkipNoConflict</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertEnd</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testTwoSimilarModsAndOneInsert</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

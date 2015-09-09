@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6865" time="235745">
+  <failing>
+    <case>org.joda.time.TestDateTimeComparator.testStaticGetDateOnlyInstance</case>
+    <case>org.joda.time.TestDateTimeComparator.testStaticGetTimeOnlyInstance</case>
+    <case>org.joda.time.TestDateTimeComparator.testStaticGetInstanceLower</case>
+    <case>org.joda.time.TestDateTimeComparator.testStaticGetInstanceLowerUpper</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

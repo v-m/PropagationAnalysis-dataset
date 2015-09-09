@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1078" time="50965">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipObjectNames</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipObjectValues</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelQuotedString</case>
+    <case>com.google.gson.functional.VersioningTest.testIgnoreLaterVersionClassDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelObject</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

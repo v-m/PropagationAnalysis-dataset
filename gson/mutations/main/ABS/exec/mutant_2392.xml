@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2392" time="52671">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testLenientNansAndInfinities</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testCustomDeserializerReturnsNullForArrayElementsForArrayField</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableDeserialization</case>
+    <case>com.google.gson.functional.SecurityTest.testJsonWithNonExectuableTokenWithRegularGsonDeserialization</case>
+    <case>com.google.gson.JsonParserTest.testParseString</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultCalendarDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekingUnquotedStringsPrefixedWithIntegers</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForTopLevelObject</case>
+    <case>com.google.gson.functional.EnumTest.testClassWithEnumFieldDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullKey</case>
+    <case>com.google.gson.functional.ObjectTest.testStringFieldWithEmptyValueDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapStandardSubclassDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStrictNansAndInfinities</case>
+    <case>com.google.gson.functional.JsonParserTest.testExtraCommasInArrays</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testAbsentJsonElementsAreSetToNull</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposeAnnotationDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientUnquotedStrings</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testEnsureCustomDeserializerNotInvokedForNullValues</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonFiniteDoubles</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientUnquotedNames</case>
+    <case>com.google.gson.JsonParserTest.testParseReader</case>
+    <case>com.google.gson.functional.JsonParserTest.testExtraCommasInMaps</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultGregorianCalendarDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekingUnquotedStringsPrefixedWithBooleans</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedNumbers</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testDeepParameterizedTypeDeserialization</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testCustomDeserializerReturnsNull</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitNullSetsFieldToNullDuringDeserialization</case>
+    <case>com.google.gson.functional.SecurityTest.testNonExecutableJsonDeserialization</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testCustomDeserializerReturnsNullForArrayElements</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNoExposedFieldDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializePrimitiveWrapperAsObjectField</case>
+    <case>com.google.gson.JsonParserTest.testParseUnquotedStringArrayFails</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testDeserializeId</case>
+    <case>com.google.gson.functional.SecurityTest.testJsonWithNonExectuableTokenWithConfiguredGsonDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testObjectFieldNamesWithoutQuotesDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnquotedLiteral</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testCustomDeserializerReturnsNullForTopLevelObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnterminatedString</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForField</case>
+    <case>com.google.gson.functional.MapTest.testMapOfMapDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testSetDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsBaseType</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testCustomTypeAdapterPassesNullDesrialization</case>
+    <case>com.google.gson.functional.UncategorizedTest.testInvalidJsonDeserializationFails</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testJsonTypeFieldBasedDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBadValueForBigDecimalDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testPropertiesDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

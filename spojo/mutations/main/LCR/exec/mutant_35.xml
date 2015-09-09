@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_35" time="6314">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithInclude4</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithInclude4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

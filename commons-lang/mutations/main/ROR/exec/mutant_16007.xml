@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16007" time="60809">
+  <failing>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testGetFieldForceAccess</case>
+    <case>org.apache.commons.lang3.AnnotationUtilsTest.testToString</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadNamedField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadStaticFieldForceAccess</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testGetField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteNamedField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadNamedStaticFieldForceAccess</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadNamedStaticField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteNamedStaticField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testAmbig</case>
+    <case>org.apache.commons.lang3.ClassUtilsTest.testGetPublicMethod</case>
+    <case>org.apache.commons.lang3.ClassUtilsTest.test_getAllInterfaces_Class</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

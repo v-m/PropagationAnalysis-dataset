@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1110" time="115133">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.AbstractOrderedBidiMapDecoratorTest.testBidiMapIteratorSet</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMap2Test.testBidiMapIteratorSet</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMapTest.testBidiMapIteratorSet</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

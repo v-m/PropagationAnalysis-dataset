@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1079" time="92338">
+  <failing>
+    <case>org.apache.commons.io.comparator.ExtensionFileComparatorTest.testReverseComparator</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetExtension</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testIsExtensionArray</case>
+    <case>org.apache.commons.io.comparator.CompositeFileComparatorTest.testConstructorIterable</case>
+    <case>org.apache.commons.io.comparator.ExtensionFileComparatorTest.testSortList</case>
+    <case>org.apache.commons.io.comparator.CompositeFileComparatorTest.testComparator</case>
+    <case>org.apache.commons.io.comparator.CompositeFileComparatorTest.testSortList</case>
+    <case>org.apache.commons.io.comparator.ExtensionFileComparatorTest.testComparator</case>
+    <case>org.apache.commons.io.comparator.ExtensionFileComparatorTest.testSortArray</case>
+    <case>org.apache.commons.io.comparator.CompositeFileComparatorTest.testSortArray</case>
+    <case>org.apache.commons.io.comparator.CompositeFileComparatorTest.testReverseComparator</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testIsExtensionCollection</case>
+    <case>org.apache.commons.io.comparator.ExtensionFileComparatorTest.testCaseSensitivity</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testIsExtension</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

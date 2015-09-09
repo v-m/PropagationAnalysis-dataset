@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2438" time="65426">
+  <failing>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testSetValuedMapRemove</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

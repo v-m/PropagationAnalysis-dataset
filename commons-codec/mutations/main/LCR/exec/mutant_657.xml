@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_657" time="103588">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SurnamesCornerCase_MURPHY_NoSpace_NoMatch</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testisEncodeEquals_CornerCase_SecondNameNull_ReturnsFalse</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testisEncodeEquals_CornerCase_SecondNameNothing_ReturnsFalse</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

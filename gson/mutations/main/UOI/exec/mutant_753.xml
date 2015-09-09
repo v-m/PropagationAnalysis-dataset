@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_753" time="139316">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipDouble</case>
+    <case>com.google.gson.JavaSerializationTest.testNumberIsSerializable</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedNumbers</case>
+    <case>com.google.gson.functional.PrimitiveTest.testValueVeryCloseToZeroIsZero</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDoubles</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

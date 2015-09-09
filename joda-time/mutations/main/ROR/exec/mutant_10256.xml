@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10256" time="199437">
+  <failing>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_RP_int_intarray_int</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddWrapFieldMilli</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMinute</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Gaza</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Turk</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyAddWrapFieldYear</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddWrapFieldMonth</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyHour</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddWrapFieldYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfYear</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_addWrapField_RP_int_intarray_int</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_RP_int_intarray_int</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_long_int</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfWeek</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMilli</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_long_int</case>
+    <case>org.joda.time.TestPartial_Properties.testPropertyAddWrapFieldHour</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_addWrapField_long_int</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_addWrapField_RP_int_intarray_int</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyYear</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyAddWrapFieldMonth</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldHour</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyDay</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddWrapFieldDay</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldMilli</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldSecond</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfWeek</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddWrapFieldSecond</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyYear</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddWrapFieldHour</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopySecond</case>
+    <case>org.joda.time.TestPartial_Properties.testPropertyAddWrapFieldMinute</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_addWrapField_long_int</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyDay</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testSampleDate</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldMinute</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddWrapFieldMinute</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyMonth</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testSampleDate</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfYear</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMonth</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

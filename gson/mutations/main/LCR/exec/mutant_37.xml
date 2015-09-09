@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_37" time="51725">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testWrongType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

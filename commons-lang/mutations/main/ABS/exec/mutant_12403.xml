@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12403" time="88811">
+  <failing>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllFloatArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllLongArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllByteArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllCharOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllDoubleOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllObjectOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllIntOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllShortArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllBooleanArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllLongOccurences</case>
+    <case>org.apache.commons.lang3.HashSetvBitSetTest.testTimesExtractOrBitset</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllIntArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllObjectArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllBooleanOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllNumberArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllDoubleArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllByteOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllShortOccurences</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveAllCharArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveTest.testRemoveAllFloatOccurences</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_930" time="105609">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_TOMASZ_TOM_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SOPHIE_SOFIA_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_FRANCISZEK_FRANCES_SuccessfullyMatched</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_19833" time="175661">
+  <failing>
+    <case>org.joda.time.TestDuration_Basics.testToStandardDays_overflow</case>
+    <case>org.joda.time.TestDuration_Basics.testToStandardDays</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

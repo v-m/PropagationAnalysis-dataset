@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_290" time="114877">
+  <failing>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testListRemoveByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListSetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListGetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testGetNode</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testGet</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testGetNode</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testListSetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testListGetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListRemoveByIndexBoundsChecking2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

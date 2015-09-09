@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2368" time="51036">
+  <failing>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testLargeSetOfRandomKeys</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForCustomDeserializerCustomTree</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

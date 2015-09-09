@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1118" time="170525">
+  <failing>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RP_RP_PeriodType7</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RP_RP7</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14490" time="1415084">
+  <failing />
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebaseConfig2</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleFixup</case>
+    <case>org.eclipse.jgit.internal.storage.file.ObjectDirectoryTest.testConcurrentInsertionOfBlobsToTheSameNewFanOutDirectory</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges2</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionOnSideConflict</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithoutConfig</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullFastForwardWithLocalCommitAndRebaseFlagSet</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullLocalConflict</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMerge</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebaseConfig1</case>
+  </hanging>
+</mutation-execution>

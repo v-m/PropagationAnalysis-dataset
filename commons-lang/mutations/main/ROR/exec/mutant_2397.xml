@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2397" time="60837">
+  <failing>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testDoubleArrayHiddenByObject</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testMultiDoubleArray</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testDoubleArray</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

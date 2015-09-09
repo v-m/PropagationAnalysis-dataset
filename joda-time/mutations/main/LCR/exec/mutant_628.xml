@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_628" time="162263">
+  <failing>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HSm</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HS</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_Mm</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_m</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

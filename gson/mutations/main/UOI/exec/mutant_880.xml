@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_880" time="50736">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testReallyLongValuesDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveLongAutoboxedDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

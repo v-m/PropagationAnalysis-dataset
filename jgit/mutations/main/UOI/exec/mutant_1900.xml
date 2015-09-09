@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1900" time="355135">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousPathDotDot</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTree6</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testNoBareDot</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPathEndDotWindows3</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testInvalidRefName</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.invalidNames</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeNameIsDotDot</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

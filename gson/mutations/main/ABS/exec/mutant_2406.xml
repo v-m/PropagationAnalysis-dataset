@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2406" time="49798">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientVeryLongNumber</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnterminatedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testVeryLongUnquotedLiteral</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

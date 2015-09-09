@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1484" time="50442">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveDoubleAutoboxedDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDoubles</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonFiniteDoubles</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

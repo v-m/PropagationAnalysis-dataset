@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4438" time="113410">
+  <failing>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.CollectionSortedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableSortedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testFullBagCompatibility</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5709" time="323073">
+  <failing>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutOrphanBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test001_Initalize</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testCreate</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

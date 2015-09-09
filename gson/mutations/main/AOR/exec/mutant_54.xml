@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_54" time="49675">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbersFromStrings</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testLenientNansAndInfinities</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoStrings</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testArray</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testObject</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStrings</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testSkipValue</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForDeserializingCustomTree</case>
+    <case>com.google.gson.functional.MapTest.testMapNamePromotionWithJsonElementReader</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNestedArrays</case>
+    <case>com.google.gson.functional.JsonParserTest.testDeserializingCustomTree</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testEmptyObject</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStrictNansAndInfinities</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveClassLiteral</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testWrongType</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testEmptyArray</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStringsFromNumbers</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyDeserialization</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testJsonTypeFieldBasedDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbers</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNestedObjects</case>
+    <case>com.google.gson.JsonParserTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNulls</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForCustomDeserializerCustomTree</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8780" time="170776">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_yearOfEraParse</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

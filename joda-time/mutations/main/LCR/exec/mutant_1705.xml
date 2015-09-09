@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1705" time="63060">
+  <failing>
+    <case>org.joda.time.tz.TestFixedDateTimeZone.testEquals</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

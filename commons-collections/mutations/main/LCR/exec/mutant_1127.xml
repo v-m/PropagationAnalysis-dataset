@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1127" time="111251">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testRemove</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

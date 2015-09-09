@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5822" time="362664">
+  <failing>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testPush</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesNoWildcardNoDestination</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesTwoRefSpecs</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesWildcardNoTracking</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesTrackingRef</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testFetch</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesNoWildcardNoTracking</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testReceivePackFactory</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testUploadPackFactory</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

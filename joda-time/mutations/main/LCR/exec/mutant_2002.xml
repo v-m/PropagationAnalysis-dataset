@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2002" time="86493">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Basics.testToString</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyCompareToHour</case>
+    <case>org.joda.time.TestLocalTime_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestLocalTime_Basics.testWithField_DateTimeFieldType_int_1</case>
+    <case>org.joda.time.TestStringConvert.testLocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testWithField_DateTimeFieldType_int_4</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectLocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_DTFormatter</case>
+    <case>org.joda.time.TestLocalTime_Basics.testProperty</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsSupported_DateTimeFieldType</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToString_String</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

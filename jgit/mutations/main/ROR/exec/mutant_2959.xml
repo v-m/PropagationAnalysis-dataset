@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2959" time="333917">
+  <failing>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_NewlinesOnly</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRenames_OnePair2</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OneRenameTwoUnrelatedFiles</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_SameContentMultipleTimes</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OnePair</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_LastByteDifferent</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

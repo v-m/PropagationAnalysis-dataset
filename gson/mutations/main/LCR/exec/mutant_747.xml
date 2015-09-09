@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_747" time="51290">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testEmptyWriter</case>
+    <case>com.google.gson.JsonNullTest.testEqualsAndHashcode</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonNullDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

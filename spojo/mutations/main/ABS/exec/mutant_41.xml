@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_41" time="8422">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayInt</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayStr</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.instantiateArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

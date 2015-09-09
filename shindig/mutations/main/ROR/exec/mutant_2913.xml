@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2913" time="60015">
+  <failing>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testRpcHandler_serviceDoesntExist</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testFailedRequest</case>
+    <case>org.apache.shindig.protocol.BaseRequestItemTest.testGetTypedParameterEmpty</case>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testOverrideHandlerRPC</case>
+    <case>org.apache.shindig.protocol.BaseRequestItemTest.testGetInvalidJsonTypedParameter</case>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testFailedRequest</case>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testRestHandler_serviceDoesntExist</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testInvalidService</case>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testFutureException</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

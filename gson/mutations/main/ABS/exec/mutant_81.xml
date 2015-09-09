@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_81" time="59243">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbersFromStrings</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveClassLiteral</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbers</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testArray</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testObject</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.JsonParserTest.testDeserializingCustomTree</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

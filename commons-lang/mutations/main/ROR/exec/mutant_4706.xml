@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4706" time="112388">
+  <failing>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityEscaperTest.testBelow</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testLang911</case>
+    <case>org.apache.commons.lang3.reflect.TypeUtilsTest.testIsAssignable</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testLang313</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeCsvWriter</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeHtml4</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testUnescapeSurrogatePairs</case>
+    <case>org.apache.commons.lang3.text.translate.UnicodeEscaperTest.testBelow</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeEcmaScript</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXml</case>
+    <case>org.apache.commons.lang3.text.translate.UnicodeEscaperTest.testBetween</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeCsvWriter</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest.testUnfinishedEntity</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeHtml</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityEscaperTest.testAbove</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest.testSupplementaryUnescaping</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testEscapeSurrogatePairs</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeJson</case>
+    <case>org.apache.commons.lang3.text.translate.UnicodeUnescaperTest.testUuuuu</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeJava</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXmlSupplementaryCharacters</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testLang708</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXmlAllCharacters</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeHtmlVersions</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testEscapeSurrogatePairsLang858</case>
+    <case>org.apache.commons.lang3.text.translate.UnicodeEscaperTest.testAbove</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testStandaloneAmphersand</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityEscaperTest.testBetween</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeJava</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeHexCharsHtml</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeXmlSupplementaryCharacters</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXml10</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeCsvString</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXml11</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeCsvString</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityEscaperTest.testSupplementary</case>
+    <case>org.apache.commons.lang3.text.translate.OctalUnescaperTest.testBetween</case>
+    <case>org.apache.commons.lang3.text.translate.UnicodeUnescaperTest.testUPlus</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

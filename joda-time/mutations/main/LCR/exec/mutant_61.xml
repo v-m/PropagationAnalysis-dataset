@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_61" time="165858">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testToPeriod</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToPeriod_PeriodType2</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToPeriod_PeriodType1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_leapYear</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toMar_endOfMonth1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toMar_endOfMonth2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType4</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_exactMonths</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType1</case>
+    <case>org.joda.time.TestInterval_Basics.testToPeriod_PeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI7</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToPeriod</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI6</case>
+    <case>org.joda.time.TestInterval_Basics.testToPeriod_PeriodType1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI4</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth2</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testPeriod</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI1</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI1</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType3</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType2</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI4</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType4</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_standardYear</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

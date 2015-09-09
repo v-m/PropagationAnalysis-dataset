@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_80" time="166665">
+  <failing>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_Field</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2655" time="112217">
+  <failing>
+    <case>org.apache.commons.collections4.ArrayStackTest.testSearch</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

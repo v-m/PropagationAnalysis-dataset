@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3393" time="47651">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMinLongThatWrapsAround</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

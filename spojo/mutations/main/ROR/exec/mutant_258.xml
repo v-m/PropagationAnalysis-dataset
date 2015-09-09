@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_258" time="2398">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass3</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleType</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude6</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata5</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRule1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata6</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testConvertAnnotation2Impl</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendedRules3</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.metadataToString</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionInclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionInclude3</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude4</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom4</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom3</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom5</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleExtends</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass5WithOneAnnotation</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringInclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringInclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringInclude4</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTEStringSource1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules2</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleProperties</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.extendFromMetadata</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

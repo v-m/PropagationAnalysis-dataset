@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4566" time="368822">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFfalse</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileSimple</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFInput</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestFolderThenSymlink</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChanges</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFtrue</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_12</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFtrueBinary</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

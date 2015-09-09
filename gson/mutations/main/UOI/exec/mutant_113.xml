@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_113" time="53107">
+  <failing>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testParameterizedSubclassFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

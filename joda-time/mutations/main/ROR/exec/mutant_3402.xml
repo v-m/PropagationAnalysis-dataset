@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3402" time="192647">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min1max2</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min2max2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

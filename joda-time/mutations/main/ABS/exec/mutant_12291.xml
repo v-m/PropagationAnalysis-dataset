@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12291" time="199172">
+  <failing>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Gaza</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Turk</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfWeek</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfWeek</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

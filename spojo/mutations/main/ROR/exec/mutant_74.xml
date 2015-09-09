@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_74" time="2285">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata6</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendedRules3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules2</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testGetRuleMetadata2</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.merge</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.extendFromMetadata</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom5</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

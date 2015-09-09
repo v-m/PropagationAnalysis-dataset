@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1923" time="165354">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_weekyearOfEra_twoDigit</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testCalendar</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testCalendar</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

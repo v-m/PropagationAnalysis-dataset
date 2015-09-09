@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8646" time="201601">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraAD_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraAD_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_yearOfEraParse</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2269" time="197265">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_append_Printer</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithAutoLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendOptional_Parser</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongName</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_append_Parser</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortName</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

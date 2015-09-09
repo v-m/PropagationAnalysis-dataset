@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3846" time="62411">
+  <failing>
+    <case>org.joda.time.TestDateTimeUtils.test_julianDay</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

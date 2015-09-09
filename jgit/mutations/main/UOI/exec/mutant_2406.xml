@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2406" time="352958">
+  <failing>
+    <case>org.eclipse.jgit.lib.RefTest.testRemoteNames</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRemoteBranch</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutRemoteTrackingWithUpstream</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

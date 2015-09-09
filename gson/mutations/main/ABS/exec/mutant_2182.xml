@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2182" time="55362">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBigDecimalFieldDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsInteger</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBigIntegerFieldDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testStringFieldWithNumberValueDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigIntegerDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigDecimalNoFractAsStringRepresentationDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveDoubleAutoboxedDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigDecimalPreservePrecisionDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsBigDecimal</case>
+    <case>com.google.gson.JavaSerializationTest.testNumberIsSerializable</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleAsStringRepresentationDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize1dArray</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleNoFractAsStringRepresentationDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBadValueForBigIntegerDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigDecimalAsFloat</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipDouble</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsLong</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.PrimitiveTest.testLargeDoubleDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testSmallValueForBigDecimalDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigDecimalAsStringRepresentationDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullField</case>
+    <case>com.google.gson.functional.PrimitiveTest.testValueVeryCloseToZeroIsZero</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposeAnnotationDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfPrimitivesAsObjectsDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNumberDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDoubles</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingDecimalPointValueZeroSucceeds</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMaxLongThatWrapsAround</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMinLongThatWrapsAround</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeMap</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigDecimalAsIntegerFails</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigDecimalAsDouble</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingNonZeroDecimalPointValuesAsIntegerFails</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigDecimalDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize2dArray</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigDecimalAsBigIntegerFails</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

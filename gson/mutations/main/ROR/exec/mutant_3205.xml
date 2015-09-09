@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3205" time="52828">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testMultipleTopLevelValuesInOneDocument</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipNestedStructures</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testObjectPath</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testArrayPath</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testArrayOfObjects</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testArrayOfArrays</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

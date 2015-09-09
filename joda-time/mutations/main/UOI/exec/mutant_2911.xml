@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2911" time="161938">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_roundCeiling_long</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_roundCeiling_long</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

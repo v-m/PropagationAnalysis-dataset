@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_241" time="142827">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone3</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseStartYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_OfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseEndYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseStartYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseEndYear</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29_newYork</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29_newYork_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

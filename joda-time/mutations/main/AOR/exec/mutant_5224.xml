@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5224" time="202606">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetYear</case>
+    <case>org.joda.time.TestDateTimeComparator.testSecond</case>
+    <case>org.joda.time.TestDateTimeComparator.testHour</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyWithMaximumValueMillisOfDayDSTGap</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

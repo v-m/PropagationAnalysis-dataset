@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_974" time="64895">
+  <failing>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testTransformedBag_decorateTransform</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testTransformedBag_decorateTransform</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

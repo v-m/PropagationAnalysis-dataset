@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_34112" time="354243">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testContainsAll</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testEquals</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

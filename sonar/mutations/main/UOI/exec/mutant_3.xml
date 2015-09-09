@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3" time="649631">
+  <failing>
+    <case>org.sonar.core.computation.dbcleaner.period.IntervalTest.shouldNotJoinMonthsOfDifferentYears</case>
+    <case>org.sonar.core.computation.dbcleaner.period.KeepOneFilterTest.shouldOnlyOneSnapshotPerInterval</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.computation.dbcleaner.period.IntervalTest.shouldGroupByIntervals</case>
+    <case>org.sonar.core.computation.dbcleaner.period.IntervalTest.shouldIgnoreTimeWhenGroupingByIntervals</case>
+    <case>org.sonar.core.computation.dbcleaner.period.KeepOneFilterTest.shouldKeepNonDeletableSnapshots</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

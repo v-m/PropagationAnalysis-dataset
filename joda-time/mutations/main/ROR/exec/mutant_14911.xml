@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14911" time="300202">
+  <failing>
+    <case>org.joda.time.TestWeeks.testAddToLocalDate</case>
+    <case>org.joda.time.TestMonths.testAddToLocalDate</case>
+    <case>org.joda.time.TestYears.testAddToLocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestDays.testAddToLocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

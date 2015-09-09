@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1688" time="112836">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationExhaustivity</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationException</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationUnicity</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testObjectHashCodeEqualsContract</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testPermutations</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testObjectHashCodeEqualsSelfHashCode</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testCanonicalFullCollectionExists</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testRemove</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testCanonicalEmptyCollectionExists</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationResultSize</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutatorHasMore</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testEqualsNull</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

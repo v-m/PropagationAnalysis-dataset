@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_73" time="52025">
+  <failing>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseCollectionFieldSerialization</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testNestedObject</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseArrayFieldSerialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseFieldSerialization</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingArrayOfSubClassInstances</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfSubclassFields</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testNestedArray</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_649" time="669435">
+  <failing>
+    <case>org.sonar.core.issue.IssueUpdaterTest.unassign</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.wont_fix</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.change_assignee</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.flag_as_false_positive</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.assign</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

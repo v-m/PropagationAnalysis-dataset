@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4384" time="169118">
+  <failing>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthTwice</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthTwiceIntoLastYear</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_add_RP_int_intarray_int</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_add_RP_int_intarray_int</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddDay</case>
+    <case>org.joda.time.TestPartial_Properties.testPropertyAddMinute</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_add_RP_int_intarray_int</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddNoWrapMinute</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddNoWrapSecond</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_add_RP_int_intarray_int</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_toLeap</case>
+    <case>org.joda.time.chrono.TestISOChronology.testPartialDayOfYearAdd</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonth</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyAddDayOfMonth</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddNoWrapMilli</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthIntoLastYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

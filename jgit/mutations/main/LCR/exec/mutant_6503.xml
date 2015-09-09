@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6503" time="311475">
+  <failing>
+    <case>org.eclipse.jgit.api.CleanCommandTest.testCleanDirs</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUntrackedNotIgnoredFolders</case>
+    <case>org.eclipse.jgit.api.StatusCommandTest.testDifferentStates</case>
+    <case>org.eclipse.jgit.api.CleanCommandTest.testCleanDirsWithDryRun</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUntrackedFolders</case>
+    <case>org.eclipse.jgit.api.CleanCommandTest.testClean</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

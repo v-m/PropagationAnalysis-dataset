@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_188" time="109816">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionAdd</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionContainsAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionAddAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionContains</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

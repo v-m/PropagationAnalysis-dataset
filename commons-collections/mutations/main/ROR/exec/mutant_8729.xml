@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8729" time="111901">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiRemoveByEntrySet</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testPreviousKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiRemoveByKeySet</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetContains2</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetContains1</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testPreviousKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testFirstKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testEntrySetContains2</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetRemove2</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testEntrySetContains1</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetRemove1</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testNextKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testFailFastValues</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testLastKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testFailFastEntrySet</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiPut</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testBidiGetKeyInverse</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testLastKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testBidiInverse</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiInverse</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testFirstKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiRemove</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testBidiGetKey</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableOrderedBidiMapTest.testBidiKeySetValuesOrder</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiGetKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiKeySetValuesOrder</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testFailFastKeySet</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testNextKey</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testBidiGetKeyInverse</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

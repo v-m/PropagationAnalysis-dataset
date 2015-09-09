@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1672" time="397310">
+  <failing>
+    <case>org.sonar.core.user.AuthorizationDaoTest.is_authorized_component_key_for_group</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.user.AuthorizationDaoTest.is_authorized_component_key_for_user</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16713" time="205571">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonth3</case>
+    <case>org.joda.time.TestPeriodType.testDayTime</case>
+    <case>org.joda.time.TestPeriod_Basics.testWithPeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_long_PeriodType2</case>
+    <case>org.joda.time.TestDateTimeUtils.testGetPeriodType_PeriodType</case>
+    <case>org.joda.time.TestPeriod_Basics.testWithPeriodType3</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_weekDay3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_PeriodType3</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object3</case>
+    <case>org.joda.time.TestPeriodType.testMaskTwice2</case>
+    <case>org.joda.time.TestSerialization.testSerializedPeriodType</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_long_PeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType4</case>
+    <case>org.joda.time.TestMutablePeriod_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_8int__PeriodType3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType2</case>
+    <case>org.joda.time.TestPeriodType.testHashCode</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_8int__PeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_8int__PeriodType3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_8int__PeriodType2</case>
+    <case>org.joda.time.TestPeriodType.testIndexOf</case>
+    <case>org.joda.time.TestPeriod_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.format.TestPeriodFormatter.testParsePeriod_parseType</case>
+    <case>org.joda.time.TestPeriodType.testIsSupported</case>
+    <case>org.joda.time.TestPeriodType.testEquals</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testMergePeriod_RP1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object3</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType2</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

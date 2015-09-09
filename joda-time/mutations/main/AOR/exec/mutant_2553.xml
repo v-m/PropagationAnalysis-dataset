@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2553" time="207778">
+  <failing>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology3</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfCentury</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.TestInterval_Basics.testToString_reparse</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology6</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToString</case>
+    <case>org.joda.time.TestInterval_Basics.testToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

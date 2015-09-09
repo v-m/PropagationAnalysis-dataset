@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_198" time="1272566">
+  <failing>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testSameDiff</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext10</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext3</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testNoNewLine1</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext5</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testNoNewLine2</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext1</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffWithNegativeLineCount</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testEmpty1</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext100</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedMasterChangeOtherCommit</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.internal.storage.file.ObjectDirectoryTest.testConcurrentInsertionOfBlobsToTheSameNewFanOutDirectory</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMergesWithUnrelatedSide1</case>
+  </hanging>
+</mutation-execution>

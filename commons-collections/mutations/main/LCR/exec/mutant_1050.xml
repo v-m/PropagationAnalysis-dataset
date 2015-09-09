@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1050" time="93454">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.NodeListIteratorTest.testEmptyIterator</case>
+    <case>org.apache.commons.collections4.iterators.NodeListIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.NodeListIteratorTest.testFullIteratorWithNodeConstructor</case>
+    <case>org.apache.commons.collections4.iterators.NodeListIteratorTest.testEmptyIteratorWithNodeConstructor</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

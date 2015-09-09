@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1287" time="62190">
+  <failing>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyEqualsHashCodeStrict</case>
+    <case>org.joda.time.TestYearMonth_Basics.testProperty</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyEquals</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyEqualsHashCodeStrict</case>
+    <case>org.joda.time.TestMonthDay_Basics.testProperty</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyEquals</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyEqualsHashCodeStrict</case>
+    <case>org.joda.time.TestAbstractPartial.testGetPropertyEquals</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyEquals</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testProperty</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testProperty</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

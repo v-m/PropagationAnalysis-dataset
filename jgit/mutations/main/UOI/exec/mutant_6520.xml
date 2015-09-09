@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6520" time="325571">
+  <failing>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testCreateBranchAtHiddenCommitFails</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPush</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownTreeFails</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSingleRead</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testTrackingUpdate</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testPush</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasCRC32Copy</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaResultSize</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeOffsetsVsRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWriteIndex</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4ThinPack</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjects</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testWriteSingleRef</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushRefUpdate</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack3</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1NoObjectReuse</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWriteEmptyPack1</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseRefs</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testPackWithDuplicateBlob</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeFullBlob</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseOffsets</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackFileTest.testDelta_SmallObjectChain</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaBlock</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWriteEmptyPack2</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushWithoutPushRefSpec</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitHeaderRead</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.test1</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithNestedSubmodules</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testPackWithTrailingGarbage</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.test2</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testTinyThinPack</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushWithRefSpecFromConfig</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testIncrementalBundle</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitObjectRead</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjectsWithBitmaps</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testReceivePackFactory</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

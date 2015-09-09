@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_754" time="59790">
+  <failing>
+    <case>org.apache.shindig.protocol.conversion.BeanFilterTest.testMap</case>
+    <case>org.apache.shindig.protocol.conversion.BeanFilterTest.testSimple</case>
+    <case>org.apache.shindig.protocol.conversion.BeanFilterTest.testNull</case>
+    <case>org.apache.shindig.protocol.conversion.BeanFilterTest.testList</case>
+    <case>org.apache.shindig.protocol.conversion.BeanFilterTest.testString</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

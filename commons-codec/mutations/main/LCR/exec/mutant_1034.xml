@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1034" time="98786">
+  <failing>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testIsInAlphabetByte</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testIsInAlphabetByteArrayBoolean</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testContainsAlphabetOrPad</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testBaseNCodec</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testProvidePaddingByte</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testIsWhiteSpace</case>
+    <case>org.apache.commons.codec.binary.BaseNCodecTest.testIsInAlphabetString</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testBase64</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

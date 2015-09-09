@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_17375" time="214797">
+  <failing>
+    <case>org.joda.time.TestYearMonthDay_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testMinus_RP</case>
+  </failing>
+  <ignored />
+  <hanging>
+    <case>org.joda.time.chrono.TestGJChronology.testSubtractDays</case>
+  </hanging>
+</mutation-execution>

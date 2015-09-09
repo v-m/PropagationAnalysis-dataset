@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10" time="5170">
+  <failing>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty6</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty5</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty4</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty3</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty2</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

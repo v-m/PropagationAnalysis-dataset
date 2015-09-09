@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_507" time="87631">
+  <failing>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetPrefix</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testNormalize</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetFullPath</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testNormalizeNoEndSeparator</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetPath</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetFullPathNoEndSeparator</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetPathNoEndSeparator</case>
+    <case>org.apache.commons.io.FilenameUtilsTestCase.testGetPrefixLength</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

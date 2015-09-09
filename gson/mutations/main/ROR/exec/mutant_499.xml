@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_499" time="58201">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBitSetDeserialization</case>
+  </hanging>
+</mutation-execution>

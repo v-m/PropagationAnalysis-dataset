@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_25111" time="353159">
+  <failing>
+    <case>org.eclipse.jgit.dircache.DirCacheLargePathTest.testPath_4096</case>
+    <case>org.eclipse.jgit.dircache.DirCacheLargePathTest.testPath_16384</case>
+    <case>org.eclipse.jgit.dircache.DirCacheLargePathTest.testPath_4095</case>
+    <case>org.eclipse.jgit.dircache.DirCacheLargePathTest.testPath_4094</case>
+    <case>org.eclipse.jgit.dircache.DirCacheLargePathTest.testPath_4090</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

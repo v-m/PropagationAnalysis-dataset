@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4529" time="63105">
+  <failing>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_roundHalfEven_long</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_roundHalfEven_long</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_roundHalfEven_long</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_roundHalfEven_long</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

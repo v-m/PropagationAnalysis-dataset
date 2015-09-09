@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3412" time="167725">
+  <failing>
+    <case>org.joda.time.tz.TestFixedDateTimeZone.testToTimeZone2</case>
+    <case>org.joda.time.TestDateTimeZone.testTimeZoneConversion</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2156" time="108079">
+  <failing>
+    <case>org.apache.commons.codec.language.RefinedSoundexTest.testDifference</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testDifference</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

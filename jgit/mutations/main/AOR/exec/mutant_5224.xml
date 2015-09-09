@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5224" time="438075">
+  <failing />
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testParseLookupPath</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooFewFiles</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testIncrementalBundle</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooSmallLimit</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_Defaults</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.resolveUpstream</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjectsWithBitmaps</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.resolveExprSimple</case>
+  </hanging>
+</mutation-execution>

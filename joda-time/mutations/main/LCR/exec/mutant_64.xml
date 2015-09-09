@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_64" time="193748">
+  <failing>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI3</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI3</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI_PeriodType4</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI_PeriodType4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22959" time="202488">
+  <failing>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding5</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

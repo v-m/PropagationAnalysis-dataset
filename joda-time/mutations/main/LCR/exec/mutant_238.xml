@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_238" time="202409">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortDate</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDate</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDate</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1253" time="71213">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testNullSerialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonPrimitiveDeserialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testTopLevelNullObjectDeserializationWithReaderAndSerializeNulls</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testTopLevelNullObjectDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonNullDeserialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testTopLevelNullObjectDeserializationWithReader</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientTopLevelValueType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

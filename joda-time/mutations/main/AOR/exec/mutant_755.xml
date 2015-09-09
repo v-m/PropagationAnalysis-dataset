@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_755" time="63452">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraBC_France</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

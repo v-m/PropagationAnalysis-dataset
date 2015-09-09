@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5356" time="308493">
+  <failing>
+    <case>org.eclipse.jgit.transport.PushProcessTest.testUpdateUnexpectedRemoteVsForce</case>
+    <case>org.eclipse.jgit.transport.PushProcessTest.testUpdateUnexpectedRemote</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

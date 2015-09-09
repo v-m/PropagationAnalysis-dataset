@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2148" time="91575">
+  <failing>
+    <case>org.apache.commons.collections4.TransformerUtilsTest.testSwitchMapTransformer</case>
+    <case>org.apache.commons.collections4.TransformerUtilsTest.testSwitchTransformer</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1342" time="62895">
+  <failing>
+    <case>org.joda.time.field.TestPreciseDurationField.test_getMillis_long</case>
+    <case>org.joda.time.field.TestPreciseDurationField.test_add_long_long</case>
+    <case>org.joda.time.field.TestFieldUtils.testSafeMultiplyLongLong</case>
+    <case>org.joda.time.field.TestPreciseDurationField.test_getMillis_long_long</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2836" time="51826">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultCalendarDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultGregorianCalendarDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongs</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionDeepPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

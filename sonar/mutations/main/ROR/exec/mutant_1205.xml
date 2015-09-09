@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1205" time="396267">
+  <failing>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_close_components_without_lifecycle</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_start_and_stop</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.testRemoveChild</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_start_and_stop_hierarchy_of_containers</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_stop_hierarchy_of_containers_on_failure</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_close_components_with_lifecycle</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.should_execute_components</case>
+    <case>org.sonar.core.platform.ComponentContainerTest.stop_exception_should_not_hide_start_exception</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

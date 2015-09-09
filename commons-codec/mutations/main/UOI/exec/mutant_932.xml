@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_932" time="100427">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testleftTorightThenRightToLeft_EINSTEIN_MICHAELA_Returns0</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Forenames_UNA_OONAGH_ShouldSuccessfullyMatchButDoesNot</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_ShortNames_AL_ED_WorksButNoMatch</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Forenames_SEAN_PETE_NoMatchExpected</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testleftTorightThenRightToLeft_ALEXANDER_ALEXANDRA_Returns4</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

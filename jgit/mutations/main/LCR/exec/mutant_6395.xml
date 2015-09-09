@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6395" time="325264">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkCullTest.testProperlyCullAllAncestors2</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkCullTest.testProperlyCullAllAncestors1</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testHardResetAfterSquashMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.lib.BranchTrackingStatusTest.shouldWorkInNormalCase</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSquashMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveReword</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldNotFailIfUserAddCommentLinesInPrepareSteps</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testCommitRange</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSquashMergeConflict</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsCountTest.shouldWorkForNormalCase</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitAfterSquashMerge</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsCountTest.shouldWorkWithMerges</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSquashFastForward</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkCullTest.testProperlyCullAllAncestors_LongHistory</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

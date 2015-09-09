@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1276" time="84592">
+  <failing>
+    <case>org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.testCalculateRawEncodingAdditonalUTF32</case>
+    <case>org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.testCalculateRawEncodingStandardUtf32</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

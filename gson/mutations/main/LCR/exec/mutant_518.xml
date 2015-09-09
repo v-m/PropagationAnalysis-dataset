@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_518" time="50682">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbersFromStrings</case>
+    <case>com.google.gson.JsonStreamParserTest.testNoSideEffectForHasNext</case>
+    <case>com.google.gson.MixedStreamTest.testReadMixedStreamed</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testLenientNansAndInfinities</case>
+    <case>com.google.gson.stream.JsonReaderTest.testReadArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.MixedStreamTest.testReadInvalidState</case>
+    <case>com.google.gson.functional.ObjectTest.testNullObjectFieldsDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testHelloWorld</case>
+    <case>com.google.gson.functional.ObjectTest.testNullArraysDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testArray</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testObject</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionDeserializationNotAlllowed</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testEarlyClose</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientMultipleTopLevelValues</case>
+    <case>com.google.gson.JsonParserTest.testParseEmptyWhitespaceInput</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonExecutePrefixWithLeadingWhitespace</case>
+    <case>com.google.gson.JsonStreamParserTest.testCallingNextBeyondAvailableInput</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionGreaterThanBufferSize</case>
+    <case>com.google.gson.JsonStreamParserTest.testIterator</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStrictNansAndInfinities</case>
+    <case>com.google.gson.functional.ArrayTest.testEmptyArrayDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonFiniteDoubles</case>
+    <case>com.google.gson.JsonStreamParserTest.testParseTwoStrings</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientComments</case>
+    <case>com.google.gson.MixedStreamTest.testReaderDoesNotMutateState</case>
+    <case>com.google.gson.functional.UncategorizedTest.testTrailingWhitespace</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObjectAfterPeek</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbers</case>
+    <case>com.google.gson.stream.JsonReaderTest.testReadObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.CommentsTest.testParseComments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonExecutePrefix</case>
+    <case>com.google.gson.functional.PrimitiveTest.testStringsAsBooleans</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelObject</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

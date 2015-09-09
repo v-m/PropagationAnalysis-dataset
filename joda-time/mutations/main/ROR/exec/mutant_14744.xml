@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14744" time="168437">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone_dstOverlap_NewYork</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone_dstOverlap</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone_dstGap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

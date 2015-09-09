@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_540" time="49320">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testWriteMapsWithEmptyStringKey</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverrideWrapperBooleanAdapter</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveBooleanAutoboxedInASingleElementArraySerialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonWithUnversionedClassesSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomSerializerInvokedForPrimitives</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsSerialization</case>
+    <case>com.google.gson.functional.CollectionTest.testCollectionOfBagOfPrimitivesSerialization</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTreeObjectType</case>
+    <case>com.google.gson.functional.TypeVariableTest.testBasicTypeVariables</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTree</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveBooleanAutoboxedSerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testNestedSerialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersSerialization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubClassSerialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testWriterForSerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitiveWrappersSerialization</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverridePrimitiveBooleanAdapter</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfArraysSerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitivesSerialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1409" time="62422">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithAutoLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortLongDateTime</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testBug2182444_usCentral</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testZoneShortNameNearTransition</case>
+    <case>org.joda.time.TestDateTimeZone.testGetShortName</case>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysSydney</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneLongText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullTime</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testBug2182444_ausNSW</case>
+    <case>org.joda.time.TestDateTimeZone.testGetName</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongName</case>
+    <case>org.joda.time.TestDateTimeZone.testGetOffset_long</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortName</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortFullDateTime</case>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysLondon</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumLongDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithLookup</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumFullDateTime</case>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysGazaHistoric</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testZoneNameNearTransition</case>
+    <case>org.joda.time.TestDateTimeZone.testGetName_berlin</case>
+    <case>org.joda.time.TestDateTimeZone.testGetShortName_berlin</case>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysSydneyHistoric</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1305" time="66480">
+  <failing>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testRestWithInputClassThatIsntRequestItem</case>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testRestPathOrdering</case>
+    <case>org.apache.shindig.protocol.DefaultHandlerRegistryTest.testRestPath</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

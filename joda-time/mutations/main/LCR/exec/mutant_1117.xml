@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1117" time="157562">
+  <failing>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyAddMonth</case>
+    <case>org.joda.time.chrono.TestISOChronology.testAddMonths</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddDay</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddMonth</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

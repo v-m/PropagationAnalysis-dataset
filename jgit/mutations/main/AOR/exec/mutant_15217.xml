@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15217" time="375903">
+  <failing>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreAllWhitespaceTest.testEqualsWithWhitespace</case>
+    <case>org.eclipse.jgit.diff.RawTextTest.testComparatorReduceCommonStartEnd</case>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreWhitespaceChangeTest.testEqualsWithoutWhitespace</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testWhitespaceMerge</case>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreTrailingWhitespaceTest.testEqualsWithoutWhitespace</case>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreWhitespaceChangeTest.testEqualsWithWhitespace</case>
+    <case>org.eclipse.jgit.util.RawCharUtilTest.testTrimTrailingWhitespace</case>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreAllWhitespaceTest.testEqualsWithoutWhitespace</case>
+    <case>org.eclipse.jgit.diff.RawTextIgnoreTrailingWhitespaceTest.testEqualsWithWhitespace</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

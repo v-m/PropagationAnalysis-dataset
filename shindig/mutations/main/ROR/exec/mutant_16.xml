@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16" time="27676">
+  <failing>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.jsonObjectSupport</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.listSupport</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.jsonArraySupport</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.mapSupport</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.arraySupport</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

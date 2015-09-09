@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2672" time="62465">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testStringNullIsNotNull</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMixedCaseLiterals</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientUnnecessaryArraySeparators</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

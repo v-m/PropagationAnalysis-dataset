@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4715" time="168497">
+  <failing>
+    <case>org.joda.time.TestYears.testDividedBy_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

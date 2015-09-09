@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7579" time="328681">
+  <failing>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.lib.ObjectIdSubclassMapTest.testClear</case>
+    <case>org.eclipse.jgit.lib.ObjectIdSubclassMapTest.testAddGrowsWithObjects</case>
+    <case>org.eclipse.jgit.lib.ObjectIdSubclassMapTest.testAddGetAndContains</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownTreeFails</case>
+    <case>org.eclipse.jgit.lib.ObjectIdSubclassMapTest.testAddIfAbsentGrowsWithObjects</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+    <case>org.eclipse.jgit.lib.ObjectIdSubclassMapTest.testAddIfAbsent</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

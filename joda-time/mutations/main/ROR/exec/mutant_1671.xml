@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1671" time="150591">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString1NewYork</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_DateTimeZoneMoscowBadDateTime</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString4</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_Object2_Chronology</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString1Tokyo</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_ChronologyMoscowBadDateTime</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString_DateTimeZoneNewYork</case>
+    <case>org.joda.time.TestYearMonth_Constructors.testConstructor_ObjectString5</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_ChronologyMoscow</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectString1</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectString2</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testConstructor_ObjectString5</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectString3</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString_DateTimeZoneTokyo</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectString4</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_DateTimeZoneMoscow</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString3</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString2</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString_DateTimeZoneLondon</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectString1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

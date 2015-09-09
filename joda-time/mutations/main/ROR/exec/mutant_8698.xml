@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8698" time="169278">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortLowerCase_UK</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningMonthDOW_UK</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetEra</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textHalfdayAM_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_Korean</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningHelloWorld_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textHalfdayAM_France</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraAD_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetEra</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraBC_France</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongLowerCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testParse_textMonthJanLong_UK</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetEra</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLong_France</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France_withSpecifiedDefault</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyGetMonth</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

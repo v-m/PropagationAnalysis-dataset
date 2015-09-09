@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1246" time="109248">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEntrySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testKeySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testMapPut</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1900" time="111153">
+  <failing>
+    <case>org.apache.commons.collections4.SetUtilsTest.testEquals</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8" time="153218">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testContains_RI_null</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_RInterval_zeroDuration</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testContainsNow</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testContains_RI</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_long</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testContains_long</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_RInterval_null</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_RI</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_RI_zeroDuration</case>
+    <case>org.joda.time.TestInterval_Basics.testContains_long_zeroDuration</case>
+    <case>org.joda.time.TestInterval_Basics.testContainsNow</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_38352" time="364167">
+  <failing>
+    <case>org.eclipse.jgit.util.FileUtilTest.testRelativize_scheme</case>
+    <case>org.eclipse.jgit.util.FileUtilTest.testRelativize_whitespaces</case>
+    <case>org.eclipse.jgit.util.FileUtilTest.testRelativize_mixedCase</case>
+    <case>org.eclipse.jgit.util.FileUtilTest.testRelativize_doc</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

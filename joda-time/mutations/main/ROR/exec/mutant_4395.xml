@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4395" time="207869">
+  <failing>
+    <case>org.joda.time.TestDuration_Basics.testToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

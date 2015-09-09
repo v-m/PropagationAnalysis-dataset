@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4021" time="88564">
+  <failing>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testPurgeValues</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

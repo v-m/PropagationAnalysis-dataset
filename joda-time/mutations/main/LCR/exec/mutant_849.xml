@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_849" time="234050">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseStandard1</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseTwoFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

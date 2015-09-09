@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14282" time="284885">
+  <failing>
+    <case>org.eclipse.jgit.util.io.TimeoutInputStreamTest.testTimeout_skip_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutOutputStreamTest.testTimeout_writeByte_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutInputStreamTest.testTimeout_readBuffer_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutInputStreamTest.testTimeout_readByte_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutOutputStreamTest.testTimeout_flush_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutOutputStreamTest.testTimeout_writeBuffer_Timeout</case>
+    <case>org.eclipse.jgit.util.io.TimeoutOutputStreamTest.testTimeout_close_Timeout</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

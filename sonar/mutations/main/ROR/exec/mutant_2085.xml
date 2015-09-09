@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2085" time="280330">
+  <failing>
+    <case>org.sonar.jpa.session.DatabaseSessionTest.testGetSingleResultWithNoResults</case>
+    <case>org.sonar.jpa.session.JpaDatabaseSessionTest.shouldReturnDefaultValue</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

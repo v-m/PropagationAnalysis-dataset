@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2240" time="61677">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetWeekOfWeekyear</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testGetters</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_weekyearOfEra_twoDigit</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMaxMinValuesWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillis_Object</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextWeekOfWeekyear</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGetters</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

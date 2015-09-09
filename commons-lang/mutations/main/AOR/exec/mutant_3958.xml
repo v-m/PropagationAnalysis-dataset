@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3958" time="112860">
+  <failing>
+    <case>org.apache.commons.lang3.HashSetvBitSetTest.testTimesExtractOrBitset</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementsObjectArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementByteArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementDoubleArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementCharArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementFloatArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementLongArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementShortArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementBooleanArray</case>
+    <case>org.apache.commons.lang3.ArrayUtilsRemoveMultipleTest.testRemoveElementIntArray</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

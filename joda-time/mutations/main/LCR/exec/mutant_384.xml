@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_384" time="236557">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_colon_parseZ</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_noColon</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_colon</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmount</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_noColon_parseZ</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmountColon</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

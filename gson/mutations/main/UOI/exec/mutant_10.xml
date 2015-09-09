@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10" time="50160">
+  <failing>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbersFromStrings</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testLenientNansAndInfinities</case>
+    <case>com.google.gson.functional.MapTest.testMapNamePromotionWithJsonElementReader</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStrictNansAndInfinities</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbers</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testWrongType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

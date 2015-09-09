@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_332" time="60683">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testNullSerialization</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitSerializationOfNulls</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testCompactFormattingLeavesNoWhiteSpace</case>
+    <case>com.google.gson.functional.UncategorizedTest.testObjectEqualButNotSameSerialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeNullObject</case>
+    <case>com.google.gson.functional.ArrayTest.testSingleNullInArraySerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsSerialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeRecursive</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testSerializeId</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

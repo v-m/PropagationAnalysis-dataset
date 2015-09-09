@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2490" time="166456">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology7</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthMiddle</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddToCopyDay</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology8</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthStart</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyDay</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddDay</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertySetMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddDayOfMonth</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertySetTextMonthOfYear</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_JustAfterLastEverOverlap</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthEnd</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

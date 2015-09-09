@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2694" time="53900">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonObjectAsDoubleWrapper</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonArrayAsDoublePrimitive</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonObjectAsFloatPrimitive</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonArrayAsFloatWrapper</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

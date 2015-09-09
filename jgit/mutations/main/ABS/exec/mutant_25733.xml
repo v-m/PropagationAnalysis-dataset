@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_25733" time="334369">
+  <failing>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUntrackedNotIgnoredFolders</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_18</case>
+    <case>org.eclipse.jgit.api.ArchiveCommandTest.archiveByDirectoryPath</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_19</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSuccessfulContentMerge</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSingleDeletion</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSuccessfulContentMergeNoCommit</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFullyFannedOut</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeConflictFileFolder</case>
+    <case>org.eclipse.jgit.treewalk.ForPathTest.testFindObjects</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListModificationInDirWithoutModifiedTrees</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeNonVersionedPaths</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListModificationInDirWithModifiedTrees</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSuccessfulContentMergeAndDirtyworkingTree</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testContentMerge</case>
+    <case>org.eclipse.jgit.api.CommitOnlyTest.testOnlyOptionWithDirectory</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_2_36</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_15b</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionAndConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileIncluded</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

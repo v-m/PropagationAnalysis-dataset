@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_277" time="9059">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.getmetadata</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringNullFilterName</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExcludeNullFilterName</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testGetRuleMetadata1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

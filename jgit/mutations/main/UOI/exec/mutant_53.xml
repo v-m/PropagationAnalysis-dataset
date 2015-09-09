@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_53" time="328370">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testRemoveDeletesTreeFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFanout2_38</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveMiddle</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveMakesEmpty</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveLast</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFlat</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testCreateFromEmpty</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testDeleteDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveFirst</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

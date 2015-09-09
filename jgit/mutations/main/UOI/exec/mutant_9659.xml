@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9659" time="333215">
+  <failing>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testCreateFileHeaderForRenameModeChange</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testCreateFileHeaderForRenameWithoutContentChange</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testCreateFileHeaderWithoutIndexLine</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_DiffCc</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_BothISO88591</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_Convert</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

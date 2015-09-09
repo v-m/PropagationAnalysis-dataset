@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5149" time="178185">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusWeeks_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testEpoch</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetYear</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextYear</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_ObjectString6</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_ObjectString7</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_simple</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusYears_int</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusYears_int</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology7</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology8</case>
+    <case>org.joda.time.TestDateTimeComparator.testHour</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetYear</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestDateTimeComparator.testSecond</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusDays_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalTime_simple</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusMilli</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyYear</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestISOChronology.testMinYear</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusWeeks_int</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextYear</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusMinute</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_simple</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestLocalTime_Basics.testWithFieldAdded_DurationFieldType_int_8</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyWithMaximumValueMillisOfDayDSTGap</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyYear</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusDays_int</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusHour</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusSecond</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

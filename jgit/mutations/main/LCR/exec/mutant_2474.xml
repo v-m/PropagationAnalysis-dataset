@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2474" time="348126">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.oneCommit</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_LooseSorting_Bug_348834</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withCommitLoadedByDifferentRevWalk</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testPeelLooseTag</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversDeletedLoose4</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversDeletedLoose1</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withMerge</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testPeelCommit</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.twoCommits</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.multipleBranches</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversNewLoose1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

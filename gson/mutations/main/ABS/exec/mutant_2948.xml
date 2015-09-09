@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2948" time="49427">
+  <failing>
+    <case>com.google.gson.stream.JsonWriterTest.testLongs</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

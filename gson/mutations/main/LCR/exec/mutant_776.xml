@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_776" time="59750">
+  <failing>
+    <case>com.google.gson.JsonPrimitiveTest.testFloatEqualsBigDecimal</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonPrimitiveDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonArrayDeserialization</case>
+    <case>com.google.gson.JsonPrimitiveTest.testFloatEqualsDouble</case>
+    <case>com.google.gson.JsonPrimitiveTest.testEqualsAcrossTypes</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonObjectDeserialization</case>
+    <case>com.google.gson.JsonPrimitiveTest.testDoubleEqualsBigDecimal</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

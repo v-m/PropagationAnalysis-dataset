@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_488" time="89269">
+  <failing>
+    <case>org.apache.commons.collections4.map.ListOrderedMapTest.testNextKey</case>
+    <case>org.apache.commons.collections4.map.ListOrderedMap2Test.testNextKey</case>
+    <case>org.apache.commons.collections4.map.UnmodifiableOrderedMapTest.testNextKey</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

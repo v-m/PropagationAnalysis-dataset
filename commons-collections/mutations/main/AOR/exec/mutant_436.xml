@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_436" time="110668">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRetainAll</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

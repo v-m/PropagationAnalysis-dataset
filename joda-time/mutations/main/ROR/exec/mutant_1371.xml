@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1371" time="507742">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_nullObject_nullDateTimeZone</case>
+    <case>org.joda.time.TestTimeOfDay_Constructors.testConstructor_nullObject_nullChronology</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject_nullDateTimeZone</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_nullObject_Chronology</case>
+    <case>org.joda.time.TestTimeOfDay_Constructors.testConstructor_nullObject_Chronology</case>
+    <case>org.joda.time.TestTimeOfDay_Constructors.testConstructor_nullObject</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_nullObject_nullChronology</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType3</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject_nullChronology</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_nullObject_Chronology</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_nullObject</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_nullObject_Chronology</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType4</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_nullObject_nullChronology</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_Chronology1</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_nullObject_nullChronology</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_Chronology2</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject_DateTimeZone</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_nullObject</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_nullObject_DateTimeZone</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_nullObject_nullDateTimeZone</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_nullObject</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object4</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_nullObject_DateTimeZone</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_nullObject_DateTimeZone</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object3</case>
+    <case>org.joda.time.convert.TestConverterSet.testBigHashtable</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_nullObject_Chronology</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_nullObject_nullDateTimeZone</case>
+  </hanging>
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8024" time="110437">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMap2Test.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.AbstractOrderedBidiMapDecoratorTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.DualHashBidiMapTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMapTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.bidimap.DualLinkedHashBidiMapTest.testEntrySetIteratorRemoveChangesMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

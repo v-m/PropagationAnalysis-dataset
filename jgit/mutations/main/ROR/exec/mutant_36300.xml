@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_36300" time="316075">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testEdits_MatchNone</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRename</case>
+    <case>org.eclipse.jgit.revwalk.TreeRevFilterTest.testPathFilterOrOtherFilter</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter6012Test.test7</case>
+    <case>org.eclipse.jgit.revwalk.TreeRevFilterTest.testStringOfPearls_FilePath3</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter6012Test.test6</case>
+    <case>org.eclipse.jgit.revwalk.TreeRevFilterTest.testStringOfPearls_FilePath1</case>
+    <case>org.eclipse.jgit.revwalk.TreeRevFilterTest.testStringOfPearls_FilePath2</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logPathWithSkip</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFollowFilterTest.testMultiRename</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testRenamedBoundLineDelete</case>
+    <case>org.eclipse.jgit.revwalk.TreeRevFilterTest.testStringOfPearls_DirPath2</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_DirPath2</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFollowFilterTest.testSingleRename</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath3_NoParentRewriting</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testEdits_MatchAll</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath1_NoParentRewriting</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_DirPath2_NoParentRewriting</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logPathWithMaxCount</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testMoveToOtherDir</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath2_NoParentRewriting</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRenameInSubDir</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath1</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath3</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter1Test.testStringOfPearls_FilePath2</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testTwoRenames</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testLogWithFilter</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

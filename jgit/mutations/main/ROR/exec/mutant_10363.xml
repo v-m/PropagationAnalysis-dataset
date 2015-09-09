@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10363" time="345810">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.InflatingBitSetTest.testMaybeContains</case>
+    <case>org.eclipse.jgit.internal.storage.file.InflatingBitSetTest.testContainsMany</case>
+    <case>org.eclipse.jgit.internal.storage.file.InflatingBitSetTest.testContainsOne</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

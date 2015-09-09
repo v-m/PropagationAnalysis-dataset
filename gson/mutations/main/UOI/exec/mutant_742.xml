@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_742" time="49855">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testBooleans</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testDeserializeNullValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testReadArray</case>
+    <case>com.google.gson.functional.ObjectTest.testNullObjectFieldsDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testNullArraysDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testNullPrimitiveFieldsDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPrematureEndOfInput</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientSemicolonDelimitedArray</case>
+    <case>com.google.gson.functional.ArrayTest.testNullsInArrayDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testNullLiteralIsNotAString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testEmptyStringName</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMixedCaseLiterals</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBitSetDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.stream.JsonReaderTest.testNextFailuresDoNotAdvance</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfNullDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullField</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNameValueSeparator</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientSemicolonDelimitedNameValuePair</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testEnsureCustomDeserializerNotInvokedForNullValues</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitDeserializationOfNulls</case>
+    <case>com.google.gson.functional.CollectionTest.testNullsInListDeserialization</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testNullWrappedPrimitiveMemberDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientComments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekingUnquotedStringsPrefixedWithBooleans</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPrematurelyClosed</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitNullSetsFieldToNullDuringDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNulls</case>
+    <case>com.google.gson.functional.ArrayTest.testSingleNullInArrayDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientUnnecessaryArraySeparators</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

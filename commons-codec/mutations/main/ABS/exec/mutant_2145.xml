@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2145" time="106613">
+  <failing>
+    <case>org.apache.commons.codec.language.NysiisTest.testDan</case>
+    <case>org.apache.commons.codec.language.NysiisTest.testCap</case>
+    <case>org.apache.commons.codec.language.NysiisTest.testRule7</case>
+    <case>org.apache.commons.codec.language.NysiisTest.testDropBy</case>
+    <case>org.apache.commons.codec.language.NysiisTest.testSpecialBranches</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

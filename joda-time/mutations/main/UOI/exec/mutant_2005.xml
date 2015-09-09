@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2005" time="61083">
+  <failing>
+    <case>org.joda.time.chrono.TestIslamicChronology.test16BasedLeapYear</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testIndianBasedLeapYear</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testHabashAlHasibBasedLeapYear</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate2</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.test15BasedLeapYear</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testFieldConstructor</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

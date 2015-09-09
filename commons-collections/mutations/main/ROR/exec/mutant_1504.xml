@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1504" time="115360">
+  <failing>
+    <case>org.apache.commons.collections4.ClosureUtilsTest.testSwitchClosure</case>
+    <case>org.apache.commons.collections4.ClosureUtilsTest.testChainedClosure</case>
+    <case>org.apache.commons.collections4.ClosureUtilsTest.testSwitchMapClosure</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

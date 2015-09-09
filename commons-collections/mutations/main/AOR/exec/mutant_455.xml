@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_455" time="110505">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListAddByIndex</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_653" time="49759">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testSortedMap</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekingUnquotedStringsPrefixedWithIntegers</case>
+    <case>com.google.gson.functional.MapTest.testHashMapDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testQuotedNumberWithEscape</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithIntegerKeys</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

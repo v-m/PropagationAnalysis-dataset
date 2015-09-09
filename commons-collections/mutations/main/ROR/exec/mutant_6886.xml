@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6886" time="89229">
+  <failing>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagIterator</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagIteratorRemoveProtectsInvariants</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionIteratorRemove</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

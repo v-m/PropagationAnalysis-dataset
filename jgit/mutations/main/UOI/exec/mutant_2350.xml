@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2350" time="338325">
+  <failing>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDistance_past_root</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDistance</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

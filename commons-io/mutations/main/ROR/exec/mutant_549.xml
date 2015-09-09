@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_549" time="85765">
+  <failing>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMUtf16Be</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMUtf32Be</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testGetBOMFirstThenReadInclude</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testGetBOMFirstThenRead</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMUtf16Le</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMUtf8</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadEmpty</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithMultipleBOM</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadSmall</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithoutBOM</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMUtf32Le</case>
+    <case>org.apache.commons.io.input.BOMInputStreamTest.testReadWithBOMInclude</case>
+    <case>org.apache.commons.io.ByteOrderMarkTestCase.testEquals</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

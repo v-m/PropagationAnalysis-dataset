@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7257" time="109909">
+  <failing>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.test5</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.test7</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.test6</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.testBasicQuoted2</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.test3</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.test2</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.testBasicQuotedTrimmed1</case>
+    <case>org.apache.commons.lang3.text.StrTokenizerTest.testBasicTrimmed2</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

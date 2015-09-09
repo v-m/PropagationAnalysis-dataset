@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_229" time="57494">
+  <failing>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithCustomSerializer</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypesWithCustomDeserializer</case>
+    <case>com.google.gson.GenericArrayTypeTest.testOurTypeFunctionality</case>
+    <case>com.google.gson.functional.CollectionTest.testUserCollectionTypeAdapter</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithNestedWildcards</case>
+    <case>com.google.gson.FieldAttributesTest.testDeclaredTypeAndClass</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorForCollectionType</case>
+    <case>com.google.gson.functional.MapTest.testCustomSerializerForSpecificMapType</case>
+    <case>com.google.gson.ParameterizedTypeTest.testOurTypeFunctionality</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

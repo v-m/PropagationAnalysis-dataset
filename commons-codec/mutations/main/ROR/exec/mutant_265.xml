@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_265" time="106803">
+  <failing>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineTest.testEncode[d'ortley-(ortlaj|ortlej)-(dortlaj|dortlej)-GENERIC-EXACT]</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testCompatibilityWithOriginalVersion</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrGENERIC</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrASHKENAZI</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineTest.testEncode[van helsing-(elSink|elsink|helSink|helsink|helzink|xelsink)-(banhelsink|fanhelsink|fanhelzink|vanhelsink|vanhelzink|vanjelsink)-GENERIC-EXACT]</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrSEPHARDIC</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

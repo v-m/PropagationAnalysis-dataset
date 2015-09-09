@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6954" time="110058">
+  <failing>
+    <case>org.apache.commons.collections4.bag.UnmodifiableBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableSortedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.CollectionSortedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testEqualsNull</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

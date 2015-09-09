@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_331" time="69959">
+  <failing>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testNegativeIndexForRuleMatchIndexOutOfBoundsException</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testLocaleIndependence</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testEncodeAtzNotEmpty</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testSpeedCheck3</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testSpeedCheck2</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrSEPHARDIC</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testAsciiEncodeNotEmpty1Letter</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineTest.testEncode[d'ortley-(ortlaj|ortlej)-(dortlaj|dortlej)-GENERIC-EXACT]</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testOOM</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testLongestEnglishSurname</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testEncodeGna</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testSpeedCheck</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testAllChars</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testCompatibilityWithOriginalVersion</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrGENERIC</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrASHKENAZI</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineTest.testEncode[van helsing-(elSink|elsink|helSink|helsink|helzink|xelsink)-(banhelsink|fanhelsink|fanhelzink|vanhelsink|vanhelzink|vanjelsink)-GENERIC-EXACT]</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEnginePerformanceTest.test</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testEncodeEmpty</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testInvalidLangIllegalArgumentException</case>
+    <case>org.apache.commons.codec.language.bm.BeiderMorseEncoderTest.testAsciiEncodeNotEmpty2Letters</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

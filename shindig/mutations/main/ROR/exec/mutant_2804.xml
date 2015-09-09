@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2804" time="51728">
+  <failing>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testGetJsonResponseErrorWithoutData</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testGetJsonResponseErrorWithData</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testFailedRequest</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testInvalidService</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

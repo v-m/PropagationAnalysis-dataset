@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_90" time="48392">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testNullSerialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultDateDeserializationUsingBuilder</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultDateDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultJavaSqlTimestampDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2430" time="169090">
+  <failing>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_int_int_int_int_int_int_int</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_int_int_int_int_int_int_int</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddToCopyMonth</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_int_int_int_int_int_int_int_DateTimeZone</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_LD_LD_toFeb_endOfMonth3</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Gaza</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_int_int_int_int_int_int_int_DateTimeZone</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_int_int_int</case>
+    <case>org.joda.time.chrono.TestGregorianChronology.testMaximumValue</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Turk</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldMonthOfYear</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth3</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_int_int_int_DateTimeZone</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyGetMaxMinValuesDay</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddMonthOfYear</case>
+    <case>org.joda.time.TestIllegalFieldValueException.testReadablePartialValidate</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddWrapFieldMonth</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_int_int_int_Chronology</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_int_int_int_int_int_int_int</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyMonth</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testConstructor_int_int_int_int_int_int_int_Chronology</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_int_int_int_int_int_int_int_Chronology</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_int_int_int_Chronology</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toMar_endOfMonth1</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyGetMaxMinValuesDay</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Turk</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_LD_LD_toMar_endOfMonth1</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testConstructor_int_int_int</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyGetMaxMinValuesDay</case>
+    <case>org.joda.time.TestYearMonthDay_Constructors.testConstructor_int_int_int_Chronology</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyMonth</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_RI_RI_toFeb_endOfMonth1</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_int_int_int_Chronology</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMonth</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_LD_LD_toFeb_endOfMonth1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_trickyDifferences_LD_LD_toFeb_endOfMonth2</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddMonth</case>
+    <case>org.joda.time.TestYearMonthDay_Constructors.testConstructor_int_int_int</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMaxMinValuesDayOfMonth</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

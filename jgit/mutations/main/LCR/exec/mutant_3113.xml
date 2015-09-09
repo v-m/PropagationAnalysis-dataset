@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3113" time="311653">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testPackCommitsAndLooseOne</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPruneNonReferencedTest.testPackCommitsAndLooseOneWithPruneNow</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjectsWithBitmaps</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcKeepFilesTest.testKeepFiles</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

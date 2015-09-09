@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_128" time="387953">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testNonNotesWithoutNonNoteConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddSameNoteDifferentContent</case>
+    <case>org.eclipse.jgit.api.NotesCommandTest.testAddAndRemoveNote</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWitConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testGetCachedBytes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testNoChange</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testRemoveDeletesTreeFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testBaseEqualsTheirs</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testEditSameNoteDifferentContent</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testWriteUnchangedFlat</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testEditDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testLargeTreesWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFlatTwoNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testWriteUnchangedFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFullyFannedOut</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testEditDeleteConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testOursEqualsTheirs</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testCollapseFanoutAfterMerge</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFlat</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testDeleteDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_2_36</case>
+    <case>org.eclipse.jgit.api.NotesCommandTest.testListNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testBaseEqualsOurs</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testLeafSplitsWhenFull</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

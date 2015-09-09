@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6642" time="409748">
+  <failing>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_GapByOne</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testUntrackedConflicts</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_DetectConflict</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_SkipsSeenSubtree</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+  </hanging>
+</mutation-execution>

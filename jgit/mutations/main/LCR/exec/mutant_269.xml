@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_269" time="667904">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForEditInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldSquashInCaseOfConflict</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiff</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testNoOutputStreamSet</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffModified</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testMergeFirstStopOnLastConflictAndSkip</case>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testDiff</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMergesWithUnrelatedSide1</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffTwoCommits</case>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testSameDiff</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullLocalConflict</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext0</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffWithPrefixes</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseEndsIfLastStepIsEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForRewordInCaseOfConflict</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiff</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiffRootTreeToNull</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffCached</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiffRootNullToTree</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testEmpty1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testNoNewLine1</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testNoNewLine2</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndContinueWithNoDeltaToMaster</case>
+  </hanging>
+</mutation-execution>

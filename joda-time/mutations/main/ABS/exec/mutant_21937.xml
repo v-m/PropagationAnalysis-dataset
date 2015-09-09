@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21937" time="171920">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Basics.testIsEqual_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsAfter_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testCompareTo</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

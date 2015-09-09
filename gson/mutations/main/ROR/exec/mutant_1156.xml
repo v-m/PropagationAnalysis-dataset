@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1156" time="50444">
+  <failing>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassSerializationDoesNotImpactDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategySerializationDoesNotImpactDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassDeserializationDoesNotImpactSerialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategySerializationDoesNotImpactSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

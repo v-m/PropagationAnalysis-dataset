@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15958" time="187873">
+  <failing>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding8</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding1</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding2</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding3</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding4</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding5</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding6</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testRounding7</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

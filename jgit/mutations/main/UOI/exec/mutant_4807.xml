@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4807" time="247428">
+  <failing>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA1</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyE</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA2</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyX</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyY</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyNL1</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA1Sub</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyZ</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

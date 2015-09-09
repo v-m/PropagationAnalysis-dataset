@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_697" time="650491">
+  <failing>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.manual_issue_on_removed_component_be_closed</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.manual_issues_be_resolved_then_closed</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.manual_issue_on_removed_rule_be_closed</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

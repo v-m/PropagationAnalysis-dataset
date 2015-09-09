@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1293" time="65716">
+  <failing>
+    <case>com.google.gson.MixedStreamTest.testReadMixedStreamed</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsInteger</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigIntegerDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongs</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekLongMaxValue</case>
+    <case>com.google.gson.JsonParserTest.testParseString</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsBigDecimal</case>
+    <case>com.google.gson.JsonParserTest.testParseMixedArray</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultCalendarDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullKey</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekLongMinValue</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypesWithCustomDeserializer</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingBigIntegerAsLong</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithWildcardValues</case>
+    <case>com.google.gson.functional.ObjectTest.testJsonInMixedQuotesDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testSmallValueForBigIntegerDeserialization</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonWithUnversionedClassesDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testJsonInSingleQuotesDeserialization</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.ObjectTest.testNestedDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNumberDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+    <case>com.google.gson.functional.PrimitiveTest.testReallyLongValuesDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMaxLongThatWrapsAround</case>
+    <case>com.google.gson.JsonParserTest.testParseReader</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMinLongThatWrapsAround</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionOfBagOfPrimitivesNotAllowed</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultGregorianCalendarDeserialization</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testComplexFieldNameStrategy</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testDeepParameterizedTypeDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitivesDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testPrivateNoArgConstructorDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubClassDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitiveWrappersDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializePrimitiveWrapperAsObjectField</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

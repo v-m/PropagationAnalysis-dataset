@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4352" time="50622">
+  <failing>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithLowerCaseUnderscorePolicyDeserialiation</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithUpperCamelCaseSpacesPolicyDeserialiation</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithLowerCaseDashPolicyDeserialiation</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithUpperCamelCaseSpacesPolicySerialiation</case>
+    <case>com.google.gson.functional.FieldNamingTest.testLowerCaseWithDashes</case>
+    <case>com.google.gson.functional.FieldNamingTest.testLowerCaseWithUnderscores</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithLowerCaseUnderscorePolicySerialization</case>
+    <case>com.google.gson.functional.FieldNamingTest.testUpperCamelCaseWithSpaces</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testGsonWithLowerCaseDashPolicySerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

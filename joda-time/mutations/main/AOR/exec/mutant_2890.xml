@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2890" time="163566">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestDateTimeComparator.testWOW</case>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillis_Object</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2012</case>
+    <case>org.joda.time.TestDateTimeComparator.testListWOW</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_weekyearOfEra_twoDigit</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2010</case>
+    <case>org.joda.time.TestDateTimeComparator.testWOYY</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1873" time="170082">
+  <failing>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5</case>
+    <case>org.joda.time.TestInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

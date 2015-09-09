@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_150" time="84387">
+  <failing>
+    <case>org.apache.commons.io.input.XmlStreamReaderTest.testEncodingAttributeXML</case>
+    <case>org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.testCalculateHttpEncoding</case>
+    <case>org.apache.commons.io.FileUtilsTestCase.testSizeOfDirectory</case>
+    <case>org.apache.commons.io.input.XmlStreamReaderUtilitiesTest.testTextXml</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

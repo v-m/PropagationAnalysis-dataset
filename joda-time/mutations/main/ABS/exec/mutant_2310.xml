@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2310" time="148216">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumLongDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_monthOfYearShortText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumFullDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumShortDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

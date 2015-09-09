@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_136" time="2444">
+  <failing>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.createWithParent</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.changeParent</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

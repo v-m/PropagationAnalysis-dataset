@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation operator-id="ROR" parent="../../../smf.run.xml" name="main" config-file="mutations.xml" time="127999">
+  <class-to-mutate />
+  <mutants>
+    <mutant id="mutant_9" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="obj &gt; null" />
+    <mutant id="mutant_206" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="false" />
+    <mutant id="mutant_327" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="ruleMetadata &lt;= null" />
+    <mutant id="mutant_8" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="obj &lt; null" />
+    <mutant id="mutant_207" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="value &gt; null" />
+    <mutant id="mutant_328" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="ruleMetadata &gt; null" />
+    <mutant id="mutant_208" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="value &lt;= null" />
+    <mutant id="mutant_329" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="ruleNameMap &gt;= null" />
+    <mutant id="mutant_209" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="value &lt; null" />
+    <mutant id="mutant_5" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="(this) != obj" />
+    <mutant id="mutant_202" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="((sourcePd.getReadMethod()) &lt; null)" />
+    <mutant id="mutant_323" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="ruleMetadata &lt; null" />
+    <mutant id="mutant_4" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="false" />
+    <mutant id="mutant_203" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="value != null" />
+    <mutant id="mutant_324" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="ruleMetadata != null" />
+    <mutant id="mutant_7" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="obj &lt;= null" />
+    <mutant id="mutant_204" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="value &gt;= null" />
+    <mutant id="mutant_325" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="true" />
+    <mutant id="mutant_6" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="(this) &lt;= obj" />
+    <mutant id="mutant_205" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.findClazztype2instantiate(java.lang.reflect.Method,java.lang.Object)" from="value == null" to="true" />
+    <mutant id="mutant_326" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="false" />
+    <mutant id="mutant_85" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="(name) &lt; null" />
+    <mutant id="mutant_84" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="(name) &gt;= null" />
+    <mutant id="mutant_87" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="(name) &lt;= null" />
+    <mutant id="mutant_86" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="(name) &gt; null" />
+    <mutant id="mutant_89" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="false" />
+    <mutant id="mutant_88" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="true" />
+    <mutant id="mutant_90" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(name) == null" to="(name) != null" />
+    <mutant id="mutant_92" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="(definition) &lt; null" />
+    <mutant id="mutant_91" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="(definition) != null" />
+    <mutant id="mutant_94" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="false" />
+    <mutant id="mutant_93" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="true" />
+    <mutant id="mutant_1" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="(this) &lt; obj" />
+    <mutant id="mutant_0" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="(this) &gt; obj" />
+    <mutant id="mutant_320" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="ruleList &lt; null" />
+    <mutant id="mutant_3" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="true" />
+    <mutant id="mutant_200" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="false" />
+    <mutant id="mutant_321" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="ruleList != null" />
+    <mutant id="mutant_2" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(this) == obj" to="(this) &gt;= obj" />
+    <mutant id="mutant_201" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="((sourcePd.getReadMethod()) &lt;= null)" />
+    <mutant id="mutant_322" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadata == null" to="ruleMetadata &gt;= null" />
+    <mutant id="mutant_217" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="i != length" />
+    <mutant id="mutant_338" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="processing &lt; null" />
+    <mutant id="mutant_218" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="i == length" />
+    <mutant id="mutant_339" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="processing &gt; null" />
+    <mutant id="mutant_219" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="i &gt;= length" />
+    <mutant id="mutant_213" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="false" />
+    <mutant id="mutant_334" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="ruleNameMap &lt; null" />
+    <mutant id="mutant_214" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="value &gt; null" />
+    <mutant id="mutant_335" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="ruleNameMap != null" />
+    <mutant id="mutant_215" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="value &lt;= null" />
+    <mutant id="mutant_336" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="processing &lt;= null" />
+    <mutant id="mutant_216" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="value &lt; null" />
+    <mutant id="mutant_337" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="processing != null" />
+    <mutant id="mutant_74" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="false" />
+    <mutant id="mutant_73" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="true" />
+    <mutant id="mutant_76" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="childDest &gt; null" />
+    <mutant id="mutant_75" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="childDest &lt;= null" />
+    <mutant id="mutant_78" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="(childMap) &lt;= null" />
+    <mutant id="mutant_77" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="(childMap) &gt; null" />
+    <mutant id="mutant_79" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="true" />
+    <mutant id="mutant_81" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="(childMap) &gt;= null" />
+    <mutant id="mutant_80" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="false" />
+    <mutant id="mutant_83" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="(childMap) != null" />
+    <mutant id="mutant_82" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(childMap) == null" to="(childMap) &lt; null" />
+    <mutant id="mutant_330" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="ruleNameMap &gt; null" />
+    <mutant id="mutant_210" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="value != null" />
+    <mutant id="mutant_331" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="true" />
+    <mutant id="mutant_211" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="value &gt;= null" />
+    <mutant id="mutant_332" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="false" />
+    <mutant id="mutant_212" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyComplexProperty(com.github.sworm.spojo.data.Property,java.lang.reflect.Method,java.lang.Object,boolean)" from="value == null" to="true" />
+    <mutant id="mutant_333" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleNameMap == null" to="ruleNameMap &lt;= null" />
+    <mutant id="mutant_107" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="childProperty &lt;= null" />
+    <mutant id="mutant_228" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="property &lt;= null" />
+    <mutant id="mutant_349" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="ruleMetadataToExtend &lt; null" />
+    <mutant id="mutant_108" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="childProperty &gt; null" />
+    <mutant id="mutant_229" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="property &lt; null" />
+    <mutant id="mutant_109" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="true" />
+    <mutant id="mutant_103" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="true" />
+    <mutant id="mutant_224" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="property &gt;= null" />
+    <mutant id="mutant_345" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="false" />
+    <mutant id="mutant_104" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="false" />
+    <mutant id="mutant_225" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="property &gt; null" />
+    <mutant id="mutant_346" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="ruleMetadataToExtend &gt; null" />
+    <mutant id="mutant_105" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="childProperty &lt; null" />
+    <mutant id="mutant_226" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="true" />
+    <mutant id="mutant_347" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="ruleMetadataToExtend &gt;= null" />
+    <mutant id="mutant_106" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="childProperty &gt;= null" />
+    <mutant id="mutant_227" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="false" />
+    <mutant id="mutant_348" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="ruleMetadataToExtend &lt;= null" />
+    <mutant id="mutant_220" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="true" />
+    <mutant id="mutant_341" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="false" />
+    <mutant id="mutant_100" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="(getParent()) &gt; null" />
+    <mutant id="mutant_221" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="false" />
+    <mutant id="mutant_342" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="processing &gt;= null" />
+    <mutant id="mutant_101" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="(getParent()) &lt;= null" />
+    <mutant id="mutant_222" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="i &lt;= length" />
+    <mutant id="mutant_343" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="ruleMetadataToExtend != null" />
+    <mutant id="mutant_102" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="(getParent()) &lt; null" />
+    <mutant id="mutant_223" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesArray(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property,boolean)" from="i &lt; length" to="i &gt; length" />
+    <mutant id="mutant_344" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="ruleMetadataToExtend == null" to="true" />
+    <mutant id="mutant_340" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="processing == null" to="true" />
+    <mutant id="mutant_118" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="currentProp &lt;= null" />
+    <mutant id="mutant_239" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="(property &gt; null)" />
+    <mutant id="mutant_119" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="(currentProp.getParent()) != (this)" />
+    <mutant id="mutant_114" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="true" />
+    <mutant id="mutant_235" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="false" />
+    <mutant id="mutant_356" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="(ruleMetadata.getType()) &gt; (ruleMetadataToExtend.getType())" />
+    <mutant id="mutant_115" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="false" />
+    <mutant id="mutant_236" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="(innerProperty &gt; null)" />
+    <mutant id="mutant_357" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="ruleNameMap &gt;= null" />
+    <mutant id="mutant_116" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="currentProp &lt; null" />
+    <mutant id="mutant_237" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="(innerProperty &lt; null)" />
+    <mutant id="mutant_358" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="ruleNameMap &gt; null" />
+    <mutant id="mutant_117" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="currentProp &gt; null" />
+    <mutant id="mutant_238" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="(property &gt;= null)" />
+    <mutant id="mutant_359" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="true" />
+    <mutant id="mutant_96" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="(definition) &gt; null" />
+    <mutant id="mutant_95" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="(definition) &gt;= null" />
+    <mutant id="mutant_98" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="(getParent()) == null" />
+    <mutant id="mutant_97" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hashCode()" from="(definition) == null" to="(definition) &lt;= null" />
+    <mutant id="mutant_99" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.getCanonicalName()" from="(getParent()) != null" to="(getParent()) &gt;= null" />
+    <mutant id="mutant_110" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="false" />
+    <mutant id="mutant_231" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="(innerProperty &lt;= null)" />
+    <mutant id="mutant_352" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="true" />
+    <mutant id="mutant_111" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.createPropertyHierachy(java.lang.String)" from="childProperty == null" to="childProperty != null" />
+    <mutant id="mutant_232" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="(innerProperty &gt;= null)" />
+    <mutant id="mutant_353" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="false" />
+    <mutant id="mutant_112" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="currentProp &gt;= null" />
+    <mutant id="mutant_233" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="(innerProperty != null)" />
+    <mutant id="mutant_354" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="(ruleMetadata.getType()) &lt; (ruleMetadataToExtend.getType())" />
+    <mutant id="mutant_113" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="currentProp != null" to="currentProp == null" />
+    <mutant id="mutant_234" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(innerProperty == null)" to="true" />
+    <mutant id="mutant_355" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="(ruleMetadata.getType()) &lt;= (ruleMetadataToExtend.getType())" />
+    <mutant id="mutant_350" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="(ruleMetadata.getType()) != (ruleMetadataToExtend.getType())" />
+    <mutant id="mutant_230" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithExclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="property == null" to="property != null" />
+    <mutant id="mutant_351" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.iterateExtendsFrom(com.github.sworm.spojo.config.RuleMetadata,java.util.Map,java.util.Set)" from="(ruleMetadata.getType()) == (ruleMetadataToExtend.getType())" to="(ruleMetadata.getType()) &gt;= (ruleMetadataToExtend.getType())" />
+    <mutant id="mutant_129" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="(this.parent) != parent" />
+    <mutant id="mutant_125" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="(currentProp.getParent()) &gt; (this)" />
+    <mutant id="mutant_246" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="((extendsFrom) &lt; null)" />
+    <mutant id="mutant_367" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="true" />
+    <mutant id="mutant_126" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="(this.parent) &gt;= parent" />
+    <mutant id="mutant_247" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="((extendsFrom) &gt;= null)" />
+    <mutant id="mutant_368" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="false" />
+    <mutant id="mutant_127" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="(this.parent) &lt;= parent" />
+    <mutant id="mutant_248" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="((extendsFrom) &gt; null)" />
+    <mutant id="mutant_369" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="ruleMetadata &lt;= null" />
+    <mutant id="mutant_128" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="(this.parent) &gt; parent" />
+    <mutant id="mutant_249" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="((extendsFrom) &lt;= null)" />
+    <mutant id="mutant_121" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="true" />
+    <mutant id="mutant_242" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="(property &lt;= null)" />
+    <mutant id="mutant_363" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="ruleNameMap &lt; null" />
+    <mutant id="mutant_122" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="false" />
+    <mutant id="mutant_243" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="(property == null)" />
+    <mutant id="mutant_364" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="ruleMetadata &gt;= null" />
+    <mutant id="mutant_123" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="(currentProp.getParent()) &gt;= (this)" />
+    <mutant id="mutant_244" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="(property &lt; null)" />
+    <mutant id="mutant_365" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="ruleMetadata &lt; null" />
+    <mutant id="mutant_124" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="(currentProp.getParent()) &lt; (this)" />
+    <mutant id="mutant_245" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="((extendsFrom) == null)" />
+    <mutant id="mutant_366" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="ruleMetadata != null" />
+    <mutant id="mutant_360" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="false" />
+    <mutant id="mutant_240" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="true" />
+    <mutant id="mutant_361" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="ruleNameMap &lt;= null" />
+    <mutant id="mutant_120" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.removeProperty(com.github.sworm.spojo.data.Property)" from="(currentProp.getParent()) == (this)" to="(currentProp.getParent()) &lt;= (this)" />
+    <mutant id="mutant_241" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.copyPropertiesWithInclude(java.lang.Object,java.lang.Object,com.github.sworm.spojo.data.Property)" from="(property != null)" to="false" />
+    <mutant id="mutant_362" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleNameMap != null" to="ruleNameMap == null" />
+    <mutant id="mutant_136" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="false" />
+    <mutant id="mutant_257" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="array &gt;= null" />
+    <mutant id="mutant_378" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="(source == null)" />
+    <mutant id="mutant_137" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="(this.parent) &gt;= null" />
+    <mutant id="mutant_258" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="array == null" />
+    <mutant id="mutant_379" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="(source &lt; null)" />
+    <mutant id="mutant_138" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="(this.parent) &gt; null" />
+    <mutant id="mutant_259" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="element &gt; null" />
+    <mutant id="mutant_139" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="(this.parent) &lt;= null" />
+    <mutant id="mutant_132" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="(this.parent) &lt; parent" />
+    <mutant id="mutant_253" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="array &lt;= null" />
+    <mutant id="mutant_374" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="false" />
+    <mutant id="mutant_133" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="(this.parent) == null" />
+    <mutant id="mutant_254" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="array &lt; null" />
+    <mutant id="mutant_375" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="ruleMapByName &lt; null" />
+    <mutant id="mutant_134" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="(this.parent) &lt; null" />
+    <mutant id="mutant_255" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="true" />
+    <mutant id="mutant_376" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="ruleMapByName &gt; null" />
+    <mutant id="mutant_135" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) != null" to="true" />
+    <mutant id="mutant_256" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="false" />
+    <mutant id="mutant_377" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="ruleMapByName &lt;= null" />
+    <mutant id="mutant_370" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.processExtendedRules(java.util.Map)" from="ruleMetadata == null" to="ruleMetadata &gt; null" />
+    <mutant id="mutant_250" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="true" />
+    <mutant id="mutant_371" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="ruleMapByName != null" />
+    <mutant id="mutant_130" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="true" />
+    <mutant id="mutant_251" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.hasInheritance()" from="((extendsFrom) != null)" to="false" />
+    <mutant id="mutant_372" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="ruleMapByName &gt;= null" />
+    <mutant id="mutant_131" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="(this.parent) == parent" to="false" />
+    <mutant id="mutant_252" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="array != null" to="array &gt; null" />
+    <mutant id="mutant_373" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.setRuleMapByName(java.util.Map)" from="ruleMapByName == null" to="true" />
+    <mutant id="mutant_147" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="typeFilter == null" />
+    <mutant id="mutant_268" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="ruleMetadata &lt; null" />
+    <mutant id="mutant_389" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="false" />
+    <mutant id="mutant_148" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="typeFilter &lt; null" />
+    <mutant id="mutant_269" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="true" />
+    <mutant id="mutant_149" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="typeFilter &gt;= null" />
+    <mutant id="mutant_380" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="(source &gt;= null)" />
+    <mutant id="mutant_143" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="false" />
+    <mutant id="mutant_264" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="element &lt; null" />
+    <mutant id="mutant_385" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="(target &gt; null)" />
+    <mutant id="mutant_144" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="currParent &lt; null" />
+    <mutant id="mutant_265" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="element != null" />
+    <mutant id="mutant_386" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="(target == null)" />
+    <mutant id="mutant_145" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="currParent == null" />
+    <mutant id="mutant_266" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="ruleMetadata &gt;= null" />
+    <mutant id="mutant_387" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="(target &lt; null)" />
+    <mutant id="mutant_146" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="currParent &gt;= null" />
+    <mutant id="mutant_267" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="ruleMetadata == null" />
+    <mutant id="mutant_388" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="true" />
+    <mutant id="mutant_260" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="element &gt;= null" />
+    <mutant id="mutant_381" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="(source &lt;= null)" />
+    <mutant id="mutant_140" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="currParent &lt;= null" />
+    <mutant id="mutant_261" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="element &lt;= null" />
+    <mutant id="mutant_382" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="(source &gt; null)" />
+    <mutant id="mutant_141" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="currParent &gt; null" />
+    <mutant id="mutant_262" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="true" />
+    <mutant id="mutant_383" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="true" />
+    <mutant id="mutant_142" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.setParent(com.github.sworm.spojo.data.Property)" from="currParent != null" to="true" />
+    <mutant id="mutant_263" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.makeFilteredCollection(java.lang.String[],java.lang.String)" from="element == null" to="false" />
+    <mutant id="mutant_384" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(source != null)" to="false" />
+    <mutant id="mutant_158" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="(spojoConfiguration) != null" />
+    <mutant id="mutant_279" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="ruleMetadata &gt; null" />
+    <mutant id="mutant_159" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="(spojoConfiguration) &gt; null" />
+    <mutant id="mutant_390" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="(target &lt;= null)" />
+    <mutant id="mutant_270" viable="true" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="false" />
+    <mutant id="mutant_391" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="(target != null)" to="(target &gt;= null)" />
+    <mutant id="mutant_154" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="(spojoConfiguration) &gt;= null" />
+    <mutant id="mutant_275" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="ruleMetadata != null" />
+    <mutant id="mutant_396" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="clazz &gt; null" />
+    <mutant id="mutant_155" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="(spojoConfiguration) &lt;= null" />
+    <mutant id="mutant_276" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="true" />
+    <mutant id="mutant_397" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="clazz &lt;= null" />
+    <mutant id="mutant_156" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="true" />
+    <mutant id="mutant_277" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="false" />
+    <mutant id="mutant_398" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="clazz &lt; null" />
+    <mutant id="mutant_157" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="false" />
+    <mutant id="mutant_278" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="ruleMetadata &lt;= null" />
+    <mutant id="mutant_399" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="source == null" />
+    <mutant id="mutant_150" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="typeFilter &lt;= null" />
+    <mutant id="mutant_271" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="ruleMetadata &lt;= null" />
+    <mutant id="mutant_392" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="clazz != null" />
+    <mutant id="mutant_151" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="typeFilter &gt; null" />
+    <mutant id="mutant_272" viable="false" in="com.github.sworm.spojo.config.RuleMetadataImpl.extendFromMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata != null" to="ruleMetadata &gt; null" />
+    <mutant id="mutant_393" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="true" />
+    <mutant id="mutant_152" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="true" />
+    <mutant id="mutant_273" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="ruleMetadata &gt;= null" />
+    <mutant id="mutant_394" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="false" />
+    <mutant id="mutant_153" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.matchesBasicFilter(org.springframework.core.type.classreading.MetadataReader,org.springframework.core.type.classreading.MetadataReaderFactory,org.springframework.core.type.filter.TypeFilter[])" from="typeFilter != null" to="false" />
+    <mutant id="mutant_274" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.getRuleMetadata(java.lang.String)" from="ruleMetadata == null" to="ruleMetadata &lt; null" />
+    <mutant id="mutant_395" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,E,java.lang.String)" from="clazz == null" to="clazz &gt;= null" />
+    <mutant id="mutant_169" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="true" />
+    <mutant id="mutant_280" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="ruleMetadata &gt;= null" />
+    <mutant id="mutant_160" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.getSpojoConfiguration()" from="(spojoConfiguration) == null" to="(spojoConfiguration) &lt; null" />
+    <mutant id="mutant_281" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="ruleMetadata &lt; null" />
+    <mutant id="mutant_165" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="(packagesToScan) &lt;= null" />
+    <mutant id="mutant_286" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="ruleMetadata &gt; null" />
+    <mutant id="mutant_166" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="(packagesToScan) &gt;= null" />
+    <mutant id="mutant_287" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="ruleMetadataList != null" />
+    <mutant id="mutant_167" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="(packagesToScan) &gt; null" />
+    <mutant id="mutant_288" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="ruleMetadataList &gt; null" />
+    <mutant id="mutant_168" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="(actualClass == null)" />
+    <mutant id="mutant_289" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="true" />
+    <mutant id="mutant_161" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="true" />
+    <mutant id="mutant_282" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="ruleMetadata != null" />
+    <mutant id="mutant_162" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="false" />
+    <mutant id="mutant_283" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="true" />
+    <mutant id="mutant_163" viable="true" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="(packagesToScan) == null" />
+    <mutant id="mutant_284" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="false" />
+    <mutant id="mutant_164" viable="false" in="com.github.sworm.spojo.factories.impl.AnnotationLoaderFactoryBean.scanPackages()" from="(packagesToScan) != null" to="(packagesToScan) &lt; null" />
+    <mutant id="mutant_285" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(com.github.sworm.spojo.config.RuleMetadata)" from="ruleMetadata == null" to="ruleMetadata &lt;= null" />
+    <mutant id="mutant_290" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="false" />
+    <mutant id="mutant_170" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="false" />
+    <mutant id="mutant_291" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="ruleMetadataList &gt;= null" />
+    <mutant id="mutant_171" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="(actualClass &gt;= null)" />
+    <mutant id="mutant_292" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="ruleMetadataList &lt;= null" />
+    <mutant id="mutant_176" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="false" />
+    <mutant id="mutant_297" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="clazz &gt;= null" />
+    <mutant id="mutant_177" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="(targetPd.getWriteMethod()) &gt;= null" />
+    <mutant id="mutant_298" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="clazz &gt; null" />
+    <mutant id="mutant_178" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="(targetPd.getWriteMethod()) == null" />
+    <mutant id="mutant_299" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="clazz &lt;= null" />
+    <mutant id="mutant_179" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="(targetPd.getWriteMethod()) &lt; null" />
+    <mutant id="mutant_172" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="(actualClass &lt; null)" />
+    <mutant id="mutant_293" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRuleMetadata(java.util.List)" from="ruleMetadataList == null" to="ruleMetadataList &lt; null" />
+    <mutant id="mutant_173" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="(actualClass &lt;= null)" />
+    <mutant id="mutant_294" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="clazz != null" />
+    <mutant id="mutant_174" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.deriveClassFromSource(T)" from="(actualClass != null)" to="(actualClass &gt; null)" />
+    <mutant id="mutant_295" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="true" />
+    <mutant id="mutant_175" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="true" />
+    <mutant id="mutant_296" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="false" />
+    <mutant id="mutant_27" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="(other.getName()) &gt; null" />
+    <mutant id="mutant_26" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="(other.getName()) &gt;= null" />
+    <mutant id="mutant_29" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="(definition) &lt; null" />
+    <mutant id="mutant_28" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="(definition) != null" />
+    <mutant id="mutant_21" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="(other.getName()) &lt; null" />
+    <mutant id="mutant_20" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="(name) != null" />
+    <mutant id="mutant_23" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="true" />
+    <mutant id="mutant_22" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="(other.getName()) == null" />
+    <mutant id="mutant_25" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="(other.getName()) &lt;= null" />
+    <mutant id="mutant_24" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getName()) != null" to="false" />
+    <mutant id="mutant_180" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="(targetPd.getWriteMethod()) &lt;= null" />
+    <mutant id="mutant_181" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.hasWritableMethod(java.beans.PropertyDescriptor)" from="(targetPd.getWriteMethod()) != null" to="(targetPd.getWriteMethod()) &gt; null" />
+    <mutant id="mutant_182" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="value != null" />
+    <mutant id="mutant_187" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="value &lt;= null" />
+    <mutant id="mutant_188" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="value &lt; null" />
+    <mutant id="mutant_189" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="(sourcePd == null)" />
+    <mutant id="mutant_183" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="value &gt;= null" />
+    <mutant id="mutant_184" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="true" />
+    <mutant id="mutant_185" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="false" />
+    <mutant id="mutant_186" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isImmutable(java.lang.Object)" from="value == null" to="value &gt; null" />
+    <mutant id="mutant_16" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="(name) &gt; null" />
+    <mutant id="mutant_15" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="(name) &lt; null" />
+    <mutant id="mutant_18" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="true" />
+    <mutant id="mutant_17" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="(name) &lt;= null" />
+    <mutant id="mutant_19" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="false" />
+    <mutant id="mutant_10" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="true" />
+    <mutant id="mutant_12" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="obj != null" />
+    <mutant id="mutant_11" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="false" />
+    <mutant id="mutant_14" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(name) == null" to="(name) &gt;= null" />
+    <mutant id="mutant_13" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="obj == null" to="obj &gt;= null" />
+    <mutant id="mutant_190" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="(sourcePd &lt;= null)" />
+    <mutant id="mutant_191" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="true" />
+    <mutant id="mutant_192" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="false" />
+    <mutant id="mutant_193" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="(sourcePd &lt; null)" />
+    <mutant id="mutant_198" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="((sourcePd.getReadMethod()) &gt;= null)" />
+    <mutant id="mutant_199" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="true" />
+    <mutant id="mutant_194" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="(sourcePd &gt;= null)" />
+    <mutant id="mutant_195" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="(sourcePd != null)" to="(sourcePd &gt; null)" />
+    <mutant id="mutant_196" viable="false" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="((sourcePd.getReadMethod()) &gt; null)" />
+    <mutant id="mutant_197" viable="true" in="com.github.sworm.spojo.utils.SpojoUtils.isPropertyCopyable(java.beans.PropertyDescriptor,java.lang.String)" from="((sourcePd.getReadMethod()) != null)" to="((sourcePd.getReadMethod()) == null)" />
+    <mutant id="mutant_49" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="(other.childMap) &gt; null" />
+    <mutant id="mutant_48" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="(childMap) &lt; null" />
+    <mutant id="mutant_41" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="(other.getDefinition()) &lt; null" />
+    <mutant id="mutant_40" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="(other.getDefinition()) &lt;= null" />
+    <mutant id="mutant_43" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="(childMap) &lt;= null" />
+    <mutant id="mutant_42" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="(childMap) &gt; null" />
+    <mutant id="mutant_45" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="false" />
+    <mutant id="mutant_44" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="true" />
+    <mutant id="mutant_47" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="(childMap) == null" />
+    <mutant id="mutant_46" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(childMap) != null" to="(childMap) &gt;= null" />
+    <mutant id="mutant_50" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="(other.childMap) &lt;= null" />
+    <mutant id="mutant_38" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="false" />
+    <mutant id="mutant_37" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="true" />
+    <mutant id="mutant_39" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="(other.getDefinition()) &gt;= null" />
+    <mutant id="mutant_30" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="true" />
+    <mutant id="mutant_32" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="(definition) &gt;= null" />
+    <mutant id="mutant_31" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="false" />
+    <mutant id="mutant_34" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="(definition) &lt;= null" />
+    <mutant id="mutant_33" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(definition) == null" to="(definition) &gt; null" />
+    <mutant id="mutant_36" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="(other.getDefinition()) == null" />
+    <mutant id="mutant_35" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.getDefinition()) != null" to="(other.getDefinition()) &gt; null" />
+    <mutant id="mutant_63" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="propertyExpressionCollection == null" />
+    <mutant id="mutant_62" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="false" />
+    <mutant id="mutant_65" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="false" />
+    <mutant id="mutant_64" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="true" />
+    <mutant id="mutant_67" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="propertyExpressionCollection &gt; null" />
+    <mutant id="mutant_66" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="propertyExpressionCollection &gt;= null" />
+    <mutant id="mutant_69" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="propertyExpressionCollection &lt; null" />
+    <mutant id="mutant_68" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.add(java.util.Collection)" from="propertyExpressionCollection != null" to="propertyExpressionCollection &lt;= null" />
+    <mutant id="mutant_70" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="childDest &lt; null" />
+    <mutant id="mutant_72" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="childDest != null" />
+    <mutant id="mutant_71" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.merge(com.github.sworm.spojo.data.Property)" from="childDest == null" to="childDest &gt;= null" />
+    <mutant id="mutant_59" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="(getParent()) &lt;= null" />
+    <mutant id="mutant_52" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="false" />
+    <mutant id="mutant_51" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="true" />
+    <mutant id="mutant_54" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="(other.childMap) &lt; null" />
+    <mutant id="mutant_53" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="(other.childMap) &gt;= null" />
+    <mutant id="mutant_56" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="(getParent()) == null" />
+    <mutant id="mutant_55" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.equals(java.lang.Object)" from="(other.childMap) == null" to="(other.childMap) != null" />
+    <mutant id="mutant_58" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="(getParent()) &gt; null" />
+    <mutant id="mutant_57" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="(getParent()) &gt;= null" />
+    <mutant id="mutant_61" viable="true" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="true" />
+    <mutant id="mutant_60" viable="false" in="com.github.sworm.spojo.data.AbstractProperty.hasParent()" from="(getParent()) != null" to="(getParent()) &lt; null" />
+    <mutant id="mutant_404" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="true" />
+    <mutant id="mutant_405" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="false" />
+    <mutant id="mutant_406" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="clazz != null" />
+    <mutant id="mutant_407" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="true" />
+    <mutant id="mutant_400" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="source &lt; null" />
+    <mutant id="mutant_401" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="source &gt;= null" />
+    <mutant id="mutant_402" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="source &lt;= null" />
+    <mutant id="mutant_403" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="source != null" to="source &gt; null" />
+    <mutant id="mutant_408" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="false" />
+    <mutant id="mutant_409" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="clazz &gt;= null" />
+    <mutant id="mutant_415" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="true" />
+    <mutant id="mutant_416" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="false" />
+    <mutant id="mutant_417" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="target &lt;= null" />
+    <mutant id="mutant_418" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="target &gt;= null" />
+    <mutant id="mutant_411" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="clazz &lt;= null" />
+    <mutant id="mutant_412" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="clazz &lt; null" />
+    <mutant id="mutant_413" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="target &lt; null" />
+    <mutant id="mutant_414" viable="true" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="target != null" />
+    <mutant id="mutant_419" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="target == null" to="target &gt; null" />
+    <mutant id="mutant_410" viable="false" in="com.github.sworm.spojo.Spojo.shrink(T,java.lang.String)" from="clazz == null" to="clazz &gt; null" />
+    <mutant id="mutant_305" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="false" />
+    <mutant id="mutant_426" viable="true" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="false" />
+    <mutant id="mutant_306" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="(ruleList &lt; null)" />
+    <mutant id="mutant_307" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="(ruleList == null)" />
+    <mutant id="mutant_308" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="counter &gt; 0" />
+    <mutant id="mutant_301" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="(ruleList &lt;= null)" />
+    <mutant id="mutant_422" viable="false" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="(getConfiguration()) &gt; null" />
+    <mutant id="mutant_302" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="(ruleList &gt;= null)" />
+    <mutant id="mutant_423" viable="false" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="(getConfiguration()) &lt;= null" />
+    <mutant id="mutant_303" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="(ruleList &gt; null)" />
+    <mutant id="mutant_424" viable="true" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="(getConfiguration()) != null" />
+    <mutant id="mutant_304" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="(ruleList != null)" to="true" />
+    <mutant id="mutant_425" viable="true" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="true" />
+    <mutant id="mutant_309" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="counter != 0" />
+    <mutant id="mutant_420" viable="false" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="(getConfiguration()) &gt;= null" />
+    <mutant id="mutant_300" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="clazz == null" to="clazz &lt; null" />
+    <mutant id="mutant_421" viable="false" in="com.github.sworm.spojo.Spojo.checkConfiguration()" from="(getConfiguration()) == null" to="(getConfiguration()) &lt; null" />
+    <mutant id="mutant_316" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="ruleList &gt;= null" />
+    <mutant id="mutant_317" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="ruleList &gt; null" />
+    <mutant id="mutant_318" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="true" />
+    <mutant id="mutant_319" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="false" />
+    <mutant id="mutant_312" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="true" />
+    <mutant id="mutant_313" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="false" />
+    <mutant id="mutant_314" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="counter &gt;= 0" />
+    <mutant id="mutant_315" viable="false" in="com.github.sworm.spojo.config.SpojoConfiguration.addRule(java.util.List)" from="ruleList == null" to="ruleList &lt;= null" />
+    <mutant id="mutant_310" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="counter &lt;= 0" />
+    <mutant id="mutant_311" viable="true" in="com.github.sworm.spojo.config.SpojoConfiguration.addClass(java.lang.Class)" from="counter == 0" to="counter &lt; 0" />
+  </mutants>
+</mutation>

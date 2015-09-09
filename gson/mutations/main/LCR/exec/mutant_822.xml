@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_822" time="49014">
+  <failing>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testDeserializeId</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testSerializeId</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

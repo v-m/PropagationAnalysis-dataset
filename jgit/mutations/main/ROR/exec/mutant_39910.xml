@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_39910" time="316290">
+  <failing>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testWrap</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_Mixed</case>
+    <case>org.eclipse.jgit.util.RefMapTest.testMerge_WithPrefix</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPackRefsTest.concurrentOnlyOneWritesPackedRefs</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testOpen</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.annotatedTags</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testListAllTagsInRepositoryInOrder</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.simpleAncestor</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testListBranchesWithContains</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testDeleteFullName</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_TagsOnly_AllPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversNewLoose2</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranch</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.nameExact</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_TagsOnly_AllLoose</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testRenameRemoteTrackingBranch</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.onePathMergeSecondParent</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryOnlyOneBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_LooseOverridesPacked</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.multiplePathsSecondParent</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversDeletedLoose4</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_SymrefToPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_AllPacked1</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPackRefsTest.looseRefPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_AllLoose</case>
+    <case>org.eclipse.jgit.util.RefMapTest.testToString_WithPrefix</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.onePathMergeLongerFirstParentPath</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepository</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testDelete</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testCreateAndList</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.multiplePathsNoMerge</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRemoteBranch</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.prefix</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.onePathMerge</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPackRefsTest.whileRefLockedRefNotPackedNoError</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2180" time="83566">
+  <failing>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToNegative</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testCalendar</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testEpoch</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusYears_int</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusYears_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive</case>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillis_Object_Chronology</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.chrono.TestGJChronology.testIllegalDates</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testEpoch</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestIllegalFieldValueException.testGJCutover</case>
+    <case>org.joda.time.TestDateTimeUtils.test_julianDay</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddDays</case>
+    <case>org.joda.time.chrono.TestGJChronology.testLeapYearRulesConstruction</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToZero</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusYears_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

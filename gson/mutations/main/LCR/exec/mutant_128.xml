@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_128" time="54288">
+  <failing>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrornWithCause</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithoutCause</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithCause</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrorWithoutCause</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerialize</case>
+    <case>com.google.gson.functional.ObjectTest.testDateAsMapObjectField</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

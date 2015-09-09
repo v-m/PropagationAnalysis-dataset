@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6660" time="349855">
+  <failing>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutOursWhenNoBase</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testTrivialTwoWay_validSubtreeSort</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSingleDeletion</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionAndConflict</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

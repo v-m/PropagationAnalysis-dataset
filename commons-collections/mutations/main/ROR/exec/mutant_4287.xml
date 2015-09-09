@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4287" time="110366">
+  <failing>
+    <case>org.apache.commons.collections4.SplitMapUtilsTest.testReadableMap</case>
+    <case>org.apache.commons.collections4.splitmap.TransformedSplitMapTest.testMapIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1023" time="648705">
+  <failing>
+    <case>org.sonar.core.qualitygate.db.ProjectQgateAssociationDtoTest.to_assoc_with_project_having_assoc</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.qualitygate.db.ProjectQgateAssociationDtoTest.to_assoc_with_project_not_having_assoc</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_30" time="661187">
+  <failing>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.i18n.RuleI18nManagerTest.shouldNotBeRuleKey</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

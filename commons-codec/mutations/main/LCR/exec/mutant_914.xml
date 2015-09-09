@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_914" time="82693">
+  <failing>
+    <case>org.apache.commons.codec.language.SoundexTest.testB650</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testMsSqlServer1</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testMsSqlServer2</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testMsSqlServer3</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testNewInstance</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeBatch4</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testHWRuleEx1</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeBatch2</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testHWRuleEx3</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeBatch3</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testHWRuleEx2</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreHyphens</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeIgnoreTrimmable</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testEncodeBasic</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testUsEnglishStatic</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testNewInstance2</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testNewInstance3</case>
+    <case>org.apache.commons.codec.language.SoundexTest.testWikipediaAmericanSoundex</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

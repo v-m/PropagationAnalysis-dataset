@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2900" time="45137">
+  <failing>
+    <case>com.google.gson.MixedStreamTest.testReadMixedStreamed</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPosition</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionGreaterThanBufferSize</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverSlashSlashEndOfLineComment</case>
+    <case>com.google.gson.MixedStreamTest.testReadInvalidState</case>
+    <case>com.google.gson.stream.JsonReaderTest.testHelloWorld</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverCStyleComment</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithEscapedNewlineCharacter</case>
+    <case>com.google.gson.MixedStreamTest.testReaderDoesNotMutateState</case>
+    <case>com.google.gson.functional.UncategorizedTest.testTrailingWhitespace</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonExecutePrefixWithLeadingWhitespace</case>
+    <case>com.google.gson.CommentsTest.testParseComments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverHashEndOfLineComment</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

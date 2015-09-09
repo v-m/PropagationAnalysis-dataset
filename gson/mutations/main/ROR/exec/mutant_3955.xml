@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3955" time="50267">
+  <failing>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassSerializationDoesNotImpactDeserialization</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassDeserializationDoesNotImpactSerialization</case>
+    <case>com.google.gson.functional.JsonAdapterAnnotationOnClassesTest.testRegisteredDeserializerOverridesJsonAdapter</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvokedOnStrings</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testDefaultConstructorNotCalledOnField</case>
+    <case>com.google.gson.functional.JsonAdapterAnnotationOnClassesTest.testRegisteredSerializerOverridesJsonAdapter</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testDefaultConstructorNotCalledOnObject</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.GsonTypeAdapterTest.testDeserializerForAbstractClass</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

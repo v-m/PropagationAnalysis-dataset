@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3177" time="175389">
+  <failing>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestDateTimeZone.testIsLocalDateTimeGap_NewYork</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_RioBranco_Spring</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_NewYork_Spring</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

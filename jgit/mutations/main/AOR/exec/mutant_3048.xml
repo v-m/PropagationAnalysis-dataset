@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3048" time="305266">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgCon1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectDevicesOnWindows</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

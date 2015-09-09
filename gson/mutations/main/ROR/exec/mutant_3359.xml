@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3359" time="46077">
+  <failing>
+    <case>com.google.gson.functional.ObjectTest.testObjectFieldNamesWithoutQuotesDeserialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReaderForDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongs</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.PrimitiveTest.testPrimitiveLongAutoboxedDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekLongMaxValue</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsDeserializationTransientFieldsPassedInJsonAreIgnored</case>
+    <case>com.google.gson.functional.PrimitiveTest.testLongAsStringDeserialization</case>
+    <case>com.google.gson.functional.UncategorizedTest.testGsonInstanceReusableForSerializationAndDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekLongMinValue</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.CollectionTest.testFieldIsArrayList</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfArraysDeserialization</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithWildcardValues</case>
+    <case>com.google.gson.functional.ObjectTest.testJsonInMixedQuotesDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithReaderDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testValueVeryCloseToZeroIsZero</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonWithUnversionedClassesDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testJsonInSingleQuotesDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testNestedDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testPrimitiveArrayInAnObjectDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassSerializationDoesNotImpactDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategySerializationDoesNotImpactDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testReallyLongValuesDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMaxLongThatWrapsAround</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongLargerThanMinLongThatWrapsAround</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsDeserialization</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testComplexFieldNameStrategy</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitivesDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubClassDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitiveWrappersDeserialization</case>
+    <case>com.google.gson.functional.SecurityTest.testNonExecutableJsonDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

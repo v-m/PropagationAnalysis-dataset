@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1659" time="137976">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestDateTimeComparator.testListDOW</case>
+    <case>org.joda.time.TestDateTimeComparator.testDOW</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

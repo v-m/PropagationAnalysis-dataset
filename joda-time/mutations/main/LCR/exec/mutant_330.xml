@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_330" time="182339">
+  <failing>
+    <case>org.joda.time.chrono.TestISOChronology.testMinYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedSignedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraBC_France</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13279" time="236360">
+  <failing>
+    <case>org.joda.time.TestDateTimeComparator.testListYOYY</case>
+    <case>org.joda.time.TestDateTimeComparator.testNullDT</case>
+    <case>org.joda.time.TestDateTimeComparator.testBasicComps5</case>
+    <case>org.joda.time.TestDateTimeComparator.testBasicComps4</case>
+    <case>org.joda.time.TestDateTimeComparator.testListDate</case>
+    <case>org.joda.time.TestDateTimeComparator.testYear</case>
+    <case>org.joda.time.TestDateTimeComparator.testWOYY</case>
+    <case>org.joda.time.TestDateTimeComparator.testListYear</case>
+    <case>org.joda.time.TestDateTimeComparator.testBasicComps3</case>
+    <case>org.joda.time.TestDateTimeComparator.testBasicComps2</case>
+    <case>org.joda.time.TestDateTimeComparator.testBasicComps1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

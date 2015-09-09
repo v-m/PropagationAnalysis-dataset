@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1214" time="157419">
+  <failing>
+    <case>org.joda.time.convert.TestConverterManager.testGetIntervalConverterRemovedNull</case>
+    <case>org.joda.time.convert.TestConverterManager.testGetIntervalConverter</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

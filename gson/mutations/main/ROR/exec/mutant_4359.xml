@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4359" time="66574">
+  <failing>
+    <case>com.google.gson.functional.FieldNamingTest.testLowerCaseWithDashes</case>
+    <case>com.google.gson.functional.FieldNamingTest.testLowerCaseWithUnderscores</case>
+    <case>com.google.gson.functional.FieldNamingTest.testUpperCamelCaseWithSpaces</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

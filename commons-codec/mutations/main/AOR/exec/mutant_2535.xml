@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2535" time="108143">
+  <failing>
+    <case>org.apache.commons.codec.net.QuotedPrintableCodecTest.testFinalBytes</case>
+    <case>org.apache.commons.codec.net.QuotedPrintableCodecTest.testUltimateSoftBreak</case>
+    <case>org.apache.commons.codec.net.QuotedPrintableCodecTest.testSkipNotEncodedCRLF</case>
+    <case>org.apache.commons.codec.net.QuotedPrintableCodecTest.testTrailingSpecial</case>
+    <case>org.apache.commons.codec.net.QuotedPrintableCodecTest.testSoftLineBreakEncode</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

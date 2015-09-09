@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3000" time="62308">
+  <failing>
+    <case>org.joda.time.field.TestScaledDurationField.test_getValue_long_long</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

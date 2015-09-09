@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_660" time="49122">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleNaNSerialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatNaNSerialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinityFloatSerialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatInfinitySerialization</case>
+    <case>com.google.gson.MixedStreamTest.testWriteLenient</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinitySerialization</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testLenientNansAndInfinities</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleInfinitySerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

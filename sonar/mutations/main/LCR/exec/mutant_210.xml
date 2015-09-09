@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_210" time="648611">
+  <failing>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.platform.PluginLoaderTest.test_plugins_sharing_the_same_classloader</case>
+    <case>org.sonar.core.platform.PluginLoaderTest.define_classloader</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

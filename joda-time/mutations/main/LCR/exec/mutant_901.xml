@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_901" time="166464">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_checkRedundantSeparator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

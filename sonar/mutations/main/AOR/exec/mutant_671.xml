@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_671" time="392916">
+  <failing>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.test_concurrent_locks</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.fail_to_acquire_locked_semaphore</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

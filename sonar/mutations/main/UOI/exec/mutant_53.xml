@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_53" time="657016">
+  <failing>
+    <case>org.sonar.core.i18n.DefaultI18nTest.get_age_from_now</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_hours</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.years_ago</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_months</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_seconds</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_days</case>
+    <case>org.sonar.core.i18n.DefaultI18nTest.get_age_with_duration</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.year_ago</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_minutes</case>
+    <case>org.sonar.core.i18n.DefaultI18nTest.get_age_with_dates</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_month</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_day</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_minute</case>
+    <case>org.sonar.core.i18n.DurationLabelTest.age_in_hour</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

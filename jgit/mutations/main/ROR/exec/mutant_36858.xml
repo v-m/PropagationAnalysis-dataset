@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_36858" time="308473">
+  <failing>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testEgitHistory</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testTwoRoots2</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testTwoRoots1</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testBug419359</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

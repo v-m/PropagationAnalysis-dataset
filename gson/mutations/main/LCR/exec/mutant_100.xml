@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_100" time="50392">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testGeneralMapField</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMap</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

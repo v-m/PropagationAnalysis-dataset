@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1713" time="61976">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddWeekyears_int1</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetWeekyear_int1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12231" time="57410">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_Array</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_List</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_Other</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_Iterator</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_Map</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_Enumeration</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSizeIsEmpty_PrimitiveArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

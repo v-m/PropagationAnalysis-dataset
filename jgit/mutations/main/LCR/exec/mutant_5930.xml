@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5930" time="380529">
+  <failing>
+    <case>org.eclipse.jgit.transport.URIishTest.testSshProtoWithUserPassAndPort</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testGetSet</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testSshProtoWithEscapedADUserPassAndPort</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testURIEncodeDecode</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testSshProtoWithADUserPassAndPort</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

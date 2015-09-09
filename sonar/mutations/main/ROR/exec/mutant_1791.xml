@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1791" time="280582">
+  <failing>
+    <case>org.sonar.core.resource.ResourceDaoTest.should_select_projects_including_not_finished_by_qualifiers</case>
+    <case>org.sonar.core.resource.ResourceDaoTest.should_select_projects_by_qualifiers</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.resource.ResourceDaoTest.should_select_ghosts_projects_by_qualifiers</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>
