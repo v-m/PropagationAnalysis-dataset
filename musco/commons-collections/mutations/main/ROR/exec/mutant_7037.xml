@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7037" time="113111">
+  <failing>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testTransformedBag_decorateTransform</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableSortedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testOrdering</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testTransformedBag_decorateTransform</case>
+    <case>org.apache.commons.collections4.bag.CollectionSortedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagToArray</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.CollectionSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionToArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

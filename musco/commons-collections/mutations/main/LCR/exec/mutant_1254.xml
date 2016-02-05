@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1254" time="101901">
+  <failing>
+    <case>org.apache.commons.collections4.comparators.BooleanComparatorTest.testEqualsCompatibleInstance</case>
+    <case>org.apache.commons.collections4.comparators.BooleanComparatorTest.testEqualsNull</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

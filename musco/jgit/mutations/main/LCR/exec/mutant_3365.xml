@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3365" time="343870">
+  <failing>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderIgnored</case>
+    <case>org.eclipse.jgit.ignore.IgnoreNodeTest.testWithSlashDoesNotMatchInSubDirectory</case>
+    <case>org.eclipse.jgit.attributes.AttributesMatcherTest.testParentDirectoryGitAttributes</case>
+    <case>org.eclipse.jgit.ignore.FastIgnoreRuleTest.testSegments</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testFilePathSimpleCase</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testParentDirectoryGitIgnores</case>
+    <case>org.eclipse.jgit.api.AddCommandTest.testAddIgnoredFile</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

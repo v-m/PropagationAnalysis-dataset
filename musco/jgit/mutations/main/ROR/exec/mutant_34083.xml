@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_34083" time="348357">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevObjectTest.testAddRevFlagSet</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testRemove</case>
+    <case>org.eclipse.jgit.revwalk.RevObjectTest.testHasAnyFlag</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testContainsAll</case>
+    <case>org.eclipse.jgit.revwalk.RevObjectTest.testHasAllFlag</case>
+    <case>org.eclipse.jgit.revwalk.RevObjectTest.testRemoveRevFlagSet</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testContains</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testAddTwo</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testEquals</case>
+    <case>org.eclipse.jgit.revwalk.RevFlagSetTest.testAddOne</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

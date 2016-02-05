@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12398" time="313970">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackReverseIndexTest.testFindNextOffset</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackReverseIndexTest.testFindObjectWrongOffset</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackReverseIndexTest.testFindNextOffsetWrongOffset</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackReverseIndexTest.testFindObject</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

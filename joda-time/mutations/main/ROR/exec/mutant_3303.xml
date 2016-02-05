@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3303" time="199999">
-  <failing>
-    <case>org.joda.time.TestDateTimeZone.testForOffsetMillis_int</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

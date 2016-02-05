@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_20274" time="163741">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testOverlap_RInterval</case>
+    <case>org.joda.time.TestInterval_Basics.testOverlap_RInterval_null</case>
+    <case>org.joda.time.TestInterval_Basics.testOverlap_RInterval_zone</case>
+    <case>org.joda.time.TestInterval_Basics.testOverlap_RInterval_zoneUTC</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

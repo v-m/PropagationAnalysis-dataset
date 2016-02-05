@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9890" time="100517">
+  <failing>
+    <case>org.apache.commons.lang3.time.FastDateFormatTest.testCheckDefaults</case>
+    <case>org.apache.commons.lang3.time.FastDateFormatTest.test_getInstance</case>
+    <case>org.apache.commons.lang3.time.FastDateFormatTest.testTimeDateDefaults</case>
+    <case>org.apache.commons.lang3.time.FastDateFormatTest.testCheckDifferingStyles</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

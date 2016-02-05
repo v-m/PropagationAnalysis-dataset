@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_222" time="62447">
-  <failing>
-    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultCalendarDeserialization</case>
-    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDefaultGregorianCalendarDeserialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

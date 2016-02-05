@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_503" time="52848">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testLenientPartialNonExecutePrefix</case>
-    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

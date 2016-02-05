@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_354" time="110620">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testIndexOf</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

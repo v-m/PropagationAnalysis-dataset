@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1945" time="61499">
+  <failing>
+    <case>com.google.gson.JsonPrimitiveTest.testValidJsonOnToString</case>
+    <case>com.google.gson.stream.JsonWriterTest.testUnicodeLineBreaksEscaped</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testComplexFieldNameStrategy</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testHtmlCharacterSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

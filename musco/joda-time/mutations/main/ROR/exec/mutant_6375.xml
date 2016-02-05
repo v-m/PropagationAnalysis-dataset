@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6375" time="164056">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

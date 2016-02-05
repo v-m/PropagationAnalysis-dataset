@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7328" time="109312">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testIterateEvenOdd</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testIterateFibEvenOdd</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testCollate</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testIterateOddEven</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testIterateEvenEven</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testRemoveFromDouble</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testCollateIgnoreDuplicates</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testRemove</case>
+    <case>org.apache.commons.collections4.iterators.CollatingIteratorTest.testNullComparator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

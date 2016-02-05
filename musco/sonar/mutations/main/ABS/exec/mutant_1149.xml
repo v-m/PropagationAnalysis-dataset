@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1149" time="395619">
+  <failing>
+    <case>org.sonar.core.issue.IssueUpdaterTest.set_past_line</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.set_line</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

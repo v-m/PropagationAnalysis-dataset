@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_39" time="50343">
-  <failing>
-    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
-    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNumbers</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

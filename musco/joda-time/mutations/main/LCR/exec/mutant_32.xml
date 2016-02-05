@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_32" time="173174">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testIsEqual_RI</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

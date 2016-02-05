@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1302" time="112278">
+  <failing>
+    <case>org.apache.commons.collections4.functors.ComparatorPredicateTest.compareGreater</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

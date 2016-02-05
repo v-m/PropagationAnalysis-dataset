@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3601" time="52202">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
-    <case>com.google.gson.stream.JsonReaderTest.testFailWithEscapedNewlineCharacter</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

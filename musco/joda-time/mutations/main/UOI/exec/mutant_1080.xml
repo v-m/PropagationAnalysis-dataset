@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1080" time="163151">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx5IgnoringAffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testRegExAffixParseOrder</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixComposite1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

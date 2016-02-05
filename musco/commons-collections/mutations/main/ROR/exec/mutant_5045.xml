@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5045" time="47857">
+  <failing>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapIteratorSetValue2</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapIteratorSetValue3</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testSerialisation2</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapIteratorSetValue1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

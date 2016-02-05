@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_451" time="63051">
+  <failing>
+    <case>org.joda.time.TestStringConvert.testMonthDay_leapDay</case>
+    <case>org.joda.time.chrono.TestISOChronology.testMinYear</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedSignedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraBC_France</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

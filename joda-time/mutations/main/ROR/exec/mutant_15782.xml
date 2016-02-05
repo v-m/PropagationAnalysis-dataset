@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_15782" time="275970">
-  <failing>
-    <case>org.joda.time.TestMonths.testMinus_Months</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

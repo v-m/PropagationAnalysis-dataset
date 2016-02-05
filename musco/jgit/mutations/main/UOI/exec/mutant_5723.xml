@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5723" time="343686">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeRemovingFolders</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.createDirSymlinkBeforeTarget</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeConflictFileFolder</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

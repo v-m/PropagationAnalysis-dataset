@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2038" time="84538">
-  <failing>
-    <case>com.google.gson.functional.FieldNamingTest.testUpperCamelCase</case>
-    <case>com.google.gson.functional.FieldNamingTest.testUpperCamelCaseWithSpaces</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

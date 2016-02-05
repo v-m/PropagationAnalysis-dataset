@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_47" time="42063">
+  <failing>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStrings</case>
+    <case>org.apache.shindig.expressions.ExpressionsTest.booleanCoercionOfStrings</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

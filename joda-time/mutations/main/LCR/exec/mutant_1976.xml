@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1976" time="168988">
-  <failing>
-    <case>org.joda.time.TestLocalDate_Basics.testProperty</case>
-    <case>org.joda.time.TestLocalDate_Basics.testIsSupported_DateTimeFieldType</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

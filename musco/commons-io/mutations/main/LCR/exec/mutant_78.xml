@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_78" time="87104">
+  <failing>
+    <case>org.apache.commons.io.HexDumpTest.testDump</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

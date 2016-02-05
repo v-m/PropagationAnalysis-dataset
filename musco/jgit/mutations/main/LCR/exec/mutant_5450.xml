@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5450" time="334770">
+  <failing>
+    <case>org.eclipse.jgit.transport.RefSpecTest.invalidWhenWildcardBeforeTextAtEnd</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.invalidWhenWildcardBeforeText</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

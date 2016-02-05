@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_195" time="359769">
+  <failing>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testSameDiff</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffWithNegativeLineCount</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

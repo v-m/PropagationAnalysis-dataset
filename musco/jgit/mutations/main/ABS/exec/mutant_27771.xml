@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_27771" time="332481">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackFileTest.testDelta_SmallObjectChain</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaBlock</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitHeaderRead</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSingleRead</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.test1</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasCRC32Copy</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaResultSize</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testTinyThinPack</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeOffsetsVsRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4ThinPack</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

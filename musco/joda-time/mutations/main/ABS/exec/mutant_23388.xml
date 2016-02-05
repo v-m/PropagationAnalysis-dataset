@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_23388" time="210043">
+  <failing>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_8ints1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_8ints1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_8ints4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

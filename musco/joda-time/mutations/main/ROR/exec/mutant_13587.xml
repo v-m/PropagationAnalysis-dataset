@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13587" time="151697">
+  <failing>
+    <case>org.joda.time.TestDateTimeZoneCutover.testWithMinuteOfHourInDstChange_mockZone</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_newValid_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundCeiling_minute_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundFloor_minute_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_NewYork_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundFloor_day_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundFloor_hour_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundCeiling_hour_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZone.testIsLocalDateTimeGap_NewYork</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_RioBranco_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundCeiling_day_NewYork_Spring_postCutover</case>
+    <case>org.joda.time.TestDateTimeZone.testIsLocalDateTimeGap_Berlin</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_Moscow_Autumn</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2321" time="212175">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_hourOfHalfday</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

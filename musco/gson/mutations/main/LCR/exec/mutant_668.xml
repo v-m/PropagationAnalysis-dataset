@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_668" time="59944">
+  <failing>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerialize1dArray</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnValue</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnName</case>
+    <case>com.google.gson.stream.JsonWriterTest.testPrettyPrintObject</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerialize</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNonFiniteDoubles</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerializeObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testRepeatedName</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNameWithoutValue</case>
+    <case>com.google.gson.stream.JsonWriterTest.testMultipleTopLevelValues</case>
+    <case>com.google.gson.stream.JsonWriterTest.testEmptyArray</case>
+    <case>com.google.gson.stream.JsonWriterTest.testDoubles</case>
+    <case>com.google.gson.stream.JsonWriterTest.testValueWithoutName</case>
+    <case>com.google.gson.MixedStreamTest.testWriteInvalidState</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeNullObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNumbers</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNonFiniteBoxedDoubles</case>
+    <case>com.google.gson.stream.JsonWriterTest.testStrictWriterDoesNotPermitMultipleTopLevelValues</case>
+    <case>com.google.gson.stream.JsonWriterTest.testWriterCloseIsIdempotent</case>
+    <case>com.google.gson.stream.JsonWriterTest.testTwoNames</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNullName</case>
+    <case>com.google.gson.stream.JsonWriterTest.testArraysInObjects</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNullStringValue</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerialize2dArray</case>
+    <case>com.google.gson.stream.JsonWriterTest.testDeepNestingArrays</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNulls</case>
+    <case>com.google.gson.stream.JsonWriterTest.testBooleans</case>
+    <case>com.google.gson.stream.JsonWriterTest.testBadNestingObject</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeNullField</case>
+    <case>com.google.gson.stream.JsonWriterTest.testObjectsInArrays</case>
+    <case>com.google.gson.stream.JsonWriterTest.testDeepNestingObjects</case>
+    <case>com.google.gson.stream.JsonWriterTest.testEmptyObject</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerializeNullValue</case>
+    <case>com.google.gson.stream.JsonWriterTest.testStrings</case>
+    <case>com.google.gson.stream.JsonWriterTest.testBadNestingArray</case>
+    <case>com.google.gson.MixedStreamTest.testWriteDoesNotMutateState</case>
+    <case>com.google.gson.MixedStreamTest.testWriteClosed</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnStructure</case>
+    <case>com.google.gson.stream.JsonWriterTest.testUnicodeLineBreaksEscaped</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerialize</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeMap</case>
+    <case>com.google.gson.stream.JsonWriterTest.testLongs</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnFlush</case>
+    <case>com.google.gson.stream.JsonWriterTest.testPrettyPrintArray</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeRecursive</case>
+    <case>com.google.gson.MixedStreamTest.testWriteMixedStreamed</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

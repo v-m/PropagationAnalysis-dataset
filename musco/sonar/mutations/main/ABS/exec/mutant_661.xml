@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_661" time="282649">
+  <failing>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.metric.db.MetricDtoTest.getters_and_setters</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

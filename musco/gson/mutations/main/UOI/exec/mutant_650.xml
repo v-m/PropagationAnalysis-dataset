@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_650" time="50043">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testArrayPath</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionDeepPath</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_865" time="110955">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testIterationOrderAfterAddAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListLastIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testIterationOrder</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListListIteratorByIndex</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

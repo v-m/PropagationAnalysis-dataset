@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1868" time="62624">
-  <failing>
-    <case>org.joda.time.TestDateTimeZoneCutover.testBug3192457_adjustOffset</case>
-    <case>org.joda.time.TestDateTimeZoneCutover.testBug3476684_adjustOffset</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

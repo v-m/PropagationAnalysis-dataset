@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_131" time="338048">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testRemoveDeletesTreeFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_2_36</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testWriteUnchangedFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFullyFannedOut</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

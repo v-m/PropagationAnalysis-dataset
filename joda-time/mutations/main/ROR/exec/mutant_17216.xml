@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_17216" time="172575">
-  <failing>
-    <case>org.joda.time.TestWeeks.testFactory_weeksIn_RInterval</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

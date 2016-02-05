@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_899" time="97615">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_STEPHEN_STEFAN_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_OONA_OONAGH_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_TOMASZ_TOM_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SOPHIE_SOFIA_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Surname_OSULLIVAN_OSUILLEABHAIN_SuccessfulMatch</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_MCGOWAN_MCGEOGHEGAN_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Surname_LEWINSKY_LEVINSKI_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_BRIAN_BRYAN_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_STEPHEN_STEVEN_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_BURNS_BOURNE_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_PETERSON_PETERS_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_CATHERINE_KATHRYN_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_ZACH_ZAKARIA_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SAM_SAMUEL_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_FRANCISZEK_FRANCES_SuccessfullyMatched</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

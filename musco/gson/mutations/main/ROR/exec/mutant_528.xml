@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_528" time="52190">
+  <failing>
+    <case>com.google.gson.functional.ObjectTest.testObjectFieldNamesWithoutQuotesDeserialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReaderForDeserialization</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverrideWrapperBooleanAdapter</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomDeserializerInvokedForPrimitives</case>
+    <case>com.google.gson.functional.MapTest.testReadMapsWithEmptyStringKey</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.UncategorizedTest.testGsonInstanceReusableForSerializationAndDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfArraysDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testBasicTypeVariables</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithReaderDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonWithUnversionedClassesDeserialization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.ObjectTest.testNestedDeserialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBooleanDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitivesDeserialization</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverridePrimitiveBooleanAdapter</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.JsonParserTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubClassDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitiveWrappersDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testStringsAsBooleans</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

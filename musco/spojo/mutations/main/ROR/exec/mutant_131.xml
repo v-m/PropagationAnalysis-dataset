@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_131" time="4068">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesInnerExclude</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyInclude2ndLevelComplexProperty</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude4</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty2</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesWithInclude1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testGetRuleMetadata2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesWithInclude3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass2</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRule1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testConvertAnnotation2Impl</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.metadataToString</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.clear</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude1</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simplePropertyRoot</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyInclude2ndLevel1Property</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass5WithOneAnnotation</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.removeProperty</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.addCollection</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyInclude2ndLevelComplexProperty</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyInclude2ndLevel2Property</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.extendFromMetadata</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.toarray1</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.toarray2</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.createWithParent</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyInclude2ndLevel1Property</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesWithInclude3</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleType</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata5</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata6</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendedRules3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude4</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.getmetadata2</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simpleProperty1Child</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom4</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom2</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.merge</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.canonicalName</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom5</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleExtends</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyInclude2ndLevel2Property</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesInnerExclude</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty5</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty4</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesWithInclude1</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.changeParent</case>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.ruleProperties</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendsRules</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

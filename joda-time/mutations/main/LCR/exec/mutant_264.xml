@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_264" time="63368">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormatter.testWithGetLocale</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5050" time="170152">
+  <failing>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_DH</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_calBased_D</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_DM</case>
+    <case>org.joda.time.TestPartial_Basics.testGetFormatter3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

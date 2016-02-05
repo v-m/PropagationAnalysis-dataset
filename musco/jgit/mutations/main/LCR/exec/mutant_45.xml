@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_45" time="414301">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testLargeTreesWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testCollapseFanoutAfterMerge</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testBaseEqualsTheirs</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testDeleteDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddSameNoteDifferentContent</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWitConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testLargeTreesWithConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testBaseEqualsOurs</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testEditDeleteConflict</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_230" time="53113">
+  <failing>
+    <case>com.google.gson.functional.JsonTreeTest.testJsonTreeNull</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseCollectionFieldSerialization</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTree</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseArrayFieldSerialization</case>
+    <case>com.google.gson.DefaultMapJsonSerializerTest.testNonEmptyMapSerialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testClassWithBaseFieldSerialization</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFields</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithCustomSerializer</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsBaseWhenSpecifiedWithExplicitType</case>
+    <case>com.google.gson.functional.JsonTreeTest.testJsonTreeToString</case>
+    <case>com.google.gson.functional.MapTest.testGeneralMapField</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMap</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingArrayOfSubClassInstances</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsSub</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTreeObjectType</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsSubWhenSpecifiedWithExplicitType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

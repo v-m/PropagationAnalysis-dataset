@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_907" time="45384">
+  <failing>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithWildcardValues</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardPrimitiveCollectionSerilaization</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithNestedWildcards</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardPrimitiveCollectionDeserilaization</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithBasicWildcards</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysSerialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeArrayDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithWildcardValues</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

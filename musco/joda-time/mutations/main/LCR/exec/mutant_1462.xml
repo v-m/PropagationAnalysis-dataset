@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1462" time="171817">
+  <failing>
+    <case>org.joda.time.TestDateTimeZoneCutover.testDateTimeCreation_paris</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddSeconds_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMillis_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMonths_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMinutes_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddYears_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddWeeks_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddHours_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetDayOfYear_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetMonthOfYear_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetDayOfMonth_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testDateTimeCreation_athens</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMillis_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone_dstOverlap</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddDays_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_DurationFieldType_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_Zone_dstOverlap</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddHours_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddWeeks_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetDayOfYear_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddDays_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddSeconds_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_DurationFieldType_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMinutes_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddYears_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAddMonths_int_dstOverlapSummer_addZero</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testDateTimeCreation_london</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetMonthOfYear_int_dstOverlapWinter_addZero</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetDayOfMonth_int_dstOverlapSummer_addZero</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_930" time="111609">
+  <failing>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.test_containsValue_nullMatchesIncorrectly</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testValuesIteratorRemoveChangesMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

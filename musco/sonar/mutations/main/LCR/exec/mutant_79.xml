@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_79" time="849110">
+  <failing>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.list_no_out_transition_from_status_closed</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_733" time="64740">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortLowerCase_UK</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testParse_pivotYear_ignored4DigitYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongLowerCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testParse_textMonthJanLong_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedSignedDecimal</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDate</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateElementParser</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_UK</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLong_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfCentury</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinute</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_hourMinuteSecond</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicDate</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_date</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

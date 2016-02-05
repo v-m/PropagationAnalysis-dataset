@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_12147" time="113702">
-  <failing>
-    <case>org.apache.commons.collections4.CollectionUtilsTest.filterInverse</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

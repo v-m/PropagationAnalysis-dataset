@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_884" time="108038">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_SOPHIE_SOFIA_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Forenames_SEAN_JOHN_MatchExpected</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Surname_ROSOCHOWACIEC_ROSOKHOVATSETS_SuccessfullyMatched</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Surname_PRZEMYSL_PSHEMESHIL_SuccessfullyMatched</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

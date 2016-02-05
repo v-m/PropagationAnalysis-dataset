@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5992" time="169567">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

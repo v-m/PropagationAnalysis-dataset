@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_178" time="115317">
+  <failing>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionToString</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testCollectionToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1416" time="61872">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testVeryLongQuotedString</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

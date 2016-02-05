@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_855" time="52805">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverCStyleComment</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

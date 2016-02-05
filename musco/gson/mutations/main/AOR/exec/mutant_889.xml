@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_889" time="68270">
+  <failing>
+    <case>com.google.gson.functional.InternationalizationTest.testStringsWithUnicodeChineseCharactersEscapedDeserialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

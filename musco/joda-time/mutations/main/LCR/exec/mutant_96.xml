@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_96" time="84919">
+  <failing>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testFactory_between_RInstant</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

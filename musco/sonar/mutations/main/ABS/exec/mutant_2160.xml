@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2160" time="660441">
+  <failing>
+    <case>org.sonar.core.timemachine.PeriodsTest.abbreviation_of_duration_in_days</case>
+    <case>org.sonar.core.timemachine.PeriodsTest.abbreviation_of_snapshot_version</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

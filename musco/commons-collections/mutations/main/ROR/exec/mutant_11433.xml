@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11433" time="112426">
+  <failing>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testQueuePoll</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCircularFifoQueueRemove</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testQueuePeek</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRepeatedSerialization</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError9</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError8</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testQueueRemove</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError5</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError4</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError7</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError6</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testGetIndex</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError3</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError2</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testCircularFifoQueueCircular</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testQueueElement</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7327" time="351362">
+  <failing>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_GitBinaryNoForwardHunk</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryDelta</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryLiteral</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

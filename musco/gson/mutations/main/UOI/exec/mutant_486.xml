@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_486" time="50238">
+  <failing>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomDeserializerInvokedForPrimitives</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientMultipleTopLevelValues</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonPrimitiveDeserialization</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverrideWrapperBooleanAdapter</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBooleanDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.OverrideCoreTypeAdaptersTest.testOverridePrimitiveBooleanAdapter</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientTopLevelValueType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

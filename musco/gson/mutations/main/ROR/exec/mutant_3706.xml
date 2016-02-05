@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3706" time="53905">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testUrlNullSerialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsSubForToJsonMethod</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValue</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsSubWhenSpecifiedWithExplicitTypeForToJsonMethod</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValuesSerialized</case>
+    <case>com.google.gson.stream.JsonWriterTest.testPrettyPrintObject</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testCustomSerializationOfNulls</case>
+    <case>com.google.gson.functional.MapTest.testSerializeMaps</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNullExposeFieldSerialization</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testDeprecatedNamingStrategy</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testCompactFormattingLeavesNoWhiteSpace</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testSerializedNameOnExceptionFields</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitSerializationOfNullArrayMembers</case>
+    <case>com.google.gson.functional.UncategorizedTest.testObjectEqualButNotSameSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValues</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testNullWrappedPrimitiveMemberSerialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMap</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testPrintPrintingObjectWithNulls</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsSerialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testBaseSerializedAsBaseWhenSpecifiedWithExplicitTypeForToJsonMethod</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testArrayWithOneNullExposeFieldObjectSerialization</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfParameterizedSubclassFields</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNullStringValue</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitSerializationOfNulls</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValuesSerialized</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeNullField</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValueButSerializeNulls</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysSerialization</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testSerializeId</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerializeNullValue</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitSerializationOfNullCollectionMembers</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testExplicitSerializationOfNullStringMembers</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeArrayDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValues</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithWildcardValues</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testSerializeNullsTrue</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfSubclassFields</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeRecursive</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

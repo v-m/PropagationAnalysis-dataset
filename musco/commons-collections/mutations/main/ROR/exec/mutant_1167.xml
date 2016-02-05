@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1167" time="109745">
+  <failing>
+    <case>org.apache.commons.collections4.functors.AllPredicateTest.trueAndFalseCombined</case>
+    <case>org.apache.commons.collections4.functors.AllPredicateTest.allTrue</case>
+    <case>org.apache.commons.collections4.PredicateUtilsTest.testAllPredicate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

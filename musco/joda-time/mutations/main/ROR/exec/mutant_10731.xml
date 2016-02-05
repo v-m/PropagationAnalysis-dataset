@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10731" time="186845">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

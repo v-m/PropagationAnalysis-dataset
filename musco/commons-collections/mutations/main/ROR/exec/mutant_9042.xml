@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9042" time="68256">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testBidiGetKeyInverse</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testBidiInverse</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.bidimap.UnmodifiableBidiMapTest.testMapContainsValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

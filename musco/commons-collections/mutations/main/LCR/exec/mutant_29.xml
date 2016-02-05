@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_29" time="113321">
+  <failing>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextAddByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextAddIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousAddIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousSetByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextSetByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousRemoveByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousAddByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testCursorRemove</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextAddIndex1ByList</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

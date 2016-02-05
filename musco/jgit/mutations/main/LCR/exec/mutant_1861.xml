@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1861" time="353347">
+  <failing>
+    <case>org.eclipse.jgit.lib.RepositoryCacheTest.testGetRegistered</case>
+    <case>org.eclipse.jgit.lib.RepositoryCacheTest.testCacheRegisterOpen</case>
+    <case>org.eclipse.jgit.lib.RepositoryCacheTest.testCacheOpen</case>
+    <case>org.eclipse.jgit.lib.RepositoryCacheTest.testUnregister</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

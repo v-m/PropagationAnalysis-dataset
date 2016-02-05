@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_10560" time="156593">
-  <failing>
-    <case>org.joda.time.field.TestOffsetDateTimeField.test_constructor2</case>
-    <case>org.joda.time.field.TestOffsetDateTimeField.test_constructor1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1734" time="111880">
+  <failing>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionContains</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesClearChangesMap</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testMultipleCollectionsSize</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testUnsupportedAdd</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testAddAllToCollection</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testToCollection</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testUnsupportedRemove</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testSize</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testRemoveComposited</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionSize</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionContainsAll</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionIsEmpty</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionIterator</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapIsEmpty</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1141" time="52808">
+  <failing>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreamingHierarchical</case>
+    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesCustomSerialization</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testRegisterSubTypeFirstAllowed</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testRegisterHierarchyAdapterForDate</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclassWithRegisteredTypeAdapter</case>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testNonstreamingHierarchicalFollowedByNonstreaming</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingFollowedByNonstreamingHierarchical</case>
+    <case>com.google.gson.GsonTypeAdapterTest.testDeserializerForAbstractClass</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testRegisterSuperTypeFirst</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

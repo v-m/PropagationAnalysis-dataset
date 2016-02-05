@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3835" time="48102">
-  <failing>
-    <case>com.google.gson.stream.JsonWriterTest.testUnicodeLineBreaksEscaped</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1593" time="87145">
-  <failing>
-    <case>org.apache.commons.collections4.IteratorUtilsTest.testArrayListIterator</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

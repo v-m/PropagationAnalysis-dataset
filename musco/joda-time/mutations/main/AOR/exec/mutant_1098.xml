@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1098" time="203945">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Constructors.testParse_formatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDate</case>
+    <case>org.joda.time.TestDateTime_Constructors.testParse_formatter</case>
+    <case>org.joda.time.TestStringConvert.testMonthDay</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_Korean</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningHelloWorld_UK</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testParse_formatter</case>
+    <case>org.joda.time.TestYearMonth_Constructors.testParse_formatter</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testParse_formatter</case>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillis_Object</case>
+    <case>org.joda.time.TestInstant_Constructors.testParse_formatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateOptionalTimeParser</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTime</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_localDateOptionalTimeParser</case>
+    <case>org.joda.time.TestStringConvert.testMonthDay_leapDay</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_formatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_localDateParser</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testParse_formatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateParser</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateElementParser</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTimeNoMillis</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateTimeParser</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

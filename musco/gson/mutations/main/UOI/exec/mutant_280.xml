@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_280" time="53295">
+  <failing>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNullExposeFieldSerialization</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testArrayWithOneNullExposeFieldObjectSerialization</case>
+    <case>com.google.gson.ExposeAnnotationExclusionStrategyTest.testNeverSkipExposedAnnotatedFields</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposedInterfaceFieldDeserialization</case>
+    <case>com.google.gson.ExposeAnnotationExclusionStrategyTest.testNeverSkipExplicitlyExposedAnnotatedFields</case>
+    <case>com.google.gson.ExposeAnnotationExclusionStrategyTest.testDifferentSerializeAndDeserializeField</case>
+    <case>com.google.gson.ExposeAnnotationExclusionStrategyTest.testSkipNonAnnotatedFields</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposeAnnotationSerialization</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposeAnnotationDeserialization</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNoExposedFieldSerialization</case>
+    <case>com.google.gson.ExposeAnnotationExclusionStrategyTest.testSkipExplicitlySkippedFields</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposedInterfaceFieldSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

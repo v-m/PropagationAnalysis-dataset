@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_423" time="348406">
+  <failing>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testFallbackToMyersDiff</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_LcsContainsUnique</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_NoUniqueMiddleSide_FlipBlocks</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_MoveBlock</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_InvertBlocks</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

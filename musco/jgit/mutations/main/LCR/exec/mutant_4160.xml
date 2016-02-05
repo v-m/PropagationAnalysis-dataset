@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4160" time="337434">
+  <failing>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testTwoRevisions</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testMiddleClearAllLines</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRename</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testEditAllLines</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testMoveToOtherDir</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testWhitespaceMerge</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRenameInSubDir</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testLinesAllDeletedShortenedWalk</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testRenamedBoundLineDelete</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf4</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf5</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testDeleteMiddleLines</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testSingleRevision</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testConflictingMerge1</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testConflictingMerge2</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testBoundLineDelete</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf1</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testTwoRenames</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf2</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf3</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testDeleteTrailingLines</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

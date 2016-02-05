@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1873" time="151302">
+  <failing>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Turk</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Chicago</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_MutableDateTime_setZoneRetainFields_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_withDay_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundCeiling_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_addWrapFieldDay_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_roundFloor_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_withZoneRetainFields_Turk</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

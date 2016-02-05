@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12488" time="298121">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_LooseOverridesPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_Mixed</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testFirstExactRef_IgnoresGarbageRef</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testExactRef_IgnoresGarbageRef</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testClose</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_DiscoversDeletedLoose4</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_SymrefToPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_HeadsOnly_AllLoose</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testGetRefs_TagsOnly_AllLoose</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testFirstExactRef_Mixed</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

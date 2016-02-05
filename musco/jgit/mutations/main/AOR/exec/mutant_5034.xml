@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5034" time="429785">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefForwardWithCheck1</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRefsCacheAfterUpdate</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test009_SymlinkAndGitlink</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_Defaults</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefForward</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooFewFiles</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testIncrementalBundle</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testDeleteFastForward</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooSmallLimit</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjectsWithBitmaps</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefForwardWithCheck2</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testTrivialTwoWay_conflict</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3657" time="239097">
+  <failing>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testWrap</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testClose</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testOpen</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testReplaceManifestBare</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepository</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranch</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryOnlyOneBranch</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryNullRemote</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

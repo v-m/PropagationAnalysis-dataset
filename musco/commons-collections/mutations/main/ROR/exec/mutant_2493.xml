@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2493" time="107883">
+  <failing>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testSetValuedMapRemoveViaIterator</case>
+    <case>org.apache.commons.collections4.MultiMapUtilsTest.testGetSet</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testRemoveMappingThroughGetIterator</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testRemoveMappingThroughGetIterator</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testFactory_decorateTransform</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testPutAll_Map1</case>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testPutAll_Map1</case>
+    <case>org.apache.commons.collections4.MultiMapUtilsTest.testGetBag</case>
+    <case>org.apache.commons.collections4.multimap.UnmodifiableMultiValuedMapTest.testFullMapCompatibility</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

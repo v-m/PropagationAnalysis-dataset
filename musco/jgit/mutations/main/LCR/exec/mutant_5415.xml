@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5415" time="430765">
+  <failing>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testCreateBranchAtHiddenCommitFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownTreeFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

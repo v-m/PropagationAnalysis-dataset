@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_454" time="280864">
+  <failing>
+    <case>org.sonar.core.component.SnapshotDtoTest.get_root_id_if_when_it_is_not_null</case>
+    <case>org.sonar.core.component.SnapshotDtoTest.test_getter_and_setter</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.component.SnapshotDtoTest.getRootIdOrSelf_return_own_id_when_root_id_is_null</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

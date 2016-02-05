@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5337" time="183142">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSuffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixSimple2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixSimple1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

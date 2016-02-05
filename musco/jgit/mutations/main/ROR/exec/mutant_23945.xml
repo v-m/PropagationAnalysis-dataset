@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_23945" time="359172">
+  <failing>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategiesNoCommit</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testTheirs</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategies</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testOurs</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

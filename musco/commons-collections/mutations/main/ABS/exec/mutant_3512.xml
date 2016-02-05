@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3512" time="111479">
+  <failing>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyPutWithNullKey</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyPut</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testLRUMultiKeyMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

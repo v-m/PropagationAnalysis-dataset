@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_433" time="111836">
+  <failing>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testPutAll</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetContains2</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetRemove2</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMapPut</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

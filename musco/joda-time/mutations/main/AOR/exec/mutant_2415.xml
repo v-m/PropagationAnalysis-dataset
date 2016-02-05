@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2415" time="168744">
+  <failing>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusDays_int_wrapMonth</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusMonths_int_endOfMonthAdjust</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthTwice</case>
+    <case>org.joda.time.TestStringConvert.testMonthDay</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthTwiceIntoLastYear</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_formatter</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusDays_int_wrapMonthIntoNextYear</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusDays_int_wrapMonthTwice</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusMonths_int_adjust</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testConstructor_int_int</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyGetMaxMinValuesDayOfMonth</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusMonths_int_adjust</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusMonths_int_negativeEndOfMonthAdjust</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonth</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusDays_int_wrapMonthTwiceIntoNextYear</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testConstructor_int_int_Chronology</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testConstructor_int_int_nullChronology</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusMonths_int_negativeEndOfMonthAdjust</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusMonths_int_endOfMonthAdjust</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyAddDayOfMonth</case>
+    <case>org.joda.time.TestMonthDay_Basics.testPlusDays_int_wrap50</case>
+    <case>org.joda.time.TestMonthDay_Basics.testMinusDays_int_wrapMonthIntoLastYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_841" time="110358">
+  <failing>
+    <case>org.apache.commons.collections4.map.MultiValueMapTest.testPutAll_KeyCollection</case>
+    <case>org.apache.commons.collections4.map.MultiValueMapTest.testPutAll_Map1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

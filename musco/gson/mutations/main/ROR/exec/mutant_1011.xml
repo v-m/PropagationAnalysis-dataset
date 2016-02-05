@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1011" time="56888">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testSortedMap</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclass</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDateSerializationInCollection</case>
+    <case>com.google.gson.functional.MapTest.testBooleanKeyDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForCollectionElementDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapNamePromotionWithJsonElementReader</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclassWithRegisteredTypeAdapter</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullKey</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.CollectionTest.testFieldIsArrayList</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithWildcardValues</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithReaderDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardPrimitiveCollectionDeserilaization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.UncategorizedTest.testTrailingWhitespace</case>
+    <case>com.google.gson.functional.PrimitiveTest.testStringsAsBooleans</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithIntegerKeys</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testDeserializeId</case>
+    <case>com.google.gson.functional.CollectionTest.testTopLevelListOfIntegerCollectionsDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testNumberKeyDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testComplexKeysDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForMapElementDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testSetDeserialization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMultipleEnableComplexKeyRegistrationHasNoEffect</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSet</case>
+    <case>com.google.gson.functional.CollectionTest.testTopLevelCollectionOfIntegersDeserialization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testTwoTypesCollapseToOneDeserialize</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserialization</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclassAsParameterizedType</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeArrayDeserialization</case>
+    <case>com.google.gson.functional.EnumTest.testCollectionOfEnumsDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testHashMapDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

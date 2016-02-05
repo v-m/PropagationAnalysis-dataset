@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_586" time="109363">
-  <failing>
-    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyPutWithNullKey</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_716" time="51720">
-  <failing>
-    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreamingHierarchical</case>
-    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreaming</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

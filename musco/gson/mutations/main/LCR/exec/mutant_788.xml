@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_788" time="49678">
+  <failing>
+    <case>com.google.gson.JsonPrimitiveTest.testLongEqualsBigInteger</case>
+    <case>com.google.gson.JsonPrimitiveTest.testByteEqualsLong</case>
+    <case>com.google.gson.JsonPrimitiveTest.testEqualsIntegerAndBigInteger</case>
+    <case>com.google.gson.JsonPrimitiveTest.testShortEqualsLong</case>
+    <case>com.google.gson.JsonPrimitiveTest.testIntegerEqualsLong</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

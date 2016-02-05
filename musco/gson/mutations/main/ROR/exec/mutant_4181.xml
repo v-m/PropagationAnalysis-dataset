@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4181" time="54127">
+  <failing>
+    <case>com.google.gson.JsonObjectTest.testAddingBooleanProperties</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomTypeAdapterDoesNotAppliesToSubClasses</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomSerializers</case>
+    <case>com.google.gson.JsonObjectTest.testAddingStringProperties</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testEnsureCustomSerializerNotInvokedForNullValues</case>
+    <case>com.google.gson.JsonObjectTest.testAddingCharacterProperties</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFields</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomTypeAdapterAppliesToSubClassesSerializedAsBaseClass</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingArrayOfSubClassInstances</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValues</case>
+    <case>com.google.gson.functional.JsonParserTest.testDeserializingCustomTree</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

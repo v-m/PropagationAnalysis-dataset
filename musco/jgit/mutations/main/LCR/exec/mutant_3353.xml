@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3353" time="316184">
+  <failing>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testDirModeAndRegex1</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testDirModeAndRegex2</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testDirModeAndRegex3</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

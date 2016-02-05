@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_24168" time="327397">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkFollowFilterTest.testMultiRename</case>
+    <case>org.eclipse.jgit.dircache.DirCacheFindTest.testEntriesWithin</case>
+    <case>org.eclipse.jgit.dircache.DirCachePathEditTest.testAddDeletePathAndTreeNormalNames</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.amendRef</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

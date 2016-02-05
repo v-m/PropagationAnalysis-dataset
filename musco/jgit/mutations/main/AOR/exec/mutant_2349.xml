@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2349" time="306240">
+  <failing>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.untrackedFileNotIncluded</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexContentConflict</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropMiddleStashCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.multipleEdits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedApplyOnOtherBranchWithStagedChange</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithWorkingDirectory</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexDelete</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexAdd</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedContentMerge</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.testApplyStashWithDeletedFile</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDelete</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropAll</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropFirstStashedCommit</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.newFileInIndexThenModifiedInWorkTree</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyIndexChanged</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentMerge</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryEditPreCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexAdd</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDelete</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropBoundaryStashedCommits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedApplyOnOtherBranch</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDeleteIndexAdd</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.refLogIncludesCommitMessage</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropWithInvalidLogIndex</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashChangeInANewSubdirectory</case>
+    <case>org.eclipse.jgit.api.StashDropCommandTest.dropSingleStashedCommit</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.multipleEdits</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.indexDelete</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileNotIncluded</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.indexAdd</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyIndexChanged</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileIncluded</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.untrackedFileIncluded</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

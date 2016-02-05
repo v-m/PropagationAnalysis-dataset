@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_25673" time="164192">
-  <failing>
-    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddYear</case>
-    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddWrapFieldYear</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

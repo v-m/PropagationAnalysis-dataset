@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1689" time="203660">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseNegativeMillis2</case>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseNegativeMillis1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

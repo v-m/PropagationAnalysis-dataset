@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_25614" time="1206606">
+  <failing />
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebasePreserveConfig2</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRemoveOverlappingBare</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.ObjectDirectoryTest.testConcurrentInsertionOfBlobsToTheSameNewFanOutDirectory</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testNonDefaultRemotes</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMerge</case>
+  </hanging>
+</mutation-execution>

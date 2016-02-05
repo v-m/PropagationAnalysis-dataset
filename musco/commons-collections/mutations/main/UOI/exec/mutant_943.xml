@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_943" time="109403">
+  <failing>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testKeySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testValuesIteratorRemoveChangesMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

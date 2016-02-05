@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3870" time="87482">
+  <failing>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomAscii</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testLang100</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomAlphaNumeric</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomAlphabetic</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomStringUtils</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testLANG807</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomStringUtilsHomog</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testLANG805</case>
+    <case>org.apache.commons.lang3.RandomStringUtilsTest.testRandomNumeric</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

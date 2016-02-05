@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1528" time="282227">
+  <failing>
+    <case>org.sonar.core.permission.PermissionFacadeTest.should_apply_permission_template</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.permission.PermissionTemplateDaoTest.should_select_empty_permission_template</case>
+    <case>org.sonar.core.permission.PermissionTemplateDaoTest.should_select_permission_template</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

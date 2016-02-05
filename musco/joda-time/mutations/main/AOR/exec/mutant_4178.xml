@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4178" time="63417">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testToInterval</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP7</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP4</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI1</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI4</case>
+    <case>org.joda.time.TestInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI1</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI4</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_add_long_long</case>
+    <case>org.joda.time.TestMutableInterval_Updates.testSePeriodBeforeEnd_RI2</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI8</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI7</case>
+    <case>org.joda.time.TestMutableInterval_Updates.testSetPeriodBeforeEnd_RI1</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodAfterStart1</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP1</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_RP_int1</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology4</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_RP1</case>
+    <case>org.joda.time.TestMutableInterval_Updates.testSetPeriodAfterStart_RI1</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval_nullZone</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testToInterval</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RP4</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RP1</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodBeforeEnd3</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToInterval_nullZone</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI7</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI8</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology1</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RP7</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

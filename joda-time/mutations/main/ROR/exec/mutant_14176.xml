@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_14176" time="176913">
-  <failing>
-    <case>org.joda.time.TestSerialization.testDuration</case>
-    <case>org.joda.time.TestDuration_Constructors.testFactory_millis_long</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

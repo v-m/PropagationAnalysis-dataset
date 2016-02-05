@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_314" time="113845">
+  <failing>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemoveAll1</case>
+    <case>org.apache.commons.collections4.set.MapBackedSetTest.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.set.MapBackedSetTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemoveAll4</case>
+    <case>org.apache.commons.collections4.set.MapBackedSet2Test.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.set.MapBackedSet2Test.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemoveAll3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

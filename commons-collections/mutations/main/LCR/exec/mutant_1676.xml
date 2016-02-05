@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1676" time="112473">
-  <failing>
-    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testGetIndex</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

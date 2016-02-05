@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_216" time="60347">
+  <failing>
+    <case>org.apache.shindig.expressions.ExpressionsTest.iterableCoercionOfJSONObjectWithListProperty</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.iterableCoercionOfJSONArray</case>
+    <case>org.apache.shindig.expressions.ExpressionsTest.iterableCoercionOfJSONArray</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.iterableCoercionOfJSONObjectWithListProperty</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

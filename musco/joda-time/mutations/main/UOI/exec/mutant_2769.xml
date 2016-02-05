@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2769" time="174806">
+  <failing>
+    <case>org.joda.time.field.TestPreciseDurationField.test_add_long_long</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI1</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI2</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDays.testAddToLocalDate</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI3</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI4</case>
+    <case>org.joda.time.TestSeconds.testAddToLocalDate</case>
+    <case>org.joda.time.TestInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestMinutes.testAddToLocalDate</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI2</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI1</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI4</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI3</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RP_RI7</case>
+    <case>org.joda.time.field.TestPreciseDurationField.test_getMillis_long</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDuration_Basics.testMultipliedBy_long1</case>
+    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_RP_int1</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Turk</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.field.TestPreciseDurationField.test_getMillis_long_long</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestHours.testAddToLocalDate</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RP3</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDurationMonth</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testConstructor_RI_RP2</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationMonth</case>
+    <case>org.joda.time.TestLocalDate_Basics.testEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI7</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_setDayOfMonth</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_lenientChrononolgy_Chicago</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP3</case>
+    <case>org.joda.time.chrono.TestLenientChronology.test_setHourOfDay</case>
+    <case>org.joda.time.chrono.TestLenientChronology.testNearDstTransition</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDurationYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP2</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestWeeks.testAddToLocalDate</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationYear</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodBeforeEnd1</case>
+    <case>org.joda.time.TestMutableInterval_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+    <case>org.joda.time.field.TestUnsupportedDateTimeField.testDelegatedMethods</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.field.TestFieldUtils.testSafeMultiplyLongLong</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

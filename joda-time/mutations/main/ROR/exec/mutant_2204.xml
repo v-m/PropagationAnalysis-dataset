@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2204" time="143530">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormat.testFormat_shortBasicParse</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

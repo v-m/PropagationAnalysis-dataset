@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_369" time="85389">
+  <failing>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testHandleCauseUncheckedError</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testExtractCauseUncheckedNull</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testHandleCauseUncheckedChecked</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testExtractCauseUncheckedChecked</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testExtractCauseUncheckedUncheckedException</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testExtractCauseUncheckedNullCause</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testHandleCauseUncheckedUncheckedException</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testExtractCauseUncheckedError</case>
+    <case>org.apache.commons.lang3.concurrent.ConcurrentUtilsTest.testHandleCauseUncheckedNull</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

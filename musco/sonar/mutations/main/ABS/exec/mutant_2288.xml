@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2288" time="652327">
+  <failing>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.should_be_sorted_by_group_name</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.select_groups_not_affected_to_a_user_by_query</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.should_be_paginated</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.search_by_group_name</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.select_user_groups_by_query</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.count_groups</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.select_user_group</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.select_all_groups_by_query</case>
+    <case>org.sonar.core.user.GroupMembershipDaoTest.search_by_group_name_with_capitalization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

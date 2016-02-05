@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_24925" time="179709">
+  <failing>
+    <case>org.joda.time.TestSeconds.testFactory_standardSecondsIn_RPeriod</case>
+    <case>org.joda.time.TestSeconds.testMinus_int</case>
+    <case>org.joda.time.TestSeconds.testFactory_secondsBetween_RInstant</case>
+    <case>org.joda.time.TestSeconds.testFactory_seconds_int</case>
+    <case>org.joda.time.TestSeconds.testMinus_Seconds</case>
+    <case>org.joda.time.TestSeconds.testFactory_secondsBetween_RPartial</case>
+    <case>org.joda.time.TestSeconds.testNegated</case>
+    <case>org.joda.time.TestSeconds.testMultipliedBy_int</case>
+    <case>org.joda.time.TestSeconds.testFactory_parseSeconds_String</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

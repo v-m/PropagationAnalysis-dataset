@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_5228" time="165509">
-  <failing />
-  <ignored />
-  <hanging>
-    <case>org.apache.commons.collections4.map.LinkedMapTest.testIndexOf</case>
-  </hanging>
-</mutation-execution>

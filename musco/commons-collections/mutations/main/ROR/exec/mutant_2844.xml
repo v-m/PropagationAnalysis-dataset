@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2844" time="115139">
+  <failing>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.queue.UnmodifiableQueueTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.collection.UnmodifiableBoundedCollectionTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.emptyCollection</case>
+    <case>org.apache.commons.collections4.queue.TransformedQueueTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.collection.TransformedCollectionTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.collection.UnmodifiableCollectionTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.queue.PredicatedQueueTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.collection.PredicatedCollectionTest.testObjectEqualsSelf</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_880" time="169462">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min1max2</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min1max3</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestDateTimeZone.testForID_String</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetMillis_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min2max2</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min3max3</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_print_min2max3</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneOffset_parse</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

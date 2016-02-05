@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2151" time="192535">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_invalidStrings</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

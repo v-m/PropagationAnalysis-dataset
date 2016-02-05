@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_4515" time="201063">
-  <failing>
-    <case>org.joda.time.TestPeriod_Constructors.testFactoryFieldDifference1</case>
-    <case>org.joda.time.TestPeriod_Constructors.testFactoryFieldDifference2</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

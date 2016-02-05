@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6297" time="111833">
+  <failing>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testBasics</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testValuesRemoveChangesMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

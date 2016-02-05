@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7719" time="157535">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyYear</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestISOChronology.testMinYear</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusYears_int</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long2</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestISOChronology.testCutoverAddYears</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusYears_int</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddToCopyYear</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_RI_RI2</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI4</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddYear</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_RI_RI4</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

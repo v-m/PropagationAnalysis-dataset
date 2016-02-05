@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2834" time="280589">
-  <failing>
-    <case>org.sonar.core.properties.PropertiesDaoTest.delete_project_property</case>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1771" time="110656">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testCollate</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testCollateIgnoreDuplicates</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

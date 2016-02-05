@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2417" time="314791">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisFromLockHEAD</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefDetachedUnbornHead</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testDeleteNotFound</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisOtherLockFrom</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisOtherLockTo</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisToLockFrom</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNewNamespaceConflictWithLoosePrefixNameExists</case>
+    <case>org.eclipse.jgit.merge.MergeMessageFormatterTest.testMixed</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchHasPreviousLog</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPackRefsTest.dontPackHEAD_bare</case>
+    <case>org.eclipse.jgit.transport.PushProcessTest.testTrackingRefUpdateEnabled</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisToLockTo</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisFromLockFrom</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testParseNonGitDescribe</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchAlsoInPack</case>
+    <case>org.eclipse.jgit.lib.RefTest.testReadSymRefToLoosePacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.test_repack</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNoCacheObjectIdSubclass</case>
+    <case>org.eclipse.jgit.merge.MergeMessageFormatterTest.testRemoteBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameRefNameColission2avoided</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameRefNameColission1avoided</case>
+    <case>org.eclipse.jgit.lib.RefTest.testAmbiguousRefsUnderRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.testIsNameConflicting</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisFromLockTo</case>
+    <case>org.eclipse.jgit.lib.RefTest.testReadAllIncludingSymrefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPackRefsTest.dontPackHEAD_nonBare</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testLooseDelete</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchNoPreviousLog</case>
+    <case>org.eclipse.jgit.lib.RefTest.testReadLooseRef</case>
+    <case>org.eclipse.jgit.lib.RefTest.testRefsUnderRefs</case>
+    <case>org.eclipse.jgit.lib.RefTest.testReadSymRefToPacked</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testDeleteLooseAndItsDirectory</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRefsCacheAfterUpdateLooseOnly</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameCurrentBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNewNamespaceConflictWithLoosePrefixOfExisting</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

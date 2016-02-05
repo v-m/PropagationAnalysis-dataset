@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2430" time="52035">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testPropertiesDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullKey</case>
+    <case>com.google.gson.functional.MapTest.testMapOfMapDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapStandardSubclassDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

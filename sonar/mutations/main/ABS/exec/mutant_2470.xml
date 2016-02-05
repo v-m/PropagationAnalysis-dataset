@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2470" time="662852">
-  <failing>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-    <case>org.sonar.core.resource.ResourceDaoTest.testDescendantProjects_do_not_include_self</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

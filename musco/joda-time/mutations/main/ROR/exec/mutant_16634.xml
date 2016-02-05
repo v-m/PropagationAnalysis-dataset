@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16634" time="170895">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardHours_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardMinutes_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardDuration_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardDays_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardSeconds_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardWeeks_years</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

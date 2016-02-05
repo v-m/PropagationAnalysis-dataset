@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_792" time="63210">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

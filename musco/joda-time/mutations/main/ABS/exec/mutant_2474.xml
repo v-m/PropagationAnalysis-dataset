@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2474" time="168924">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalTime_simple</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

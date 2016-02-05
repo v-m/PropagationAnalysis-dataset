@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_275" time="113302">
+  <failing>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testFullBagCompatibility</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagEqualsHashBag</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagEquals</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testEmptyBagCompatibility</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

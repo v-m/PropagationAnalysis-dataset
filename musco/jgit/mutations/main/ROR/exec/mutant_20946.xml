@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_20946" time="315499">
+  <failing>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebasePreserveConfig3</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebasePreserveConfig2</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategiesNoCommit</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebasePreserve1Config</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testNoFastForwardNoCommit</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSuccessfulContentMergeNoCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges2</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

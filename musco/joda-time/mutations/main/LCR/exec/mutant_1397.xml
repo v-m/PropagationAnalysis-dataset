@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1397" time="196340">
+  <failing>
+    <case>org.joda.time.field.TestUnsupportedDateTimeField.testNullValuesToGetInstanceThrowsException</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

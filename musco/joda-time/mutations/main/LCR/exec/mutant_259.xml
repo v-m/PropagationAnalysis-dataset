@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_259" time="136830">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortLongDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortMediumDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_monthOfYearText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDateTime</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testToString_String_String</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_dayOfWeekText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDate</case>
+    <case>org.joda.time.TestDateTime_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textEraAD_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testToString_String_String</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumShortDateTime</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_dayOfWeekShortText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortFullDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLong_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumLongDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_monthOfYearShortText</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France_withSpecifiedDefault</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testWithGetLocale</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_locale</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumFullDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21113" time="200621">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusMillis_int</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_before1970</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusWeeks_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusWeeks_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusMinutes_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusSeconds_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusMinutes_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusSeconds_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusDays_int</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_beforeYearZero3</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromDateFields_beforeYearZero1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromCalendarFields_beforeYearZero1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusDays_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testFactory_fromCalendarFields_beforeYearZero3</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusHours_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusHours_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_simple</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusMillis_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusYears_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

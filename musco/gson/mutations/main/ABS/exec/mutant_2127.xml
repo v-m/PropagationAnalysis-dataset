@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2127" time="50862">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializingDecimalPointValueZeroSucceeds</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipDouble</case>
+    <case>com.google.gson.JavaSerializationTest.testNumberIsSerializable</case>
+    <case>com.google.gson.functional.PrimitiveTest.testValueVeryCloseToZeroIsZero</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfPrimitivesAsObjectsDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNumberDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDoubles</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

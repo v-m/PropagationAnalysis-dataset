@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1567" time="51487">
+  <failing>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testPutOverrides</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testRemoveRootDoesNotDoubleUnlink</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testPutNonComparableKeyFails</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testContainsNullKeyIsAlwaysFalse</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testEqualsAndHashCode</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testContainsNonComparableKeyReturnsFalse</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testForceDoublingAndRehash</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testIterationOrder</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testClear</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testEmptyStringValues</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

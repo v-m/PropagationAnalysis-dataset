@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4165" time="114613">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_winter</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_summer</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST</case>
+  </hanging>
+</mutation-execution>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3459" time="51648">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipDouble</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testArrayOfObjects</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipInteger</case>
+    <case>com.google.gson.stream.JsonReaderTest.testHelloWorld</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.functional.JsonAdapterAnnotationOnClassesTest.testJsonAdapterInvoked</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientMultipleTopLevelValues</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDeeplyNestedObjects</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObjectAfterPeek</case>
+    <case>com.google.gson.stream.JsonReaderTest.testReadObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testCommentsInStringValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

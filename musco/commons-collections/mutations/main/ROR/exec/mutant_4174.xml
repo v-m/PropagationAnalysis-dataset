@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4174" time="377075">
+  <failing>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapContainsValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1816" time="124842">
+  <failing>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testIsMetaphoneEqual1</case>
+    <case>org.apache.commons.codec.language.MetaphoneTest.testMetaphone</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

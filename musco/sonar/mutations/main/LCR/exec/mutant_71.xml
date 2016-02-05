@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_71" time="653910">
+  <failing>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.manual_issues_be_resolved_then_closed</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.wont_fix</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.flag_as_false_positive</case>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.manual_issues_be_confirmed_then_kept_open</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

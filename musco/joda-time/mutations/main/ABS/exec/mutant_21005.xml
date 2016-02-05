@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21005" time="169255">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextYear</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextMonth</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMinute</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextSecond</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextHour</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextDay</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMilli</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

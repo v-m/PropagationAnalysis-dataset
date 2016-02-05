@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_602" time="170657">
-  <failing>
-    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_datetime_DM</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

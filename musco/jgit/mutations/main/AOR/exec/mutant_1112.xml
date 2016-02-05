@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1112" time="1424511">
+  <failing>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testFallbackToMyersDiff</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategies</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleFixup</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebasePreserve1Config</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndSkipNoConflict</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushRefUpdate</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevert</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithRebaseConfig1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+  </hanging>
+</mutation-execution>

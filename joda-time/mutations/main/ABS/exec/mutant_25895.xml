@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_25895" time="151471">
-  <failing>
-    <case>org.joda.time.TestYears.testMultipliedBy_int</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

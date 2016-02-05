@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_122" time="9960">
-  <failing>
-    <case>com.github.sworm.spojo.data.BasicPropertyTest.removeProperty</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

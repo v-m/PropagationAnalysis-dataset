@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11" time="9861">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.inmutableClass</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringInclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkSet</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringInclude4</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTEStringSource1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionInclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayInt</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkListExclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude5</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringDisabled1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropArrayInt</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

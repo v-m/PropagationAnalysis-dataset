@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_61" time="2297">
+  <failing>
+    <case>com.github.sworm.spojo.config.RuleMetadataTest.metadataToString</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simpleProperty1Child</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simpleProperty</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simplePropertyRoot</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

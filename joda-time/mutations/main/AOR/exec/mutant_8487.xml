@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_8487" time="173160">
-  <failing>
-    <case>org.joda.time.TestTimeOfDay_Constructors.testFactory_FromDateFields_after1970</case>
-    <case>org.joda.time.TestTimeOfDay_Constructors.testFactory_FromDateFields_before1970</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

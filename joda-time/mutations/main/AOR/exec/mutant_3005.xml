@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3005" time="62750">
-  <failing>
-    <case>org.joda.time.chrono.TestBuddhistChronology.testToString</case>
-    <case>org.joda.time.TestChronology.testToString</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

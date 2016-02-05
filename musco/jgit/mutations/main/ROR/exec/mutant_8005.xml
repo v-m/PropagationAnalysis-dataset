@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8005" time="325440">
+  <failing>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffTwoCommits</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testFilteringTreeFiltersReferencedBlobs</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDerefTag</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testFilteringTreeFiltersSubtrees</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.invalidNames</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testObjectId_objectid_implicit_firstparent</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testTree</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testFilteringCommitsHasNoEffect</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

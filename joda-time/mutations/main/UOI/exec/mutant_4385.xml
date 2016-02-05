@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_4385" time="185929">
-  <failing>
-    <case>org.joda.time.TestPartial_Basics.testWith3</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

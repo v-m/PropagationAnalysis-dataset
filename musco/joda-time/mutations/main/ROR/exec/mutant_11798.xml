@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11798" time="206921">
+  <failing>
+    <case>org.joda.time.tz.TestCompiler.testDateTimeZoneBuilder</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_JustAfterLastEverOverlap</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.tz.TestBuilder.testID</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2410" time="111745">
+  <failing>
+    <case>org.apache.commons.codec.binary.Base64Test.testIsArrayByteBase64</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testIsStringBase64</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testNonBase64Test</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

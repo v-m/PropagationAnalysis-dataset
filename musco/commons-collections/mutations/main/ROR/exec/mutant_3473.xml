@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3473" time="112523">
+  <failing>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.set.MapBackedSetTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.set.MapBackedSetTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.set.MapBackedSet2Test.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.set.MapBackedSet2Test.testSimpleSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

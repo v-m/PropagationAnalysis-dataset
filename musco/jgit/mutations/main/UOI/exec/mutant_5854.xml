@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5854" time="231264">
+  <failing>
+    <case>org.eclipse.jgit.dircache.DirCacheBuilderTest.testBuildOneFile_FinishWriteCommit</case>
+    <case>org.eclipse.jgit.treewalk.FileTreeIteratorTest.testIsModifiedFileSmudged</case>
+    <case>org.eclipse.jgit.dircache.DirCacheBuilderTest.testBuildOneFile_Commit</case>
+    <case>org.eclipse.jgit.treewalk.FileTreeIteratorTest.testIsModifiedSymlinkAsFile</case>
+    <case>org.eclipse.jgit.dircache.DirCacheEntryTest.testCopyMetaDataWithStage</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testMixedResetRetainsSizeAndModifiedTime</case>
+    <case>org.eclipse.jgit.treewalk.FileTreeIteratorTest.testDirCacheMatchingId</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testUpdateSmudgedEntries</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitIgnoresSmudgedEntryWithDifferentId</case>
+    <case>org.eclipse.jgit.dircache.DirCacheEntryTest.testCopyMetaDataWithoutStage</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

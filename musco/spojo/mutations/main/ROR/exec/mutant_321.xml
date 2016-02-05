@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_321" time="2371">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRule1</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleNull</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass5WithOneAnnotation</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass3</case>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddClass2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4433" time="163531">
+  <failing>
+    <case>org.joda.time.TestPartial_Basics.testWith3</case>
+    <case>org.joda.time.TestPartial_Basics.testWith_baseAndArgHaveNoRange</case>
+    <case>org.joda.time.TestPartial_Basics.testWith_argHasNoRange</case>
+    <case>org.joda.time.TestPartial_Basics.testGetFormatter3</case>
+    <case>org.joda.time.TestLocalDate_Basics.testCompareTo</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testCompareTo</case>
+    <case>org.joda.time.TestYearMonth_Basics.testCompareTo</case>
+    <case>org.joda.time.TestMonthDay_Basics.testCompareTo</case>
+    <case>org.joda.time.TestPartial_Basics.testToString4</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3f</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3b</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testCompareTo</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3c</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

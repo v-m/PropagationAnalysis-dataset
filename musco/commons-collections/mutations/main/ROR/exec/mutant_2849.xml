@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2849" time="115110">
+  <failing>
+    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionToArray2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

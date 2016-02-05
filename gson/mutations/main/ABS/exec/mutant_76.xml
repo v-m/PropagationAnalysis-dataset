@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_76" time="50104">
-  <failing>
-    <case>com.google.gson.internal.bind.JsonElementReaderTest.testLenientNansAndInfinities</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

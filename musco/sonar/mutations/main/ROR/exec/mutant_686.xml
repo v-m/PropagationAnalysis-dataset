@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_686" time="283752">
+  <failing>
+    <case>org.sonar.core.issue.IssueUpdaterTest.set_past_technical_debt</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.set_past_technical_debt_without_previous_value</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.set_past_technical_debt_with_null_new_value</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

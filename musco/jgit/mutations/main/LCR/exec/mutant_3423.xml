@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3423" time="222139">
+  <failing>
+    <case>org.eclipse.jgit.attributes.AttributesMatcherTest.testFileNameWildcards</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testFilePathCase2</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testFileNameWildcards</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testFilePathCase0</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testManySolutionsCase2</case>
+    <case>org.eclipse.jgit.attributes.AttributesMatcherTest.testTargetWithoutLeadingSlash</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testTargetWithoutLeadingSlash</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testUnsupportedGroupCase01</case>
+    <case>org.eclipse.jgit.ignore.IgnoreRuleSpecialCasesTest.testSimpleStarCase3</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

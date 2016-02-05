@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2369" time="349082">
+  <failing>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveMasterCommits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolvePreviousBranch</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexContentConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.multipleEdits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedApplyOnOtherBranchWithStagedChange</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithWorkingDirectory</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveReflogParent</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexDelete</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.resolveUpstream</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedContentMerge</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.testApplyStashWithDeletedFile</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDelete</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.noStashedCommits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentMerge</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryEditPreCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexAdd</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveNonExistingBranch</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedApplyOnOtherBranch</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveDate</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryDeleteIndexAdd</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveUnnamedCurrentBranchCommits</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashChangeInANewSubdirectory</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.invalidNames</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileNotIncluded</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyIndexChanged</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileIncluded</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

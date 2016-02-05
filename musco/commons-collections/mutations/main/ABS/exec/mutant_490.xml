@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_490" time="112439">
+  <failing>
+    <case>org.apache.commons.collections4.ListUtilsTest.testLazyList</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

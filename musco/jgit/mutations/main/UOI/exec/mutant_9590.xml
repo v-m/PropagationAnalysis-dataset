@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9590" time="306740">
+  <failing>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_FooSpBar</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseModeChange</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_SrcFooC</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_Foo</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_NoBinary</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_GitBinaryNoForwardHunk</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_DqFooSpLfNulBar</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryDelta</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryLiteral</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_DqFooTabBar</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseGitFileName_SrcFooCNonStandardPrefix</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

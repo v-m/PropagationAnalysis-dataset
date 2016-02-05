@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_956" time="110893">
+  <failing>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionRemoveAll</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2410" time="215310">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_offsetParsed</case>
-    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

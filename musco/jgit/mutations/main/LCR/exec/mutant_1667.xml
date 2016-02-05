@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1667" time="409990">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testParseRewordCommand</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForEditInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForRewordInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndAbortWithDetachedHEAD</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldSquashInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMixedSquashAndFixup</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testLeadingSpacesRebaseTodo</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+  </hanging>
+</mutation-execution>

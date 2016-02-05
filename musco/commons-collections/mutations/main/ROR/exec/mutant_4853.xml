@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4853" time="119244">
+  <failing>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapPut</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11576" time="344057">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackFileTest.testDelta_SmallObjectChain</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0004_PackReaderTest.test004_lookupDeltifiedObject</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_Defaults</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackFileTest.testDelta_FailsOver2GiB</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooFewFiles</case>
+    <case>org.eclipse.jgit.internal.storage.file.WindowCacheGetTest.testCache_TooSmallLimit</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWriteIndex</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack3</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1NoObjectReuse</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_152" time="53395">
+  <failing>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testCustomTypeAdapterPassesNullSerialization</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValuesSerialized</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonNullSerialization</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testCustomSerializationOfNulls</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValues</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testSerializeNullsTrue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

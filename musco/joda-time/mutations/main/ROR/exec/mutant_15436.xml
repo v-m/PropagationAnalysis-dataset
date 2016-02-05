@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15436" time="207369">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_DateTimeZone</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

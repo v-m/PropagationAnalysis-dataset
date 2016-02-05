@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1064" time="51126">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelUnquotedString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

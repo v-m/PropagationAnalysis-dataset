@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4495" time="169890">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardHours_years</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardHours_months</case>
+    <case>org.joda.time.TestPeriod_Basics.testToStandardHours</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

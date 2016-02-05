@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1357" time="111357">
+  <failing>
+    <case>org.apache.commons.collections4.trie.PatriciaTrie2Test.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.trie.UnmodifiableTrieTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.trie.PatriciaTrie2Test.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.trie.PatriciaTrieTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.trie.PatriciaTrieTest.testEntrySetRemove3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

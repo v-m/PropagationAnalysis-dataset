@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_24211" time="214844">
-  <failing>
-    <case>org.joda.time.TestPeriod_Basics.testMinusFields</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

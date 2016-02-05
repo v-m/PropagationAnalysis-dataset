@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_697" time="182280">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixComposite1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite5IgnoringAffix</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

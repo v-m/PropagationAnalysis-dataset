@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8896" time="110299">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testEmptyMapCompatibility</case>
+    <case>org.apache.commons.collections4.bidimap.TreeBidiMapTest.testSimpleSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

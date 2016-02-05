@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_7046" time="203834">
-  <failing>
-    <case>org.joda.time.TestDateTimeZone.testForID_String</case>
-    <case>org.joda.time.TestDateTimeZone.testForTimeZone_TimeZone</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

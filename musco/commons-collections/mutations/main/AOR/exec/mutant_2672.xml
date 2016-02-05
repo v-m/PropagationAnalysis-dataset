@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2672" time="114603">
+  <failing>
+    <case>org.apache.commons.collections4.trie.PatriciaTrie2Test.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.union</case>
+    <case>org.apache.commons.collections4.map.TransformedSortedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testDisjunctionAsSymmetricDifference</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testDisjunctionAsUnionMinusIntersection</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.intersection</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSubtractWithPredicate</case>
+    <case>org.apache.commons.collections4.map.PredicatedSortedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.getCardinalityMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LazySortedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ListOrderedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testIsProperSubCollection</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.disjunction</case>
+    <case>org.apache.commons.collections4.map.PredicatedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.StaticBucketMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testIsSubCollection2</case>
+    <case>org.apache.commons.collections4.map.TransformedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.DefaultedMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.trie.PatriciaTrieTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LazyMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testSubtract</case>
+    <case>org.apache.commons.collections4.map.PassiveExpiringMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.ListOrderedMap2Test.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.cardinalityOfNull</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

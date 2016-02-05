@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1892" time="111386">
+  <failing>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrintSelfReference</case>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrintNullKey</case>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrintNullKeyToMap1</case>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrintNullKeyToMap2</case>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrintNullLabel</case>
+    <case>org.apache.commons.collections4.MapUtilsTest.testDebugPrint</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

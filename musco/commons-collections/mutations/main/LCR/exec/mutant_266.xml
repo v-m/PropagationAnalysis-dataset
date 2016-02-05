@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_266" time="109401">
+  <failing>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testDecoratedCollectionIsIndexedOnCreation</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testReindexUpdatesIndexWhenDecoratedCollectionIsModifiedSeparately</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionAddAll</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testEnsureDuplicateObjectsCauseException</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

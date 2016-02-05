@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1622" time="52102">
+  <failing>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testRemoveRootDoesNotDoubleUnlink</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testIterationOrder</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testClear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

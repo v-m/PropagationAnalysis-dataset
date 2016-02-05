@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4329" time="45324">
+  <failing>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

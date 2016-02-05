@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1126" time="182739">
+  <failing>
+    <case>org.joda.time.convert.TestCalendarConverter.testGetChronology_Object_nullChronology</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_Object2</case>
+    <case>org.joda.time.TestTimeOfDay_Constructors.testConstructor_Object2</case>
+    <case>org.joda.time.convert.TestCalendarConverter.testGetChronology_Object_Zone</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

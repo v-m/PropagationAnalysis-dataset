@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1117" time="112469">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testReset</case>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testWalkForwardAndBack</case>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

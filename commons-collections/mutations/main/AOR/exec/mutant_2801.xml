@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2801" time="114814">
-  <failing>
-    <case>org.apache.commons.collections4.ListUtilsTest.testHashCode</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

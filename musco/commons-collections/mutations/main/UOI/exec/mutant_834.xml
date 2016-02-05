@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_834" time="116853">
+  <failing>
+    <case>org.apache.commons.collections4.map.ListOrderedMapTest.testCOLLECTIONS_474_nullValues</case>
+    <case>org.apache.commons.collections4.map.ListOrderedMapTest.testPutAllWithIndexBug441</case>
+    <case>org.apache.commons.collections4.map.ListOrderedMapTest.testCOLLECTIONS_474_nonNullValues</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

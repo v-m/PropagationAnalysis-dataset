@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_33" time="6027">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesInnerExclude</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyInclude2ndLevelComplexProperty</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropertiesListProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude5</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude4</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkSet</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude6</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude5</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude4</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude3</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExclude2ndLevelAllProperty</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayInt</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude4</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude5</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayStr</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude2</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringDisabled1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude1</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkCollectionExclude3</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesInner</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyExclude2ndLevelAllProperty</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropertiesListStr</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludeList</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesInnerExclude</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyInclude2ndLevelComplexProperty</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkListExclude1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesInner</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropArrayProbe</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

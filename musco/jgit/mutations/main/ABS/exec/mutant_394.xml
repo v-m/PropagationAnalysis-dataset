@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_394" time="417894">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testCollapseFanoutAfterMerge</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+  </hanging>
+</mutation-execution>

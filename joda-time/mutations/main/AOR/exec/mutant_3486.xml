@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3486" time="190375">
-  <failing>
-    <case>org.joda.time.chrono.TestGregorianChronology.testFactory_Zone_int</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

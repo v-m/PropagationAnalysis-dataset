@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1599" time="662628">
+  <failing>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.create_and_acquire_semaphore</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.acquire_locked_semaphore_when_timeout_is_zero</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.acquire_long_locked_semaphore</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.create_and_acquire_semaphore_when_maxage_is_zeo</case>
+    <case>org.sonar.core.persistence.SemaphoreDaoTest.create_and_acquire_semaphore_when_no_timeout</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

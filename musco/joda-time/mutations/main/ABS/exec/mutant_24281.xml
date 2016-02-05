@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_24281" time="198266">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_fullNegative</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonthDay</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_negative</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

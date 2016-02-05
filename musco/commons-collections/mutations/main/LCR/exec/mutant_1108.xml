@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1108" time="117692">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testEmptyListIteratorIsIndeedEmpty</case>
+    <case>org.apache.commons.collections4.iterators.SingletonListIteratorTest.testEmptyIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

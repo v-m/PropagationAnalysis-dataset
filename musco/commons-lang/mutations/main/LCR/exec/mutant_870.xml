@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_870" time="111623">
+  <failing>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testEscapeXml</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeHexCharsHtml</case>
+    <case>org.apache.commons.lang3.StringEscapeUtilsTest.testUnescapeXmlSupplementaryCharacters</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest.testUnfinishedEntity</case>
+    <case>org.apache.commons.lang3.text.translate.NumericEntityUnescaperTest.testSupplementaryUnescaping</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

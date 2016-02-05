@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_502" time="42799">
+  <failing>
+    <case>org.apache.shindig.protocol.conversion.BeanDelegatorTest.testExtraFieldsBadCase</case>
+    <case>org.apache.shindig.protocol.conversion.BeanDelegatorTest.testExtraFields</case>
+    <case>org.apache.shindig.protocol.conversion.BeanDelegatorTest.testValidateGoodBean</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

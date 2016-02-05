@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4527" time="84893">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_weekDay1</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_yearMonthWeekDay</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_yearMonth1</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_fullNegative</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonth1</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonthDay</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_weekDay3</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_weekDay1</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_yearMonthDay</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_negative</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonthWeekDay</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

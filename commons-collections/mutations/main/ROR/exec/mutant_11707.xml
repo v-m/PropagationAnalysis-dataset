@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_11707" time="114264">
-  <failing>
-    <case>org.apache.commons.collections4.set.ListOrderedSet2Test.testCollectionRetainAll</case>
-    <case>org.apache.commons.collections4.set.ListOrderedSetTest.testCollectionRetainAll</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

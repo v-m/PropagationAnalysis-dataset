@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3" time="48803">
+  <failing>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithNestedWildcards</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromRawTypes</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithBasicWildcards</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithTypeParameters</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

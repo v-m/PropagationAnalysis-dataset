@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4262" time="348622">
+  <failing>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUnchangedComplex</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test012_SubtreeExternalSorting</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test005_addRecursiveFile</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testRemoved</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testModified</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

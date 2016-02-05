@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_39188" time="294538">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.FooterLineTest.testNoFooters_ShortBodyNoLF</case>
+    <case>org.eclipse.jgit.revwalk.FooterLineTest.testNoFooters_ShortBodyWithLF</case>
+    <case>org.eclipse.jgit.revwalk.FooterLineTest.testSignedOffBy_SkipNonFooter</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2898" time="88593">
+  <failing>
+    <case>org.apache.commons.lang3.CharUtilsTest.testIsAsciiAlphanumeric_char</case>
+    <case>org.apache.commons.lang3.CharUtilsTest.testIsAsciiAlpha_char</case>
+    <case>org.apache.commons.lang3.CharUtilsTest.testIsAsciiAlphaUpper_char</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_35" time="8630">
+  <failing>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.equalsProperty4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

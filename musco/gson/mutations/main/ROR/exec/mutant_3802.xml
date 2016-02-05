@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3802" time="52703">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testWriteMapsWithEmptyStringKey</case>
+    <case>com.google.gson.functional.ObjectTest.testStringFieldWithEmptyValueSerialization</case>
+    <case>com.google.gson.functional.StringTest.testAssignmentCharSerialization</case>
+    <case>com.google.gson.JsonObjectTest.testPropertyWithQuotes</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testCompactFormattingLeavesNoWhiteSpace</case>
+    <case>com.google.gson.functional.StringTest.testEscapingQuotesInStringSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapWithQuotes</case>
+    <case>com.google.gson.functional.PrimitiveTest.testHtmlCharacterSerialization</case>
+    <case>com.google.gson.functional.UncategorizedTest.testGsonInstanceReusableForSerializationAndDeserialization</case>
+    <case>com.google.gson.functional.StringTest.testEscapedCtrlNInStringSerialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersSerialization</case>
+    <case>com.google.gson.functional.UncategorizedTest.testStaticFieldsAreNotSerialized</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapeAllHtmlCharacters</case>
+    <case>com.google.gson.functional.SecurityTest.testNonExecutableJsonSerialization</case>
+    <case>com.google.gson.functional.StringTest.testEscapedCtrlRInStringSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+    <case>com.google.gson.stream.JsonWriterTest.testStrings</case>
+    <case>com.google.gson.JsonPrimitiveTest.testValidJsonOnToString</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testWriterForSerialization</case>
+    <case>com.google.gson.MixedStreamTest.testWriteHtmlSafe</case>
+    <case>com.google.gson.stream.JsonWriterTest.testUnicodeLineBreaksEscaped</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsAsFields</case>
+    <case>com.google.gson.functional.NamingPolicyTest.testComplexFieldNameStrategy</case>
+    <case>com.google.gson.functional.ArrayTest.testObjectArrayWithNonPrimitivesSerialization</case>
+    <case>com.google.gson.functional.PrettyPrintingTest.testPrettyPrintList</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingQuotesInStringArray</case>
+    <case>com.google.gson.functional.StringTest.testEscapedBackslashInStringSerialization</case>
+    <case>com.google.gson.JsonObjectTest.testWritePropertyWithEmptyStringName</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_20469" time="162588">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusWeeks_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToNegative</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusWeeks_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusYears_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_simple</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyTextYear</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddToCopyYear</case>
+    <case>org.joda.time.chrono.TestGJDate.test_cutoverPreZero</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyYear</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusDays_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusDays_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyYear</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToZero</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

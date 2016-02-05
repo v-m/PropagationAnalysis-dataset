@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22705" time="211272">
+  <failing>
+    <case>org.joda.time.format.TestTextFields.testHalfdayNames</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestStringConvert.testMutableDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

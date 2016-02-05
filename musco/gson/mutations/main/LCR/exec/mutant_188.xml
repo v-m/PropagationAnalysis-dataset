@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_188" time="62044">
+  <failing>
+    <case>com.google.gson.GenericArrayTypeTest.testOurTypeFunctionality</case>
+    <case>com.google.gson.reflect.TypeTokenTest.testIsAssignableFromWithNestedWildcards</case>
+    <case>com.google.gson.FieldAttributesTest.testDeclaredTypeAndClass</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorForCollectionType</case>
+    <case>com.google.gson.ParameterizedTypeTest.testOurTypeFunctionality</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

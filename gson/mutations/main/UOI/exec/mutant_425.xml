@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_425" time="51800">
-  <failing>
-    <case>com.google.gson.JsonObjectTest.testAddingAndRemovingObjectProperties</case>
-    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

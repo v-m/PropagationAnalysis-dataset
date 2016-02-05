@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_117" time="84839">
+  <failing>
+    <case>org.apache.commons.io.DirectoryWalkerTestCase.testFilterAndLimitD</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCaseJava4.testFilterAndLimitD</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCase.testFilterAndLimitC</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCaseJava4.testFilterAndLimitC</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCase.testLimitToCurrent</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCase.testFilterAndLimitB</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCaseJava4.testFilterAndLimitB</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCaseJava4.testLimitToCurrent</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCase.testFilterAndLimitA</case>
+    <case>org.apache.commons.io.DirectoryWalkerTestCaseJava4.testFilterAndLimitA</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3890" time="49148">
-  <failing>
-    <case>com.google.gson.functional.CircularReferenceTest.testDirectedAcyclicGraphDeserialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

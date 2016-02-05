@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13749" time="146140">
+  <failing>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_setHourAcross_NewYork_Spring</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

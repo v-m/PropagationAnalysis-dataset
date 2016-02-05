@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1072" time="64656">
+  <failing>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testDeserializeId</case>
+    <case>com.google.gson.functional.MapTest.testSortedMap</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclass</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testDateSerializationInCollection</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableDeserialization</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForCollectionElementDeserialization</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSubclassWithRegisteredTypeAdapter</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.CollectionTest.testFieldIsArrayList</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.CollectionTest.testSetDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.functional.EnumTest.testEnumSet</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.functional.MapTest.testMapSubclassDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testHashMapDeserialization</case>
+    <case>com.google.gson.functional.UncategorizedTest.testTrailingWhitespace</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.functional.PrimitiveTest.testStringsAsBooleans</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_20310" time="172392">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodBeforeEnd2</case>
+    <case>org.joda.time.TestInterval_Basics.testWithDurationBeforeEnd1</case>
+    <case>org.joda.time.TestInterval_Basics.testWithDurationBeforeEnd2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

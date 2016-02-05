@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1325" time="163110">
+  <failing>
+    <case>org.joda.time.TestDays.testToStandardSeconds</case>
+    <case>org.joda.time.TestHours.testToStandardMinutes</case>
+    <case>org.joda.time.TestStringConvert.testMinutes</case>
+    <case>org.joda.time.TestWeeks.testToStandardMinutes</case>
+    <case>org.joda.time.TestMinutes.testToStandardSeconds</case>
+    <case>org.joda.time.TestStringConvert.testYears</case>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testEqualsHashCode</case>
+    <case>org.joda.time.TestDays.testToStandardMinutes</case>
+    <case>org.joda.time.TestWeeks.testToStandardHours</case>
+    <case>org.joda.time.TestWeeks.testToStandardSeconds</case>
+    <case>org.joda.time.TestStringConvert.testSeconds</case>
+    <case>org.joda.time.TestWeeks.testToStandardDays</case>
+    <case>org.joda.time.TestDays.testToStandardHours</case>
+    <case>org.joda.time.TestStringConvert.testWeeks</case>
+    <case>org.joda.time.TestHours.testToStandardSeconds</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

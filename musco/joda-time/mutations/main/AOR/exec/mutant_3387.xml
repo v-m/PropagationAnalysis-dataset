@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3387" time="207083">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestISOChronology.testPartialDayOfYearAdd</case>
+    <case>org.joda.time.TestStringConvert.testMonthDay_leapDay</case>
+    <case>org.joda.time.TestMonthDay_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_weekyearOfEra_twoDigit</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_feb29</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

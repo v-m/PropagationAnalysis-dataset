@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2175" time="333760">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testMergeCommitEntirelyShallow</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testDepth1</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testDepth2</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testDepth3</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testMergeCommitOneParentShallow</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testObjectDirectorySnapshot</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

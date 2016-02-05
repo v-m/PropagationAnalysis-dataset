@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3945" time="349508">
+  <failing>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitNewSubmodule</case>
+    <case>org.eclipse.jgit.internal.storage.file.FileRepositoryBuilderTest.absoluteGitDirRef</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithNestedSubmodules</case>
+    <case>org.eclipse.jgit.internal.storage.file.FileRepositoryBuilderTest.relativeGitDirRef</case>
+    <case>org.eclipse.jgit.submodule.SubmoduleWalkTest.repositoryWithRootLevelSubmoduleAbsoluteRef</case>
+    <case>org.eclipse.jgit.submodule.SubmoduleAddTest.addSubmodule</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitSubmoduleUpdate</case>
+    <case>org.eclipse.jgit.submodule.SubmoduleAddTest.addSubmoduleWithRelativeUri</case>
+    <case>org.eclipse.jgit.submodule.SubmoduleUpdateTest.repositoryWithSubmodule</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.internal.storage.file.FileRepositoryBuilderTest.scanWithGitDirRef</case>
+    <case>org.eclipse.jgit.submodule.SubmoduleWalkTest.repositoryWithRootLevelSubmoduleRelativeRef</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

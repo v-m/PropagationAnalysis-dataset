@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1267" time="123884">
+  <failing>
+    <case>org.apache.commons.collections4.comparators.ComparableComparatorTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.comparators.TransformingComparatorTest.testEquals</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

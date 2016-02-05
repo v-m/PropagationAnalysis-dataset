@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4408" time="129644">
+  <failing>
+    <case>org.apache.commons.codec.digest.Sha256CryptTest.testSha256LargetThanBlocksize</case>
+    <case>org.apache.commons.codec.digest.Sha512CryptTest.testSha256LargetThanBlocksize</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

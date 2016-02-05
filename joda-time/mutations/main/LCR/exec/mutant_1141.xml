@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1141" time="230443">
-  <failing>
-    <case>org.joda.time.chrono.TestEthiopicChronology.testLeap_6_13</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

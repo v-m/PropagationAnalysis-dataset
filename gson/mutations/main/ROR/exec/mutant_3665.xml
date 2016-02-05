@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3665" time="49938">
-  <failing>
-    <case>com.google.gson.stream.JsonWriterTest.testBadNestingArray</case>
-    <case>com.google.gson.stream.JsonWriterTest.testBadNestingObject</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

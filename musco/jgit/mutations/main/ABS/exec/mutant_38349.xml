@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_38349" time="285284">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadOneLine</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.RAW</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_NoParents</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNoCacheObjectIdSubclass</case>
+    <case>org.eclipse.jgit.transport.PushCertificateIdentTest.parseValid</case>
+    <case>org.eclipse.jgit.transport.PushCertificateIdentTest.incompleteCasesMatchPersonIdent</case>
+    <case>org.eclipse.jgit.transport.PushCertificateParserTest.parseCertFromPktLine</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadWhileAppendIsInProgress</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.ISO</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.LOCALE</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testId</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.SHORT</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadLineWithMissingComment</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.DEFAULT</case>
+    <case>org.eclipse.jgit.transport.PushCertificateIdentTest.fuzzyCasesMatchPersonIdent</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testSpecificEntryNumber</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadTwoLine</case>
+    <case>org.eclipse.jgit.util.GitDateFormatterTest.RFC</case>
+    <case>org.eclipse.jgit.merge.SquashMessageFormatterTest.testCommit</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3904" time="60171">
+  <failing>
+    <case>com.google.gson.functional.UncategorizedTest.testObjectEqualButNotSameSerialization</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testDirectedAcyclicGraphSerialization</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testCircularSerialization</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testSelfReferenceArrayFieldSerialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeRecursive</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

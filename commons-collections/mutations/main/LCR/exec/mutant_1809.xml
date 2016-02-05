@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1809" time="89787">
-  <failing>
-    <case>org.apache.commons.collections4.CollectionUtilsTest.find</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3540" time="173392">
-  <failing>
-    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
-    <case>org.joda.time.chrono.TestIslamicChronology.testHabashAlHasibBasedLeapYear</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

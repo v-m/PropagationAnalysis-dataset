@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_754" time="49139">
+  <failing>
+    <case>com.google.gson.JsonObjectTest.testEqualsOnEmptyObject</case>
+    <case>com.google.gson.JsonObjectTest.testEqualsNonEmptyObject</case>
+    <case>com.google.gson.JsonArrayTest.testEqualsNonEmptyArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

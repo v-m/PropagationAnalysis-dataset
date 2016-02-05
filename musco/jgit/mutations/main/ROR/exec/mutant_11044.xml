@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11044" time="315221">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaResultSize</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testTinyThinPack</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testMaxObjectSizeDeltaBlock</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4ThinPack</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitHeaderRead</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSingleRead</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

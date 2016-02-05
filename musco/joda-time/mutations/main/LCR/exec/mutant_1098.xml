@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1098" time="183130">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestISOChronology.testLeap_28feb</case>
+    <case>org.joda.time.chrono.TestGJChronology.testLeap_28feb</case>
+    <case>org.joda.time.chrono.TestJulianChronology.testLeap_28feb</case>
+    <case>org.joda.time.chrono.TestGregorianChronology.testLeap_28feb</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

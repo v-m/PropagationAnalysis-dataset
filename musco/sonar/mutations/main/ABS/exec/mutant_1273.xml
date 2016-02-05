@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1273" time="651786">
+  <failing>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDaoTest.insert_characteristic</case>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDaoTest.insert_characteristics</case>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDtoTest.to_dto_from_characteristic</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDaoTest.select_enabled_characteristics</case>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDaoTest.select_characteristic_by_key</case>
+    <case>org.sonar.core.technicaldebt.db.CharacteristicDaoTest.update_characteristic</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

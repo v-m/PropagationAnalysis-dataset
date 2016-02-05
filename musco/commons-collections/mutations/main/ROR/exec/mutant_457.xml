@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_457" time="110162">
+  <failing>
+    <case>org.apache.commons.collections4.list.GrowthListTest.testListAddByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.GrowthListTest.testGrowthAdd</case>
+    <case>org.apache.commons.collections4.list.GrowthListTest.testListAddByIndexBoundsChecking</case>
+    <case>org.apache.commons.collections4.list.GrowthListTest.testListAddByIndex</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

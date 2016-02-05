@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_471" time="113942">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListLastIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionAdd</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListEquals</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListHashCode</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListAddByIndex</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListSetByIndex</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionContains</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListGetByIndex</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionIterator</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionIsEmpty</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListIndexOf</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionContainsAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListRemoveByIndex</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListIteratorSet</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testCollectionAddAll</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListIteratorAdd</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

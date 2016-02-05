@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_18" time="85233">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testContains_RInterval</case>
+    <case>org.joda.time.TestInterval_Basics.test_useCase_ContainsOverlapAbutGap</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testContains_RInterval</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

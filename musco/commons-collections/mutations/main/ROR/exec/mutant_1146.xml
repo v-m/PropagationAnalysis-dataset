@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1146" time="50014">
+  <failing>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListGetByIndexBoundsChecking</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListSetByIndexBoundsChecking</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListSetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListAddByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListRemoveByIndexBoundsChecking</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListRemoveByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListGetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.TreeListTest.testListAddByIndexBoundsChecking</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

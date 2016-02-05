@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_39158" time="340803">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_explicit_encoded</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_bad_encoded2</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_encoded</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_bad_encoded</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

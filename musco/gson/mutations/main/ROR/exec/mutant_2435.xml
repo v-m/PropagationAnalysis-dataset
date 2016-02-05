@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2435" time="49947">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testNumberKeyDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeMap</case>
+    <case>com.google.gson.functional.MapTest.testDeerializeMapOfMaps</case>
+    <case>com.google.gson.functional.MapTest.testBooleanKeyDeserialization</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForMapElementDeserialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testPropertiesDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapDeserializationWithNullKey</case>
+    <case>com.google.gson.functional.MapTest.testMapOfMapDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testStringKeyDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapStandardSubclassDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

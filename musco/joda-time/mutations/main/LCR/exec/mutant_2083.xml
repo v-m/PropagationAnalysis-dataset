@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2083" time="174167">
+  <failing>
+    <case>org.joda.time.TestTimeOfDay_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testPlus_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

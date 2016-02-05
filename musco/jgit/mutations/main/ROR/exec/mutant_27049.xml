@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_27049" time="336914">
+  <failing>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithExplicitTagsShouldUpdateLocal</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTag</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTagForFetchedObjects</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithUpdatedTagShouldNotTryToUpdateLocal</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

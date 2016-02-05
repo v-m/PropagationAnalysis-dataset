@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1462" time="53864">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientQuotedNonFiniteDoubles</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

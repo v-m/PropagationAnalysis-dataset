@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14863" time="360242">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.dfs.DfsInserterTest.testReadFromFallback</case>
+    <case>org.eclipse.jgit.internal.storage.dfs.DfsInserterTest.testReadFromInserterSmallObjects</case>
+    <case>org.eclipse.jgit.api.AddCommandTest.testAddExistingSingleBinaryFile</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFtrue</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testAutoCRLFInput</case>
+    <case>org.eclipse.jgit.api.AddCommandTest.testAddExistingSingleMediumSizeFileWithNewLine</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFInput</case>
+    <case>org.eclipse.jgit.internal.storage.dfs.DfsInserterTest.testReadFromInserterLargerObjects</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutAutoCrlfTrue</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf5</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf1</case>
+    <case>org.eclipse.jgit.api.AddCommandTest.testAddExistingSingleSmallFileWithNewLine</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChangesAutoCRLFtrueBinary</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testCoreAutoCrlf3</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

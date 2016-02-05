@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_35993" time="393877">
+  <failing>
+    <case>org.eclipse.jgit.util.Base64Test.testEncode</case>
+    <case>org.eclipse.jgit.util.Base64Test.testEncodeMatchesDecode</case>
+    <case>org.eclipse.jgit.transport.HttpAuthTest.testHttpAuthScanResponse</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

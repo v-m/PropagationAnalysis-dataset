@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_359" time="2430">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testProcessExtendedRules1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

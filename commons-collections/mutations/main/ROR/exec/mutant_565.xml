@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_565" time="115428">
-  <failing>
-    <case>org.apache.commons.collections4.list.SetUniqueListTest.testCollectionAdd</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

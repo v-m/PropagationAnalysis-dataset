@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1114" time="99528">
+  <failing>
+    <case>org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualBasic</case>
+    <case>org.apache.commons.codec.language.DoubleMetaphoneTest.testCCedilla</case>
+    <case>org.apache.commons.codec.language.DoubleMetaphoneTest.testNTilde</case>
+    <case>org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualExtended2</case>
+    <case>org.apache.commons.codec.language.DoubleMetaphoneTest.testIsDoubleMetaphoneEqualWithMATCHES</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

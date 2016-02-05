@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16967" time="168553">
+  <failing>
+    <case>org.joda.time.TestPeriod_Basics.testWithPeriodType5</case>
+    <case>org.joda.time.convert.TestReadablePeriodConverter.testGetPeriodType_Object</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonthWeekDay</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType2</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType3</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_yearMonthDay</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_8ints2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RP4</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType1</case>
+    <case>org.joda.time.TestPeriodType.testYearMonthDayTime</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testAdd_RInterval4</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_PeriodType1</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

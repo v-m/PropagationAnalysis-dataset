@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_677" time="82089">
+  <failing>
+    <case>org.apache.shindig.protocol.BaseRequestItemTest.testGetAppId</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

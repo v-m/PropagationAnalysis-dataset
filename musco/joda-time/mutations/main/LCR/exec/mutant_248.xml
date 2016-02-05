@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_248" time="161745">
+  <failing>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology4</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneParis</case>
+    <case>org.joda.time.TestInterval_Basics.testToString_reparse</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology6</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_parseWrongOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_zone</case>
+    <case>org.joda.time.TestDateTime_Constructors.testParse_noFormatter_vs_constructor_noOffset</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_parseWrongOffset</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffset</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_timeParser</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_zone2</case>
+    <case>org.joda.time.TestDateMidnight_Constructors.testParse_noFormatter</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

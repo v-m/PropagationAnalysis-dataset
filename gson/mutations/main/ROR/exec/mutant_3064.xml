@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3064" time="50107">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testMalformedNumbers</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

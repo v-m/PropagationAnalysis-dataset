@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_652" time="652132">
+  <failing>
+    <case>org.sonar.core.issue.IssueUpdaterTest.plan_with_no_existing_plan</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.plan_with_existing_plan</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.unplan</case>
+    <case>org.sonar.core.issue.IssueUpdaterTest.not_plan_again</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

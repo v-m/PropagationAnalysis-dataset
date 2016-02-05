@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14168" time="211234">
+  <failing>
+    <case>org.joda.time.TestDuration_Basics.testDividedBy_long2</case>
+    <case>org.joda.time.TestDuration_Basics.testDividedBy_long1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1135" time="50210">
+  <failing>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testDisallowJSONP</case>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testOverridePostWithGet</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSnull</case>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testUriRecognition</case>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testFailedRequest</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSstar</case>
+    <case>org.apache.shindig.protocol.DataServiceServletTest.testOverrideGetWithPost</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

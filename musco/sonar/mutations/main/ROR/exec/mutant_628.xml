@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_628" time="651477">
+  <failing>
+    <case>org.sonar.core.issue.IssueFilterSerializerTest.should_deserialize</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.IssueFilterSerializerTest.should_remove_empty_value_when_deserializing</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

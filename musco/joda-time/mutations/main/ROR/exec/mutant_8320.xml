@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8320" time="204728">
+  <failing>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive_crossCutover</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusYears_int</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToNegative</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestLocalDate_Basics.testMinusYears_int</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive_crossCutover</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToZero</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlusYears_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

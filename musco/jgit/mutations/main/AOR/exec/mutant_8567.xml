@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8567" time="417460">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testDetachedHead</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardWithMultipleCommits</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardWithNewFile</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

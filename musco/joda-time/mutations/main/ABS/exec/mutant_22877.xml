@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22877" time="269694">
+  <failing>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetDateTime_int_int_int_int_int_int_int1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

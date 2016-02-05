@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2824" time="59929">
+  <failing>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testGetJsonResponseWithoutKey</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testPostMultipartFormDataOnlyRequestFieldHasContentTypeChecked</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testPostMultipartFormDataWithRequestFieldHavingNoContentType</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testBasicBatch</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testGetExecution</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testPostMultipartFormData</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testMethodRecognition</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testDisallowJSONP</case>
+    <case>org.apache.shindig.protocol.JsonRpcServletTest.testGetJsonResponseWithKey</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

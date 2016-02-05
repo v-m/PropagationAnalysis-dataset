@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_934" time="62680">
-  <failing>
-    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatAppend_PrinterParser_Printer_null_null_Parser</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

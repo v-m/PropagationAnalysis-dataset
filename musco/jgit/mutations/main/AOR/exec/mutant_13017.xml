@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13017" time="306501">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.FooterLineTest.testFilterFootersIgnoreCase</case>
+    <case>org.eclipse.jgit.revwalk.FooterLineTest.testMatchesBugId</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2793" time="656103">
+  <failing>
+    <case>org.sonar.core.purge.PurgeDaoTest.shouldDeleteHistoricalDataOfDirectoriesAndFiles</case>
+    <case>org.sonar.core.purge.PurgeCommandsTest.shouldDeleteSnapshot</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.purge.PurgeDaoTest.disable_resources_without_last_snapshot</case>
+    <case>org.sonar.core.purge.PurgeCommandsTest.shouldPurgeSnapshot</case>
+    <case>org.sonar.core.purge.PurgeDaoTest.should_purge_project</case>
+    <case>org.sonar.core.purge.PurgeCommandsTest.delete_wasted_measures_when_purging_snapshot</case>
+    <case>org.sonar.core.computation.dbcleaner.period.DefaultPeriodCleanerTest.doClean</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

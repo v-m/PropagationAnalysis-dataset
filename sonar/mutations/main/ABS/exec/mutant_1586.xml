@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1586" time="659731">
-  <failing>
-    <case>org.sonar.core.persistence.SemaphoreDaoTest.should_fail_to_acquire_if_negative_timeout</case>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

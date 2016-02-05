@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1897" time="110519">
-  <failing>
-    <case>org.apache.commons.collections4.MultiMapUtilsTest.testIsEmptyWithEmptyMap</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

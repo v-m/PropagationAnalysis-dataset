@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_502" time="111660">
+  <failing>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListRemoveByIndex</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionAdd</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListHashCode</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionContainsAll</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIteratorByIndex</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionIterator</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testRemoveNode</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListAddByIndex</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionContains</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIteratorNextRemovePrevious</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testShrinkCache</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testAddNodeAfter</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testGetNode</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionSize</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListRemoveByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIterator</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListIndexOf</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionToString</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIteratorNextRemoveNext</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListLastIndexOf</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListGetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionClear</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionIsEmpty</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListGetByIndex</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testFullListSerialization</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListSetByIndex</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIteratorPreviousRemovePrevious</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListIteratorAdd</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListIteratorSet</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testRemoveFirst</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListSetByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testCollectionAddAll</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListAddByIndexBoundsChecking2</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListEquals</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testFullListCompatibility</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testListListIteratorPreviousRemoveNext</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testRemoveLast</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

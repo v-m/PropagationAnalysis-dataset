@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10909" time="337312">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPush</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitHeaderRead</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testTrackingUpdate</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushWithRefSpecFromConfig</case>
+    <case>org.eclipse.jgit.transport.PackParserTest.testDataAfterPackFooterSplitObjectRead</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushRefUpdate</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack3</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1NoObjectReuse</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testReceivePackFactory</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

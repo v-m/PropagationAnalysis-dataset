@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_460" time="115640">
+  <failing>
+    <case>org.apache.commons.collections4.list.GrowthListTest.testGrowthAdd</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

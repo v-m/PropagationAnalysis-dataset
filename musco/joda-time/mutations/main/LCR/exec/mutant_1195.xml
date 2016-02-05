@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1195" time="203705">
+  <failing>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDurationYear</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationYear</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDurationMonth</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationMonth</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testDateFields</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDateFields</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testDateFields</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDateFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

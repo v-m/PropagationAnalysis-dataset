@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_250" time="61639">
+  <failing>
+    <case>com.google.gson.functional.ObjectTest.testInnerClassDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testInnerClassSerialization</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerialize</case>
+    <case>com.google.gson.functional.FieldExclusionTest.testDefaultInnerClassExclusion</case>
+    <case>com.google.gson.functional.FieldExclusionTest.testDefaultNestedStaticClassIncluded</case>
+    <case>com.google.gson.functional.ObjectTest.testDateAsMapObjectField</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

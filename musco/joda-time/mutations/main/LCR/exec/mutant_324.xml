@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_324" time="205790">
+  <failing>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillisInvalid</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_localDateOptionalTimeParser</case>
+    <case>org.joda.time.TestYearMonthDay_Constructors.testConstructor_ObjectStringEx1</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_Object2_Chronology</case>
+    <case>org.joda.time.TestTimeOfDay_Constructors.testConstructor2_Object_Chronology</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateOptionalTimeParser</case>
+    <case>org.joda.time.TestYearMonthDay_Constructors.testConstructor_ObjectStringEx2</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectStringEx3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

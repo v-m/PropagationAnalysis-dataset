@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_14195" time="170636">
-  <failing>
-    <case>org.joda.time.TestDuration_Basics.testMultipliedBy_long1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

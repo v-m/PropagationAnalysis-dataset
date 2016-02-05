@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1168" time="49891">
+  <failing>
+    <case>com.google.gson.JsonPrimitiveTest.testEquals</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTree</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonPrimitiveDeserialization</case>
+    <case>com.google.gson.JsonPrimitiveTest.testEqualsDoesNotEquateStringAndNonStringTypes</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTreeObjectType</case>
+    <case>com.google.gson.JsonPrimitiveTest.testEqualsAcrossTypes</case>
+    <case>com.google.gson.JsonPrimitiveTest.testEqualsIntegerAndBigInteger</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

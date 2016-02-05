@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9038" time="351762">
+  <failing>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testInsertVsModify</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testTwoConflictingModifications</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertMultipleWithFail</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testConflictAtEnd</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testSameModification</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeNonVersionedPaths</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testOneAgainstTwoConflictingModifications</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testDeleteVsModify</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testContentMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndSkipWithConflict</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionAndConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedContentMerge</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testTwoSimilarModsAndOneInsert</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

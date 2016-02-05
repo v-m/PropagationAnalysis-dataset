@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5284" time="167202">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSecondsWithMillis</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSuffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstYears</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstMonths</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroDefault</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSecondsWithOptionalMillis</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeconds</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatMillis3Digit</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstWeeks</case>
+    <case>org.joda.time.TestPeriod_Basics.testToString_PeriodFormatter</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirst</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple2</case>
+    <case>org.joda.time.TestMutablePeriod_Basics.testToString</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyLast</case>
+    <case>org.joda.time.format.TestISOPeriodFormat.testFormatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatWeeks</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatHours</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatMonths</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstSeconds</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatYears</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstHours</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstDays</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx2</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixSimple2</case>
+    <case>org.joda.time.TestPeriod_Basics.testToString</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixSimple1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatMillis</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatMinutes</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirstMinutes</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatDays</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

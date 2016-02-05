@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2395" time="365130">
+  <failing>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testParseLookupPath</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testBareRepo</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testFilteringTreeFiltersReferencedBlobs</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testRevFilterAndObjectFilterCanCombine</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testObjectFilterCanFilterOutBlob</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testReplaceManifestBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

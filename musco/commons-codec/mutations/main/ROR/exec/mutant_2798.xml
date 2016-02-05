@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2798" time="124009">
+  <failing>
+    <case>org.apache.commons.codec.binary.Base64InputStreamTest.testCodec130</case>
+    <case>org.apache.commons.codec.binary.Base64InputStreamTest.testBase64InputStreamByChunk</case>
+    <case>org.apache.commons.codec.binary.Base32InputStreamTest.testCodec130</case>
+    <case>org.apache.commons.codec.binary.Base64InputStreamTest.testCodec98NPE</case>
+    <case>org.apache.commons.codec.binary.Base64InputStreamTest.testReadOutOfBounds</case>
+    <case>org.apache.commons.codec.binary.Base32InputStreamTest.testReadOutOfBounds</case>
+    <case>org.apache.commons.codec.binary.Base32InputStreamTest.testBase32InputStreamByChunk</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

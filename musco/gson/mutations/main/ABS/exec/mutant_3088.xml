@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3088" time="51919">
+  <failing>
+    <case>com.google.gson.DefaultDateTypeAdapterTest.testFormattingInEnUs</case>
+    <case>com.google.gson.DefaultDateTypeAdapterTest.testParsingDatesFormattedWithUsLocale</case>
+    <case>com.google.gson.DefaultDateTypeAdapterTest.testFormattingInFr</case>
+    <case>com.google.gson.DefaultDateTypeAdapterTest.testParsingDatesFormattedWithSystemLocale</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

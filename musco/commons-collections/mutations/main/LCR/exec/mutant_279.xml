@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_279" time="109950">
+  <failing>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.ReferenceMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testEntrySetRemove3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

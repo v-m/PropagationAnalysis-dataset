@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3697" time="110894">
+  <failing>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testValuesIteratorRemoveChangesMap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

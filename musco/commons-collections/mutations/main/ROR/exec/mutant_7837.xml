@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7837" time="110920">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.testPermutations</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationExhaustivity</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationUnicity</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testEmptyCollection</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutationResultSize</case>
+    <case>org.apache.commons.collections4.iterators.PermutationIteratorTest.testPermutatorHasMore</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

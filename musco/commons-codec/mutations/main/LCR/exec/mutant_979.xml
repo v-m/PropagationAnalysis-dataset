@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_979" time="105881">
+  <failing>
+    <case>org.apache.commons.codec.binary.Base64Test.testIsArrayByteBase64</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testEncodeDecodeRandom</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testEncodeDecodeSmall</case>
+    <case>org.apache.commons.codec.binary.Base64Test.testIsStringBase64</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

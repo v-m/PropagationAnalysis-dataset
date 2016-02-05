@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2196" time="392030">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testRemoveDeletesTreeFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFanout2_38</case>
+    <case>org.eclipse.jgit.lib.ObjectIdTest.testGetByte</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testCollapseFanoutAfterMerge</case>
+    <case>org.eclipse.jgit.lib.ObjectIdTest.testSetByte</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWitConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFanout2_2_36</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testWriteUnchangedFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFullyFannedOut</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testLeafSplitsWhenFull</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

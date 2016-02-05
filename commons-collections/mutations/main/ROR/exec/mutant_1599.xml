@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1599" time="112957">
-  <failing>
-    <case>org.apache.commons.collections4.TransformerUtilsTest.testIfTransformer</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

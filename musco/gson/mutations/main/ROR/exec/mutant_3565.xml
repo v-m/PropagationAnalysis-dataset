@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3565" time="149062">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipObjectNames</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipObjectValues</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipNestedStructures</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedClassesDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverSlashSlashEndOfLineComment</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipVeryLongQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverUnquotedString</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedUntilDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithEscapedNewlineCharacter</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipArrayElements</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionIsOffsetByBom</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForTopLevelObject</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsDeserializationTransientFieldsPassedInJsonAreIgnored</case>
+    <case>com.google.gson.functional.VersioningTest.testIgnoreLaterVersionClassDeserialization</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForField</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverHashEndOfLineComment</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipVeryLongUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipDouble</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPosition</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionGreaterThanBufferSize</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipInteger</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverCStyleComment</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposeAnnotationDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsBaseType</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObjectAfterPeek</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonMixingSinceAndUntilDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelObject</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNoExposedFieldDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

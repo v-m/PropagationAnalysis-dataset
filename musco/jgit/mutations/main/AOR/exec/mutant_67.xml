@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_67" time="345561">
+  <failing>
+    <case>org.eclipse.jgit.api.ReflogCommandTest.testHeadReflog</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveMakesEmpty</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddSameNoteDifferentContent</case>
+    <case>org.eclipse.jgit.api.NotesCommandTest.testAddAndRemoveNote</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveFirst</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWitConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testLargeTreesWithConflict</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testSetFive_MixedOrder</case>
+    <case>org.eclipse.jgit.api.ReflogCommandTest.testBranchReflog</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testSet_Replace</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveMiddle</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testAddDifferentNotes</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveLast</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testRemoveMissingNote</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testParseFive</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testSetFive_InOrder</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFanout2_38</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testLargeTreesWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testCreateFromEmpty</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFlatTwoNotes</case>
+    <case>org.eclipse.jgit.api.ReflogCommandTest.testAmendReflog</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testCollapseFanoutAfterMerge</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testEditFlat</case>
+    <case>org.eclipse.jgit.api.NotesCommandTest.testListNotes</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testFanoutAndLeafWithoutConflict</case>
+    <case>org.eclipse.jgit.notes.LeafBucketTest.testSetFive_ReverseOrder</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testLeafSplitsWhenFull</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

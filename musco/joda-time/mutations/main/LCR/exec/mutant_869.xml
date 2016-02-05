@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_869" time="183959">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple6IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple5IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx5IgnoringAffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite5IgnoringAffix</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

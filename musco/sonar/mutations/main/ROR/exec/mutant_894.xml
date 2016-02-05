@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_894" time="279727">
+  <failing>
+    <case>org.sonar.core.persistence.DatabaseUtilsTest.should_close_connection</case>
+    <case>org.sonar.core.persistence.DatabaseUtilsTest.should_not_fail_on_connection_errors</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

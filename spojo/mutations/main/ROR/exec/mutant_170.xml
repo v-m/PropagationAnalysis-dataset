@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_170" time="2295">
-  <failing>
-    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.deriveClass</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

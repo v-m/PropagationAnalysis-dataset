@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5766" time="62621">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateMidnight_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseEndYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseStartYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseEndYear</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffset</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_nullLocalTime_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneTokyo</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthEnd</case>
+    <case>org.joda.time.format.TestTextFields.testWeekdayNames</case>
+    <case>org.joda.time.chrono.TestGJChronology.testPartialGetAsText</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseStartYear</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseZoneTokyo</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtMidnight_Zone</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthMiddle</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseOffset</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthStart</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_nullTOD_Zone</case>
+    <case>org.joda.time.format.TestTextFields.testHalfdayNames</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtMidnight_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_endOfYear</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateMidnight_Zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneId</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_Zone</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

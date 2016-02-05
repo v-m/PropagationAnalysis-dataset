@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4337" time="321294">
+  <failing>
+    <case>org.eclipse.jgit.lib.AbbreviatedObjectIdTest.testFull_FromByteArray</case>
+    <case>org.eclipse.jgit.lib.AbbreviatedObjectIdTest.testFull_FromString</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryDelta</case>
+    <case>org.eclipse.jgit.notes.NoteMapTest.testReadFullyFannedOut</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testCreateFileHeader_GitLink</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

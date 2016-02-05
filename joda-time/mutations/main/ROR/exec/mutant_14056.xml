@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_14056" time="161726">
-  <failing>
-    <case>org.joda.time.TestDateTimeZone.testNameProvider</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

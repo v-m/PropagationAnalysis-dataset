@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_103" time="2303">
+  <failing>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simpleProperty1Child</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.simpleProperty</case>
+    <case>com.github.sworm.spojo.data.BasicPropertyTest.canonicalName</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

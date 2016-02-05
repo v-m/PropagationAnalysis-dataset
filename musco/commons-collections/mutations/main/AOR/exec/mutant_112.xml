@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_112" time="113481">
+  <failing>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSubListAddBegin</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSubListAddEnd</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSubListAddMiddle</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_13102" time="194056">
-  <failing>
-    <case>org.joda.time.TestDateTimeZoneCutover.testPlusSecondsInDstChange</case>
-    <case>org.joda.time.TestDateTime_Basics.testPlusSeconds_int</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

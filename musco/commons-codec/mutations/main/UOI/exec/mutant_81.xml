@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_81" time="128199">
+  <failing>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineTest.testEncode[d'ortley-(ortlaj|ortlej)-(dortlaj|dortlej)-GENERIC-EXACT]</case>
+    <case>org.apache.commons.codec.language.bm.RuleTest.testPhonemeComparedToLaterIsNegative</case>
+    <case>org.apache.commons.codec.language.bm.RuleTest.testPhonemeComparedToSelfIsZero</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testCompatibilityWithOriginalVersion</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrGENERIC</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrASHKENAZI</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrSEPHARDIC</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

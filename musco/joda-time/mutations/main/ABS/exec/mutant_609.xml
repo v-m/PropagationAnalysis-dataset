@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_609" time="158846">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Basics.testGetFieldTypes</case>
+    <case>org.joda.time.TestAbstractPartial.testGetFieldTypes</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testGetFieldTypes</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGetFieldTypes</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

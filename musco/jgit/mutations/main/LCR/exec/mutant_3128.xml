@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3128" time="345659">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasCRC32Copy</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseOffsets</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeOffsetsVsRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWriteIndex</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4ThinPack</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

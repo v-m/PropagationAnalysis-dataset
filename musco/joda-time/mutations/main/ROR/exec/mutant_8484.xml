@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8484" time="192541">
+  <failing>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Basics.testProperty</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2015</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2014</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2013</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2010</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToPositive</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToPositive_crossCutover</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2012</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2010</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfCentury</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGetters</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_negativeToZero</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

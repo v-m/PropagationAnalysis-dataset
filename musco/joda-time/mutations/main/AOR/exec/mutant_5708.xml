@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5708" time="62715">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneLongText</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_second</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_minute</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffset</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseOffset</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmount</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneText</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmountColon</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffsetAndZone</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

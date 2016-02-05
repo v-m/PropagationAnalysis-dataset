@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_14877" time="184940">
-  <failing>
-    <case>org.joda.time.TestLocalDate_Basics.testWithFieldAdded_DurationFieldType_int_1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

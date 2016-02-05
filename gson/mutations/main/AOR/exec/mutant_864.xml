@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_864" time="52914">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testUnescapingTruncatedCharacters</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

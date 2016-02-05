@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7800" time="163178">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testCalendar</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono_and_zone</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testEpoch</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

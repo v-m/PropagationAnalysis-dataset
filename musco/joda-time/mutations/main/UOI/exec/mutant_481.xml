@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_481" time="171688">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithAutoLookup</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

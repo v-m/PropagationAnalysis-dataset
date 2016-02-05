@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_353" time="347678">
+  <failing>
+    <case>org.eclipse.jgit.diff.EditTest.testExtendB</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_DuplicateAButCommonUniqueInB</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testFileHeader</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_MoveBlock</case>
+    <case>org.eclipse.jgit.diff.RawTextTest.testComparatorReduceCommonStartEnd_EmptyLine</case>
+    <case>org.eclipse.jgit.diff.EditListTest.testAddOne</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_UniqueCommonLargerThanMatchPoint</case>
+    <case>org.eclipse.jgit.diff.EditTest.testExtendA</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDeleteFile</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testTypes</case>
+    <case>org.eclipse.jgit.diff.RawTextTest.testComparatorReduceCommonStartEnd</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_NoUniqueMiddleSide_Insert2</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_NoUniqueMiddleSide_FlipBlocks</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_ReplaceMiddle</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertStart</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_ReplaceCommonDelete</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertEnd</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_LinuxBug</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_CommonGrowsPrefixAndSuffix</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testHunkHeader</case>
+    <case>org.eclipse.jgit.diff.RawTextTest.testComparatorReduceCommonStartButLastLineNoEol_2</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_DeleteMiddle</case>
+    <case>org.eclipse.jgit.diff.EditListTest.testAddTwo</case>
+    <case>org.eclipse.jgit.diff.EditListTest.testRemove</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testExceedsChainLength_DuringScanOfB</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testExceedsChainLength_DuringScanOfA</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_NoUniqueMiddleSide_FlipAndExpand</case>
+    <case>org.eclipse.jgit.diff.RawTextTest.testComparatorReduceCommonStartButLastLineNoEol</case>
+    <case>org.eclipse.jgit.diff.EditTest.testNotEquals2</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertMiddle</case>
+    <case>org.eclipse.jgit.diff.EditTest.testNotEquals3</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_DeleteStart</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_InvertBlocks</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testCreateFile</case>
+    <case>org.eclipse.jgit.diff.EditTest.testEquals1</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_InsertNearCommonTail</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_DeleteEnd</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_LcsContainsUnique</case>
+    <case>org.eclipse.jgit.diff.EditTest.testNotEquals1</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testDegenerate_InsertsIntoMidPosition</case>
+    <case>org.eclipse.jgit.diff.HistogramDiffTest.testEdit_CommonReplaceCommonDeleteCommon</case>
+    <case>org.eclipse.jgit.diff.EditTest.testBeforeAfterCuts</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

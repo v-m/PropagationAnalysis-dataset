@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_448" time="179778">
-  <failing>
-    <case>org.joda.time.TestStringConvert.testMonthDay_leapDay</case>
-    <case>org.joda.time.TestMonthDay_Constructors.testParse_noFormatter</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

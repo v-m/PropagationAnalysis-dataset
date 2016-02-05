@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_971" time="656558">
+  <failing>
+    <case>org.sonar.core.issue.db.IssueStorageTest.server_update_issues</case>
+    <case>org.sonar.core.issue.db.IssueStorageTest.batch_insert_new_issues</case>
+    <case>org.sonar.core.issue.db.IssueStorageTest.batch_insert_new_issues_with_session</case>
+    <case>org.sonar.core.issue.db.UpdateConflictResolverTest.should_reload_issue_and_resolve_conflict</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.db.IssueStorageTest.batch_update_issues</case>
+    <case>org.sonar.core.issue.db.IssueStorageTest.server_insert_new_issues_with_session</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_52" time="186670">
-  <failing>
-    <case>org.joda.time.TestLocalDate_Basics.testEqualsHashCodeAPI</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

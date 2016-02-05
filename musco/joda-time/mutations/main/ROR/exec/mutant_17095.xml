@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_17095" time="145842">
+  <failing>
+    <case>org.joda.time.TestTimeOfDay_Basics.testWithField4</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1031" time="659943">
+  <failing>
+    <case>org.sonar.core.issue.db.IssueFilterDaoTest.should_select_by_id</case>
+    <case>org.sonar.core.issue.db.IssueFilterDaoTest.should_select_by_user_with_only_favorite_filters</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.issue.db.IssueFilterDaoTest.should_update</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>
