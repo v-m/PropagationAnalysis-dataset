@@ -54,10 +54,15 @@ We consider followin graphs:
 
 - Each folder is a project containing:
  - graphs: folder containig software graphs;
+   - a folder `causal_cha` with each causal graph obtained in each fold (run in 10-fold);
  - smf: project mapping;
  - a folder 'mutations' with mapping for generated mutants.
    - the related `smf.run.xml` file;
-   - an archive (`mutations.7z`) which contains the list of impacted test when run the test cases on the mutant.
+   - an archive (`mutations.7z`) which contains the list of impacted test when run the test cases on the mutant;
+ - a folder `flstats` containig statistics for fault localization obtained for each project (for contribution purposes):
+   - `pminer.csv`: without considering causal edges;
+   - `softwearn.csv`: with considering causal edges;
+   - `softwearn_random.csv`: with considering causal edges (second generation including random fault locator stats).
 
 ## Contributions
 
