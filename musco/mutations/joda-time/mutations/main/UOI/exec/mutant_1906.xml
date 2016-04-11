@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1906" time="62631">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortLowerCase_UK</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_fromDay</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningMonthDOW_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_monthOfYearText</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningHelloWorld_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_longDateTime</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertySetTextMonth</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertySetTextLocaleMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDateTime</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France</case>
+    <case>org.joda.time.TestMonthDay_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthEnd</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_specific_day</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumShortDateTime</case>
+    <case>org.joda.time.chrono.TestGJChronology.testPartialGetAsText</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_last</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortUpperCase_UK</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthMiddle</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongLowerCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testParse_textMonthJanLong_UK</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthStart</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextMonthOfYear</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyTextMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertySetTextMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumDate</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLong_France</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumLongDateTime</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_monthOfYearShortText</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France_withSpecifiedDefault</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextMonth</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.TestYearMonth_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_mediumFullDateTime</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

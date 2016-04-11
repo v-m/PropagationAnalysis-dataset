@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_0" time="62368">
+  <failing>
+    <case>org.joda.time.TestChronology.testEqualsHashCode_Zoned</case>
+    <case>org.joda.time.TestChronology.testEqualsHashCode_Strict</case>
+    <case>org.joda.time.TestChronology.testEqualsHashCode_Lenient</case>
+    <case>org.joda.time.TestDateTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestInstant_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestChronology.testEqualsHashCode_ISO</case>
+    <case>org.joda.time.TestChronology.testEqualsHashCode_Limit</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

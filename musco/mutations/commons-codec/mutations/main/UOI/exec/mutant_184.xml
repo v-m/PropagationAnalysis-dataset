@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_184" time="107235">
+  <failing>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testCaverphoneRevisitedCommonCodeAT1111</case>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testIsCaverphoneEquals</case>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testEncodeNull</case>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testSpecificationV1Examples</case>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testEndMb</case>
+    <case>org.apache.commons.codec.language.Caverphone1Test.testWikipediaExamples</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

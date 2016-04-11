@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1078" time="224915">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsAfter_LocalDateTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsBefore_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsAfter_LocalTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalDate_Basics.testCompareTo</case>
+    <case>org.joda.time.TestLocalDate_Basics.testIsEqual_LocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testIsAfter_LocalDate</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsBefore_LocalDateTime</case>
+    <case>org.joda.time.TestLocalDate_Basics.testIsBefore_LocalDate</case>
+    <case>org.joda.time.TestMonthDay_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalTime_Basics.testIsEqual_LocalTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsEqual_LocalDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testCompareTo</case>
+    <case>org.joda.time.TestLocalTime_Basics.testCompareTo</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

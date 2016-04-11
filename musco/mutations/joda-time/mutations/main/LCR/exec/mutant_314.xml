@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_314" time="182579">
+  <failing>
+    <case>org.joda.time.TestInstant_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_localDateOptionalTimeParser</case>
+    <case>org.joda.time.TestMutableDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_ObjectStringEx2</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_localDateParser</case>
+    <case>org.joda.time.TestDateTime_Constructors.testConstructor_ObjectStringEx1</case>
+    <case>org.joda.time.TestDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testParse_noFormatter</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateParser</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateElementParser</case>
+    <case>org.joda.time.convert.TestStringConverter.testGetInstantMillis_Object</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateOptionalTimeParser</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateTimeParser</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

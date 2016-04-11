@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4704" time="204769">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_year_long</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedDecimal</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedSignedDecimal</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

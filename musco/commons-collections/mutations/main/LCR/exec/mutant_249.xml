@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_249" time="109475">
-  <failing>
-    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testPutAll_KeyIterable</case>
-    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testPutAll_KeyIterable</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

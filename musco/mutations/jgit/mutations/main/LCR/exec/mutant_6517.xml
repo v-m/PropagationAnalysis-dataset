@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6517" time="348047">
+  <failing>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testEmptyFolderCommittedDeletedCommittedIgnoredComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileCommittedModifiedIgnored</case>
+    <case>org.eclipse.jgit.api.CleanCommandTest.testCleanDirsWithDryRunAndNoIgnore</case>
+    <case>org.eclipse.jgit.api.CleanCommandTest.testCleanWithDryRunAndNoIgnore</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderIgnored</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderCommittedDeletedCommittedIgnoredComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testEmptyFolderIgnored</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileCommittedDeletedCommittedIgnoredComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderCommittedModifiedAllIgnored</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderCommittedAllDeletedCommittedAllIgnoredComparedWithInitialCommit</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileIgnored</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderCommittedModifiedIgnored</case>
+    <case>org.eclipse.jgit.treewalk.filter.IndexDiffFilterTest.testFileInFolderAllIgnored</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

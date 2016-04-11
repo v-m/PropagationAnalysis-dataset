@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_599" time="50459">
+  <failing>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testTwoTypesCollapseToOneDeserialize</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullField</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfPrimitivesAsObjectsDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDoubles</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonFiniteDoubles</case>
+    <case>com.google.gson.functional.MapTest.testNumberKeyDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientVeryLongNumber</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeMap</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize1dArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize2dArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

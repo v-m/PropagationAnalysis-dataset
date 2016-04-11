@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8823" time="354529">
+  <failing>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUnchangedComplex</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test012_SubtreeExternalSorting</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test009_SymlinkAndGitlink</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test006_addDeepTree</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testRemoved</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test004_addTree</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testModified</case>
+    <case>org.eclipse.jgit.lib.T0002_TreeTest.test002_addFile</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

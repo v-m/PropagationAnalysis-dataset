@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_660" time="98847">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testisEncodeEquals_CornerCase_FirstNameJust1Letter_ReturnsFalse</case>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testisEncodeEqualsSecondNameJust1Letter_ReturnsFalse</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

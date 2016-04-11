@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21013" time="336993">
+  <failing>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.multiplePathsSecondParent</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.annotatedTags</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.prefix</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.ref</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.nameExact</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.onePathMergeSecondParent</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.simpleAncestor</case>
+    <case>org.eclipse.jgit.api.NameRevCommandTest.onePathMergeLongerFirstParentPath</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

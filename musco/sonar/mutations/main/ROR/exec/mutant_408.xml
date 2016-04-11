@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_408" time="656795">
-  <failing>
-    <case>org.sonar.core.issue.db.IssueChangeDtoTest.create_from_diff_with_created_at</case>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

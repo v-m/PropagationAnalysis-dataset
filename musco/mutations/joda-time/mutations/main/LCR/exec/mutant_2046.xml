@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2046" time="143643">
+  <failing>
+    <case>org.joda.time.TestPartial_Basics.testToString5</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3f</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3e</case>
+    <case>org.joda.time.TestPartial_Basics.testWith_baseAndArgHaveNoRange</case>
+    <case>org.joda.time.TestPartial_Constructors.testConstructorEx8_TypeArray_intArray_duplicate</case>
+    <case>org.joda.time.TestPartial_Basics.testGetFormatter2</case>
+    <case>org.joda.time.TestPartial_Constructors.testConstructor_TypeArray_intArray_year_weekyear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_342" time="113955">
-  <failing>
-    <case>org.apache.commons.collections4.TransformerUtilsTest.testInvokerTransformer2</case>
-    <case>org.apache.commons.collections4.TransformerUtilsTest.testInvokerTransformer</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

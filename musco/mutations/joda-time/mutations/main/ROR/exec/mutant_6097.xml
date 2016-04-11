@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6097" time="170458">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_checkRedundantSeparator</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_ja_parseTwoFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

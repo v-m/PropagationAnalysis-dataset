@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9050" time="156561">
+  <failing>
+    <suite>org.joda.time.chrono.TestIslamicChronology</suite>
+    <case>org.joda.time.chrono.TestAll.initializationError</case>
+    <case>org.joda.time.TestChronology.testToString</case>
+    <case>org.joda.time.TestAllPackages.initializationError</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

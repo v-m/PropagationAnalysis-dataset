@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3615" time="394104">
+  <failing>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneWithAutoSetupRebase</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepository</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryNullRemote</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+  </hanging>
+</mutation-execution>

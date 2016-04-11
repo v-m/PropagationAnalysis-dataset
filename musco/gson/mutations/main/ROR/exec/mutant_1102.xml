@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1102" time="56102">
-  <failing>
-    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysDeserialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

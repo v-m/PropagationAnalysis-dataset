@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1979" time="86185">
+  <failing>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceNoPrefixSuffix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceChangedMap</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testStaticReplaceSystemProperties</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testCyclicReplacement</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceUnknownKey</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testStaticReplacePrefixSuffix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceIncompletePrefix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testConstructorMapPrefixSuffix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceRecursive</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceToIdentical</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testStaticReplace</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceInVariableRecursive</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testConstructorMapFull</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceNoPrefixNoSuffix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceEscaping</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceEmptyKeys</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceSimple</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testDefaultValueDelimiters</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceInVariableDisabled</case>
+    <case>org.apache.commons.lang3.text.StrBuilderTest.testReplace_int_int_String</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceAdjacentAtEnd</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceComplexEscaping</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceInVariable</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testSamePrefixAndSuffix</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplaceAdjacentAtStart</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testResolveVariable</case>
+    <case>org.apache.commons.lang3.text.StrSubstitutorTest.testReplacePrefixNoSuffix</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

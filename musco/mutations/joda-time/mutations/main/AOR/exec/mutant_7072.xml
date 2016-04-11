@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7072" time="62880">
+  <failing>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RI_RI7</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testBug3192457_adjustOffset</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testBug3476684_adjustOffset</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

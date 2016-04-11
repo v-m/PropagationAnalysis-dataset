@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_179" time="49712">
-  <failing>
-    <case>com.google.gson.internal.GsonTypesTest.testNewParameterizedTypeWithoutOwner</case>
-    <case>com.google.gson.internal.GsonTypesTest.testGetFirstTypeArgument</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

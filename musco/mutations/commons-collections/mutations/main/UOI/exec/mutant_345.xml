@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_345" time="108766">
+  <failing>
+    <case>org.apache.commons.collections4.PredicateUtilsTest.testInvokerPredicate2</case>
+    <case>org.apache.commons.collections4.TransformerUtilsTest.testInvokerTransformer2</case>
+    <case>org.apache.commons.collections4.ClosureUtilsTest.testInvokeClosure</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

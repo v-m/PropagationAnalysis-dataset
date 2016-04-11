@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_507" time="50452">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekingUnquotedStringsPrefixedWithIntegers</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

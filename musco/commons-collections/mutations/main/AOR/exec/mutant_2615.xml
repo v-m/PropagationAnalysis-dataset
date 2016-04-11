@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2615" time="110875">
-  <failing>
-    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

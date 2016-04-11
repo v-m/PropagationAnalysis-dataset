@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_5638" time="117662">
-  <failing>
-    <case>org.apache.commons.collections4.keyvalue.MultiKeyTest.testGetIndexed</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_25458" time="173238">
-  <failing>
-    <case>org.joda.time.TestYearMonth_Properties.testPropertyAddMonth</case>
-    <case>org.joda.time.TestYearMonth_Properties.testPropertyAddYear</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_21769" time="198161">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyGetHour</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyCompareToHour</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyCompareToMinute</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyCompareToSecond</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyGetMinute</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyGetSecond</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyCompareToMilli</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyGetMilli</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_333" time="294763">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendFixedSignedDecimal</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

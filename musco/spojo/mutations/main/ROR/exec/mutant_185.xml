@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_185" time="2322">
-  <failing>
-    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.inmutableClass</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

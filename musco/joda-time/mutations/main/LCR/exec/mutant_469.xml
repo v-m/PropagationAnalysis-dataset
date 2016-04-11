@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_469" time="174319">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneBahiaBanderas</case>
-    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneDawsonCreek</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

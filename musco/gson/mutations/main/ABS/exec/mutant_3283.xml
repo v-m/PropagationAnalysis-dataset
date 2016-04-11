@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3283" time="62511">
-  <failing>
-    <case>com.google.gson.JsonPrimitiveTest.testParsingStringAsNumber</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

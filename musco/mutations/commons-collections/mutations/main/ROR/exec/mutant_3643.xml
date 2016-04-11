@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3643" time="111195">
+  <failing>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testFirstKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFirstKey</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

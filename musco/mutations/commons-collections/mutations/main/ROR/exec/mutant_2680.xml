@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2680" time="56638">
+  <failing>
+    <case>org.apache.commons.collections4.multimap.UnmodifiableMultiValuedMapTest.testMapIteratorUnsupportedSet</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testMapIteratorRemove</case>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testMapIteratorRemove</case>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testMapIteratorUnsupportedSet</case>
+    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testMapIteratorUnsupportedSet</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_11750" time="111670">
-  <failing>
-    <case>org.apache.commons.collections4.set.TransformedSetTest.testTransformedSet_decorateTransform</case>
-    <case>org.apache.commons.collections4.set.TransformedSortedSetTest.testTransformedSet_decorateTransform</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

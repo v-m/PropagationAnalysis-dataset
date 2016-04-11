@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8243" time="379124">
+  <failing>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testNonNotesWithoutNonNoteConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithCommit</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_DetectConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.multipleEdits</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.untrackedFileConflictsWithWorkingDirectory</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUntrackedFile</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPick</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.indexDelete</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_GapByOne</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testUntrackedConflicts</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.testApplyStashWithDeletedFile</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPickWithIdenticalContents</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_SkipsSeenSubtree</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutOursWhenNoBase</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testTrivialTwoWay_validSubtreeSort</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSingleDeletion</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionAndConflict</case>
+  </hanging>
+</mutation-execution>

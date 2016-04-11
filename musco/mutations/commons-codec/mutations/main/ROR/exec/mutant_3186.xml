@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3186" time="111160">
+  <failing>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testHmacSha1Hex</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testSha1HMac</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testMd5HMac</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testHmacMd5Hex</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testSha512HMac</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testSha384HMac</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testSha256HMac</case>
+    <case>org.apache.commons.codec.digest.HmacUtilsTest.testHmacSha1UpdateWithInpustream</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

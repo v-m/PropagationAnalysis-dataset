@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_37232" time="346710">
+  <failing>
+    <case>org.eclipse.jgit.util.io.AutoCRLFOutputStreamTest.testBoundary</case>
+    <case>org.eclipse.jgit.util.io.AutoCRLFOutputStreamTest.test</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

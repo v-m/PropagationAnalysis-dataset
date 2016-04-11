@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3880" time="182029">
-  <failing>
-    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_Moscow_Autumn</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_551" time="53830">
+  <failing>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionOfBagOfPrimitivesNotAllowed</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLongs</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testDeserialize</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionDeserializationNotAlllowed</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfPrimitivesAsObjectsDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

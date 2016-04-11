@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14688" time="171454">
+  <failing>
+    <case>org.joda.time.TestSerialization.testSerializedLocalDateBuddhist</case>
+    <case>org.joda.time.TestLocalDate_Basics.testSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7494" time="172003">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testToLocalDateTime_LocalTime</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

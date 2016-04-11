@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6290" time="347062">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteWindowsPath2</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeNameContainsSlash</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectInvalidWindowsCharacters</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteUNCPathWindows2OnUnix</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

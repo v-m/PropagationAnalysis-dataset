@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_29" time="83087">
+  <failing>
+    <case>org.apache.commons.io.input.UnixLineEndingInputStreamTest.retainLineFeed</case>
+    <case>org.apache.commons.io.input.UnixLineEndingInputStreamTest.crAtEnd</case>
+    <case>org.apache.commons.io.input.UnixLineEndingInputStreamTest.crOnlyNotAtEof</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

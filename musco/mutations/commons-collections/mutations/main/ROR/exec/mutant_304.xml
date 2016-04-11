@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_304" time="111756">
+  <failing>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testEmptyListCompatibility</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testFullListSerialization</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testLongSerialization</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testEmptyListCompatibility</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testFullListCompatibility</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testFullListSerialization</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testEmptyListSerialization</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSerializationWithOpenCursor</case>
+    <case>org.apache.commons.collections4.list.NodeCachingLinkedListTest.testFullListCompatibility</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSerialization</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testEmptyListSerialization</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testSimpleSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

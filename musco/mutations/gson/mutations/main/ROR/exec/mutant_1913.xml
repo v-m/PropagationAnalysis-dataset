@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1913" time="48594">
+  <failing>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomTypeAdapterDoesNotAppliesToSubClasses</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
+    <case>com.google.gson.JsonObjectTest.testDeepCopy</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testObject</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValuesSerialized</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.JsonObjectTest.testPropertyWithQuotes</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.JavaSerializationTest.testMapIsSerializable</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testCustomSerializationOfNulls</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testEnsureCustomSerializerNotInvokedForNullValues</case>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testIterationOrder</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFields</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithCustomSerializer</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForDeserializingCustomTree</case>
+    <case>com.google.gson.functional.MapTest.testMapNamePromotionWithJsonElementReader</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testSubClassSerializerInvokedForBaseClassFieldsHoldingArrayOfSubClassInstances</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTreeObjectType</case>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testRemoveRootDoesNotDoubleUnlink</case>
+    <case>com.google.gson.functional.JsonParserTest.testDeserializingCustomTree</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMultipleEnableComplexKeyRegistrationHasNoEffect</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTree</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testNestedObject</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomSerializers</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.JsonObjectTest.testEqualsNonEmptyObject</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonObjectSerialization</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomTypeAdapterAppliesToSubClassesSerializedAsBaseClass</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyDeserialization</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testObject</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionOfBagOfPrimitivesNotAllowed</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testJsonTypeFieldBasedDeserialization</case>
+    <case>com.google.gson.functional.JsonTreeTest.testJsonTreeToString</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNestedObjects</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testJsonObjectWithNullValues</case>
+    <case>com.google.gson.JsonParserTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testSerializeNullsTrue</case>
+    <case>com.google.gson.JsonObjectTest.testWritePropertyWithEmptyStringName</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForCustomDeserializerCustomTree</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -45,10 +45,10 @@ The ten considered projects are listed in the following table.
 
 We consider followin graphs:
 
-- Call graph with CHA (callgraph_cha.xml)
-- Call graph without CHA (callgraph.xml)
-- Call graph with CHA and fields (callgraph_f_cha.xml)
-- Call graph without CHA and with fields (callgraph_f.xml)
+- Call graph with CHA (`callgraph_cha.xml`)
+- Call graph without CHA (`callgraph.xml`)
+- Call graph with CHA and fields (`callgraph_f_cha.xml`)
+- Call graph without CHA and with fields (`callgraph_f.xml`)
 
 ## Files Hierarchy
 

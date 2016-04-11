@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_40481" time="344615">
+  <failing>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testOneBlockAndHalf_Copy</case>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testOneByte</case>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testOneBlockAndHalf_SingleWrite</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPickWithContentMerge</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testRecursiveMergeWithConflict</case>
+    <case>org.eclipse.jgit.dircache.DirCacheCGitCompatabilityTest.testReadWriteV3</case>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testOneBlock_BulkWrite</case>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testOneBlockAndHalf_BulkWrite</case>
+    <case>org.eclipse.jgit.util.TemporaryBufferTest.testEmpty</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

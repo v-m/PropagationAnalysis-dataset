@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_672" time="53375">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testNullSerialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testStringBufferSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

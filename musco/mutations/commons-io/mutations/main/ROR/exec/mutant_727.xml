@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_727" time="210174">
+  <failing>
+    <case>org.apache.commons.io.IOCaseTestCase.test_checkIndexOf_functionality</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testWildcard</case>
+    <case>org.apache.commons.io.FileUtilsTestCase.testIterateFiles</case>
+    <case>org.apache.commons.io.IOCaseTestCase.test_checkIndexOf_case</case>
+    <case>org.apache.commons.io.FileUtilsTestCase.testListFilesWithDirs</case>
+    <case>org.apache.commons.io.FileUtilsTestCase.testListFiles</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatch2</case>
+    <case>org.apache.commons.io.FileUtilsTestCase.testIterateFilesAndDirs</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testDeprecatedWildcard</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatch</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatchCaseSpecified</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatchOnSystem</case>
+  </hanging>
+</mutation-execution>

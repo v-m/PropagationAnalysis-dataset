@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3400" time="306349">
+  <failing />
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging>
+    <case>org.apache.commons.lang3.StringUtilsTrimEmptyTest.testStripStart_StringString</case>
+    <case>org.apache.commons.lang3.StringUtilsTrimEmptyTest.testStrip_StringString</case>
+    <case>org.apache.commons.lang3.StringUtilsTrimEmptyTest.testStripAll</case>
+  </hanging>
+</mutation-execution>

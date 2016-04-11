@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_9313" time="110027">
-  <failing>
-    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testUnknownObjectBehavior</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

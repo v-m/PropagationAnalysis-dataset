@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_4239" time="45892">
-  <failing>
-    <case>com.google.gson.JsonPrimitiveTest.testEquals</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

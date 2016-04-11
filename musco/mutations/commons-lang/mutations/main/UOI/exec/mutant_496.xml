@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_496" time="88463">
+  <failing>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testDoubleArrayAsObject</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testDouble</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testLong</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testLongArray</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testDoubleArray</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testLongArrayAsObject</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

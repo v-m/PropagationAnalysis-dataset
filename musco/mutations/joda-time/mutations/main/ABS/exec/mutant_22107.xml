@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22107" time="157376">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Basics.testPlusHours_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

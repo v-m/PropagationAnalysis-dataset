@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_23457" time="346185">
+  <failing>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testTwoComplicatedModifications</case>
+    <case>org.eclipse.jgit.merge.MergeAlgorithmTest.testAdjacentModifications</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

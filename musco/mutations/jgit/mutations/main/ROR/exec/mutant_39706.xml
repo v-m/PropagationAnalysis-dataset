@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_39706" time="1863779">
+  <failing>
+    <case>org.eclipse.jgit.util.RawSubStringPatternTest.testCaseInsensitive</case>
+    <case>org.eclipse.jgit.revwalk.ObjectWalkFilterTest.testRevFilterAndObjectFilterCanCombine</case>
+    <case>org.eclipse.jgit.util.RawSubStringPatternTest.testBoundary</case>
+    <case>org.eclipse.jgit.util.RawSubStringPatternTest.testNoMatches</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertMultiple</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldNotFailIfUserAddCommentLinesInPrepareSteps</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleFixup</case>
+    <case>org.eclipse.jgit.internal.storage.file.ObjectDirectoryTest.testConcurrentInsertionOfBlobsToTheSameNewFanOutDirectory</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testCherryPickMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges1</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutWithStartPoint</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFilesAddedFromTwoBranches</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedMasterChangeBaseCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardWithMultipleCommitsOnDifferentBranches</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullLocalConflict</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionBare</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndSkipWithConflict</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testRules4thru13_IndexEntryNotInHead</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+  </hanging>
+</mutation-execution>

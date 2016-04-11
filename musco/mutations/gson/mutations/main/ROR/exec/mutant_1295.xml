@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1295" time="53125">
+  <failing>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testDoubleCapacity</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testForceDoublingAndRehash</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testDoubleCapacityAllNodesOnLeft</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testAvlWalker</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

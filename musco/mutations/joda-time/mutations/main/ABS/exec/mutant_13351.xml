@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13351" time="162208">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortLowerCase_UK</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextDayOfWeek</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_fromDay</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_text</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextDayOfMonth</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_set_long_String_Locale</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextWeekOfWeekyear</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextYear</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_set_long_String_Locale</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextDayOfMonth</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertySetTextMinute</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextDayOfYear</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_last</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyTextDay</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShortUpperCase_UK</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyTextYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongLowerCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testParse_textMonthJanLong_UK</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_set_long_String</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertySetCopyTextMonth</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertySetTextHour</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_UK</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertySetTextMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanShort_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLong_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthAtEnd_France_withSpecifiedDefault</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_set_long_String_Locale</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextHour</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextYear</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertySetTextSecond</case>
+    <case>org.joda.time.field.TestBaseDateTimeField.test_set_long_String</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningMonthDOW_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthJanLongUpperCase_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_Korean</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextSecond</case>
+    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_set_long_String_Locale</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningHelloWorld_UK</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertySetTextMilli</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertySetTextLocaleMonthOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextDayOfYear</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_specific_day</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextMonthOfYear</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMinute</case>
+    <case>org.joda.time.field.TestOffsetDateTimeField.test_set_long_String</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextDay</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetTextMilli</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertySetCopyTextMonth</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextDayOfWeek</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextMonthOfYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

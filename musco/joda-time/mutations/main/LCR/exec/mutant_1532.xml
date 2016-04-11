@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1532" time="59098">
-  <failing>
-    <case>org.joda.time.TestChronology.testEqualsHashCode_Zoned</case>
-    <case>org.joda.time.TestDateTimeZone.testEqualsHashCode</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

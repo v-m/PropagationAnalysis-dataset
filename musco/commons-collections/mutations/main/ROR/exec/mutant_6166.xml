@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_6166" time="109460">
-  <failing>
-    <case>org.apache.commons.collections4.map.MultiValueMapTest.testMapEquals</case>
-    <case>org.apache.commons.collections4.map.MultiValueMapTest.testRemove_KeyItem</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

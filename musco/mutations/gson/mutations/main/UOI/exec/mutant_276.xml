@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_276" time="50184">
+  <failing>
+    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesCustomSerialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassSerialization</case>
+    <case>com.google.gson.functional.VersioningTest.testIgnoreLaterVersionClassDeserialization</case>
+    <case>com.google.gson.functional.CustomSerializerTest.testBaseClassSerializerInvokedForBaseClassFieldsHoldingSubClassInstances</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesSerialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassDeserialization</case>
+    <case>com.google.gson.functional.FieldExclusionTest.testInnerClassExclusion</case>
+    <case>com.google.gson.functional.VersioningTest.testIgnoreLaterVersionClassSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

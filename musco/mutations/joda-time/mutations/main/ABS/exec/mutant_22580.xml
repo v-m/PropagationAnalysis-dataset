@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22580" time="173098">
+  <failing>
+    <case>org.joda.time.TestMonths.testFactory_monthsBetween_RInstant</case>
+    <case>org.joda.time.TestMonths.testFactory_months_int</case>
+    <case>org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_MonthDay</case>
+    <case>org.joda.time.TestMonths.testIsGreaterThan</case>
+    <case>org.joda.time.TestMonths.testNegated</case>
+    <case>org.joda.time.TestMonths.testFactory_parseMonths_String</case>
+    <case>org.joda.time.TestMonths.testMinus_int</case>
+    <case>org.joda.time.TestMonths.testIsLessThan</case>
+    <case>org.joda.time.TestMonths.testMinus_Months</case>
+    <case>org.joda.time.TestMonths.testMultipliedBy_int</case>
+    <case>org.joda.time.TestMonths.testFactory_monthsBetween_RPartial_LocalDate</case>
+    <case>org.joda.time.TestMonths.testToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

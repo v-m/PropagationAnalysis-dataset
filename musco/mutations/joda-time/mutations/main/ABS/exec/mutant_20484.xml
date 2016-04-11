@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_20484" time="162921">
+  <failing>
+    <case>org.joda.time.TestLocalDate_Basics.testToString_DTFormatter</case>
+    <case>org.joda.time.TestLocalDate_Basics.testProperty</case>
+    <case>org.joda.time.TestLocalTime_Constructors.testConstructor_ObjectLocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectLocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testIsSupported_DateTimeFieldType</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToString_String</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithField_DateTimeFieldType_int_3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

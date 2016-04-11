@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6730" time="352659">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCloseNameConflictsX0</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeNonVersionedPaths</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testResetHard</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUntrackedNotIgnoredFolders</case>
+    <case>org.eclipse.jgit.treewalk.TreeWalkBasicDiffTest.testMissingSubtree_DetectFileAdded_FileModified</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testUntrackedFolders</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeRemovingFoldersWithoutFastForward</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitIgnoresSmudgedEntryWithDifferentId</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_12887" time="170501">
-  <failing>
-    <case>org.joda.time.field.TestBaseDateTimeField.test_getMaximumTextLength_Locale</case>
-    <case>org.joda.time.field.TestPreciseDurationDateTimeField.test_getMaximumTextLength_Locale</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

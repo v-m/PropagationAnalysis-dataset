@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_475" time="227537">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textYear_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textYear_France</case>
+  </hanging>
+</mutation-execution>

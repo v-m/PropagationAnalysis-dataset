@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_963" time="656571">
-  <failing>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-    <case>org.sonar.core.user.AuthorDaoTest.add_missing_module_uuid_path</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

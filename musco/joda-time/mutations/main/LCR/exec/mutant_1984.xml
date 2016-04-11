@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1984" time="62910">
-  <failing>
-    <case>org.joda.time.TestLocalDate_Basics.testMinus_RP</case>
-    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

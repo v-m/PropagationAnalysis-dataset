@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1762" time="108153">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.select</case>
+    <case>org.apache.commons.collections4.ListUtilsTest.testSelect</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

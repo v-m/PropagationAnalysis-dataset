@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1863" time="111033">
+  <failing>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RP_RP_PeriodType8</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_RP_RP8</case>
+    <case>org.joda.time.TestDateTimeUtils.testIsContiguous_RP_GJChronology</case>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testFactory_between_RPartial</case>
+    <case>org.joda.time.TestDateTimeUtils.testIsContiguous_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

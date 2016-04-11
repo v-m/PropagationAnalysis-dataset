@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_500" time="38639">
+  <failing>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.badConfigThrows</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.testCommonEnvironmentAddedToAllContainers</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.aliasesArePopulated</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.resourceLoaderFileTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.pathQuery</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.parseBasicConfig</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.testNullEntriesOverrideEntriesInParent</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.resourceLoaderClasspathTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.resourceLoaderClasspathFailureTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.pathQuery</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.aliasesArePopulated</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.expressionEvaluation</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.shindigPortTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.parseBasicConfig</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.badConfigThrows</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.expressionEvaluation</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.parseWithDefaultInheritance</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.parseWithDefaultInheritance</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.expressionEvaluationUsingParent</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.shindigPortTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.testCommonEnvironmentAddedToAllContainers</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.resourceLoaderFileFailureTest</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.expressionEvaluationUsingParent</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

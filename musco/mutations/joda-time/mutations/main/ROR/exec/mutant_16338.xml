@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16338" time="203611">
+  <failing>
+    <case>org.joda.time.TestDateTimeUtils.testIsContiguous_RP_GJChronology</case>
+    <case>org.joda.time.TestPartial_Basics.testToString4</case>
+    <case>org.joda.time.TestDateTimeUtils.testIsContiguous_RP</case>
+    <case>org.joda.time.TestPartial_Basics.testWith3b</case>
+    <case>org.joda.time.TestPartial_Basics.testGetFormatter3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

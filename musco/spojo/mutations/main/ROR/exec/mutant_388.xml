@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_388" time="9507">
-  <failing>
-    <case>com.github.sworm.spojo.SpojoTest.testShrinkTEStringNullSource1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

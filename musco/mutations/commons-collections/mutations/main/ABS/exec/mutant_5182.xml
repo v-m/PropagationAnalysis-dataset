@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5182" time="116754">
+  <failing>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.bidimap.DualHashBidiMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.AbstractOrderedBidiMapDecoratorTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.AbstractOrderedBidiMapDecoratorTest.testMapPut</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMap2Test.testMapPut</case>
+    <case>org.apache.commons.collections4.bidimap.DualLinkedHashBidiMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.DualLinkedHashBidiMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMap2Test.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.DualTreeBidiMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.bidimap.DualHashBidiMapTest.testMapPut</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

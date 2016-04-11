@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_647" time="51206">
+  <failing>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBigIntegerFieldDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testSmallValueForBigIntegerDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testBigIntegerDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

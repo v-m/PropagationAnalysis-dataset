@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1241" time="315404">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPath3Case</case>
+    <case>org.eclipse.jgit.dircache.DirCacheBasicTest.testRejectInvalidWindowsPaths</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteUNCPathWindows2</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteUNCPathWindows1</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPathEndSpaceWindows</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectDevicesOnWindows</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgDotCon</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgCon1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectInvalidWindowsCharacters</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPathEndDotWindows1</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPathEndDotWindows2</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPathEndDotWindows3</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteCurDrivePathWindows</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testValidTag</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testContainsDot</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testMustHaveTwoComponents</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectDotAtEndOnWindows</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testValidHead</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPath2Case</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgConDotSuffix</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTreeDuplicateNames5</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgLpt1</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testUnicodeNames</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousGitPath1Case</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgLpr</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testValidSpecialCharacterUnixs</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousWindowsADS</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousAbsoluteWindowsPath1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testRejectSpaceAtEndOnWindows</case>
+    <case>org.eclipse.jgit.lib.ValidRefNameTest.testWindowsReservedNames</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgLpt1DotSuffix</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testForbiddenNamesOnWindowsEgCon</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutMaliciousPathTest.testMaliciousPathEmptyWindows</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

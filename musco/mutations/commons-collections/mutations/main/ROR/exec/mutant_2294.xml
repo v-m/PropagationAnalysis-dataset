@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2294" time="51442">
+  <failing>
+    <case>org.apache.commons.collections4.multimap.MultiValuedHashMapTest.testListValuedMapEqualsHashCodeContract</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

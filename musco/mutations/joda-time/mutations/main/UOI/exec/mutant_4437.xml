@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4437" time="62398">
+  <failing>
+    <case>org.joda.time.TestPartial_Basics.testWithout3</case>
+    <case>org.joda.time.TestPartial_Basics.testToString3</case>
+    <case>org.joda.time.TestPartial_Basics.testWithout5</case>
+    <case>org.joda.time.TestPartial_Basics.testWithout4</case>
+    <case>org.joda.time.TestPartial_Basics.testGetFormatter1</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

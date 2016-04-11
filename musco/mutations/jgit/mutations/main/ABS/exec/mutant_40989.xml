@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_40989" time="309327">
+  <failing>
+    <case>org.eclipse.jgit.patch.EditListTest.testTypes</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext10</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext3</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext5</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext0</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext1</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext100</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testEmpty1</case>
+  </hanging>
+</mutation-execution>

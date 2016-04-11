@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4687" time="366520">
+  <failing>
+    <case>org.eclipse.jgit.ignore.FastIgnoreRuleTest.testAsterisk</case>
+    <case>org.eclipse.jgit.ignore.FastIgnoreRuleTest.testDotAsteriskMatch</case>
+    <case>org.eclipse.jgit.attributes.AttributesNodeWorkingTreeIteratorTest.testRules</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

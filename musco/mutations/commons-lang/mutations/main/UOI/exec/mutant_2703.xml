@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2703" time="87838">
+  <failing>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testSwapChar</case>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testSwapCharRange</case>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testShiftRangeChar</case>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testShiftChar</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

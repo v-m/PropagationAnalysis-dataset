@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1015" time="319357">
+  <failing>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testDeserializeId</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipNestedStructures</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testHelloWorld</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeWithCustomTypeAdapter</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testCustomDeserializerReturnsNullForArrayElementsForArrayField</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableDeserialization</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionDeepPath</case>
+    <case>com.google.gson.functional.CollectionTest.testTopLevelListOfIntegerCollectionsDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testDirectedAcyclicGraphDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsDeserializationTransientFieldsPassedInJsonAreIgnored</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.CollectionTest.testFieldIsArrayList</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfArraysDeserialization</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMultipleEnableComplexKeyRegistrationHasNoEffect</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testNullSafe</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testAbsentJsonElementsAreSetToNull</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.ObjectTest.testSingletonLists</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testDeserialize</case>
+    <case>com.google.gson.functional.ArrayTest.testArrayOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testEmptyCollectionInAnObjectDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testPrimitiveArrayInAnObjectDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeArrayDeserialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testVariableTypeFieldsAndGenericArraysDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsDeserialization</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsDeserialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserializeNullObject</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testParameterizedTypeWithVariableTypeDeserialization</case>
+    <case>com.google.gson.functional.ArrayTest.testMultidimenstionalArraysDeserialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testDeserialize2dArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelObject</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

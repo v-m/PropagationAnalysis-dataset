@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_408" time="9559">
-  <failing>
-    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringUnDerivableSource</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

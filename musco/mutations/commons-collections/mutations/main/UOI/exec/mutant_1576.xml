@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1576" time="111028">
+  <failing>
+    <case>org.apache.commons.collections4.sequence.SequencesComparatorTest.testMinimal</case>
+    <case>org.apache.commons.collections4.ListUtilsTest.testLongestCommonSubsequenceWithString</case>
+    <case>org.apache.commons.collections4.sequence.SequencesComparatorTest.testLength</case>
+    <case>org.apache.commons.collections4.ListUtilsTest.testLongestCommonSubsequence</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

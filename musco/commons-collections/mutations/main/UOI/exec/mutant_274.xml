@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_274" time="116885">
-  <failing>
-    <case>org.apache.commons.collections4.list.TreeListTest.testListSetByIndexBoundsChecking</case>
-    <case>org.apache.commons.collections4.list.TreeListTest.testListSetByIndexBoundsChecking2</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

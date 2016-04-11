@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_71" time="120428">
+  <failing>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testExamples</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testEdgeCases</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

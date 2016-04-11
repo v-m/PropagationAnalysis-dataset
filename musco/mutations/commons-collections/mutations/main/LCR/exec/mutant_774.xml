@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_774" time="112091">
+  <failing>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyContainsKey</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyPut</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyGet</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemove</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

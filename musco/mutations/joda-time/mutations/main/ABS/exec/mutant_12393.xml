@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_12393" time="152121">
+  <failing>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_long_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_long</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusWeeks_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_long_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusWeeks_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RD</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testToDateTimeISO</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_long</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusMillis_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono_and_zone</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusDays_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusHours_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusSeconds_int</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology7</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology8</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusMinutes_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_long</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusYears_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusMillis_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestDateTimeUtils.testGetInstantChronology_RI</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusMonths_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusMinutes_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusDays_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinusHours_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlusDays_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RD</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_long</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_RI</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetMillis_RI1</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusDays_int</case>
+    <case>org.joda.time.convert.TestReadablePartialConverter.testGetChronology_Object_Chronology</case>
+    <case>org.joda.time.TestMutableDateTime_Sets.testSetMillis_RI2</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_simple</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusSeconds_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusMonths_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusYears_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RD</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinusWeeks_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RD_int</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlusWeeks_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RD_int</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyWithMaximumValueMillisOfDayDSTGap</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RD</case>
+    <case>org.joda.time.TestDateTimeUtils.testGetIntervalChronology_RI_RI</case>
+    <case>org.joda.time.TestDateTime_Basics.testMinus_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

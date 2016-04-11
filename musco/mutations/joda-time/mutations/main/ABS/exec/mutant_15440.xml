@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15440" time="175239">
+  <failing>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyWithMaximumValueMillisOfDayDSTGap</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

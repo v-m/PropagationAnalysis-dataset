@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_643" time="171447">
+  <failing>
+    <case>org.joda.time.TestPartial_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMSm</case>
+    <case>org.joda.time.TestPartial_Basics.testToString_DTFormatter</case>
+    <case>org.joda.time.TestPartial_Basics.testToString1</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMm</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HMS</case>
+    <case>org.joda.time.format.TestISODateTimeFormat_Fields.testForFields_time_HM</case>
+    <case>org.joda.time.TestPartial_Basics.testToString_String</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7842" time="199223">
+  <failing>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtCurrentTime_nullZone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testWithZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateMidnight_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateMidnight_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtMidnight_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtCurrentTime</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_nullLocalTime_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateMidnight</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtCurrentTime_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtMidnight</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtCurrentTime_nullZone</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtMidnight_nullZone</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testToDateTimeToday</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_LocalTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_Zone</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testToDateTimeToday_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtMidnight_Zone</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeToday_Zone</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateMidnight_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_nullTOD_Zone</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeToday_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtMidnight</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTimeAtCurrentTime</case>
+    <case>org.joda.time.TestLocalTime_Basics.testToDateTimeTodayDefaultZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtCurrentTime_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtMidnight_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateMidnight</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_nullZone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_nullLocalTime</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testToDateTimeToday_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateMidnight_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_nullTOD</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

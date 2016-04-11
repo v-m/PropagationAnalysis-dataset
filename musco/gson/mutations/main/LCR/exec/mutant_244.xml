@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_244" time="54000">
-  <failing>
-    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExcludeTopLevelClassSerialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

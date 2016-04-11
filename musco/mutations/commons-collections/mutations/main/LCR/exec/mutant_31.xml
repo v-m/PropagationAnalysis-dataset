@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_31" time="64764">
+  <failing>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousRemoveIndex1ByList</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

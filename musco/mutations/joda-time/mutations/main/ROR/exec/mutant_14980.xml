@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14980" time="199765">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsAfter_LocalDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsBefore_LocalDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testIsEqual_LocalDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testCompareTo</case>
+  </failing>
+  <ignored />
+  <hanging>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST</case>
+  </hanging>
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_253" time="143807">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_zone2</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

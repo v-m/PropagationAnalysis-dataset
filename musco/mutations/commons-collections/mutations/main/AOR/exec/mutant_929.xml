@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_929" time="86215">
+  <failing>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRetainAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testKeySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testFailFastEntrySet</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testFailFastValues</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testKeySetClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testKeySetRemoveAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testKeySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapClear</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetContains1</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testKeySetRetainAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetContains2</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testObjectHashCodeEqualsSelfHashCode</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRemoveAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPutNullKey</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesRemoveAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testFailFastKeySet</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testObjectHashCodeEqualsContract</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapHashCode</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRemove1</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetRemove2</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPutNullValue</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testEntrySetClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testValuesRetainAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.map.CompositeMapTest.testSerializeDeserializeThenCompare</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

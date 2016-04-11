@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4593" time="333288">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.GcBranchPrunedTest.deleteBranch_historyPruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcReflogTest.testPruneNone</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcReflogTest.testPackCommitsAndLooseOneWithPruneNowNoReflog</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBranchPrunedTest.deleteMergedBranch_historyNotPruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testDonePruneTooYoungPacks</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPruneNonReferencedTest.nonReferencedExpiredObject_pruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBranchPrunedTest.branch_historyNotPruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPruneNonReferencedTest.nonReferencedExpiredObjectTree_pruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcTagTest.annotatedTag_objectNotPruned</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPruneNonReferencedTest.testPackCommitsAndLooseOneWithPruneNow</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcDirCacheSavesObjectsTest.testDirCacheSavesObjectsWithPruneNow</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcTagTest.lightweightTag_objectNotPruned</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

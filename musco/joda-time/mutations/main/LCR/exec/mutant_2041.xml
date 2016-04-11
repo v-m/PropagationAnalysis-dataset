@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2041" time="63538">
-  <failing>
-    <case>org.joda.time.TestMutableInterval_Updates.testSetInterval_RI_RI4</case>
-    <case>org.joda.time.TestMutableInterval_Updates.testSetInterval_RI_RI3</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

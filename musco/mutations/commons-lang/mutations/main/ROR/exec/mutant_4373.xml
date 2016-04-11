@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4373" time="111002">
+  <failing>
+    <case>org.apache.commons.lang3.exception.ContextedExceptionTest.testAddContextValue</case>
+    <case>org.apache.commons.lang3.exception.ContextedRuntimeExceptionTest.testAddContextValue</case>
+    <case>org.apache.commons.lang3.exception.DefaultExceptionContextTest.testAddContextValue</case>
+    <case>org.apache.commons.lang3.exception.ContextedRuntimeExceptionTest.testSetContextValue</case>
+    <case>org.apache.commons.lang3.exception.ContextedExceptionTest.testSetContextValue</case>
+    <case>org.apache.commons.lang3.exception.DefaultExceptionContextTest.testSetContextValue</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1399" time="170749">
-  <failing>
-    <case>org.joda.time.field.TestUnsupportedDateTimeField.testDifferentDurationReturnDifferentObjects</case>
-    <case>org.joda.time.TestSerialization.testSerializedUnsupportedDateTimeField</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

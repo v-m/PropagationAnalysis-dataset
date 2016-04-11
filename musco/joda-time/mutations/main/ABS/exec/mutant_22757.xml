@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_22757" time="179309">
-  <failing>
-    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_RP1</case>
-    <case>org.joda.time.TestMutableDateTime_Adds.testAdd_RP_int1</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

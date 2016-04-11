@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14745" time="175778">
+  <failing>
+    <case>org.apache.commons.lang3.CharSetTest.testConstructor_String_oddCombinations</case>
+    <case>org.apache.commons.lang3.CharSetTest.testHashCode</case>
+    <case>org.apache.commons.lang3.CharSetTest.testConstructor_String_simple</case>
+    <case>org.apache.commons.lang3.CharSetTest.testConstructor_String_oddNegate</case>
+    <case>org.apache.commons.lang3.CharSetTest.testJavadocExamples</case>
+    <case>org.apache.commons.lang3.CharSetTest.testConstructor_String_comboNegated</case>
+    <case>org.apache.commons.lang3.CharSetTest.testContains_Char</case>
+    <case>org.apache.commons.lang3.CharSetTest.testEquals_Object</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging>
+    <case>org.apache.commons.lang3.CharSetTest.testSerialization</case>
+  </hanging>
+</mutation-execution>

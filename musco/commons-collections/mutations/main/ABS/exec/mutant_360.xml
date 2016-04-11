@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_360" time="112273">
-  <failing>
-    <case>org.apache.commons.collections4.list.SetUniqueListTest.testSubListIsUnmodifiable</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9126" time="226951">
+  <failing>
+    <case>org.joda.time.chrono.TestIslamicChronology.testFactoryUTC</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testToString</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testFactory</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testWithZone</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testFactory_Zone</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testTimeFields</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testWithUTC</case>
+    <case>org.joda.time.TestChronology.testToString</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testDurationFields</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testDateFields</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDateWithZone</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate2</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testFieldConstructor</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

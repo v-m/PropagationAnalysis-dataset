@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1081" time="142542">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithAutoLookup</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

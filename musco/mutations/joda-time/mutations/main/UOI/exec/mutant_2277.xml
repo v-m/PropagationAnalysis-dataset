@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2277" time="172393">
+  <failing>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetDifferenceMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetDifferenceHourOfDay</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

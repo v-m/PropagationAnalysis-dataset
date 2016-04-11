@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_749" time="75274">
-  <failing />
-  <ignored />
-  <hanging>
-    <case>com.google.gson.stream.JsonReaderTest.testStrictVeryLongNumber</case>
-    <case>com.google.gson.stream.JsonReaderTest.testLenientVeryLongNumber</case>
-  </hanging>
-</mutation-execution>

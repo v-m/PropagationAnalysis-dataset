@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13496" time="358125">
+  <failing>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testMixedReset</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveMasterCommits</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertMultiple</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategies</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testFastForwardNoCommit</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testHardReset</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolvePreviousBranch</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testSoftReset</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testFastForwardWithFiles</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertMultipleWithFail</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testAlreadyUpToDate</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMultipleCreationsSameContent</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchHasPreviousLog</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveReflogParent</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testFastForward</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testSomeCommits</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveUnnamedCurrentBranchCommits</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testSpecificEntryNumber</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testCommitAmend</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchAlsoInPack</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevert</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameCurrentBranch</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitAfterSquashMerge</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

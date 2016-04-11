@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_227" time="9333">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludeList</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertieswithExclude5</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyPropertiesInner</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsMoreTest.copyExclude2ndLevelAllProperty</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropertiesListProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertieswithExclude5</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExclude2ndLevelAllProperty</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringExclude5</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringDisabled1</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropertiesInner</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

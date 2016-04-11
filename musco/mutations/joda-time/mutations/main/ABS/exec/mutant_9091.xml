@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9091" time="143554">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

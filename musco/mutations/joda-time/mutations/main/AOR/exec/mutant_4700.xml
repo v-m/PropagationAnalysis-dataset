@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4700" time="167540">
+  <failing>
+    <case>org.joda.time.TestMutableDateTime_Basics.testGet_DateTimeField</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetCenturyOfEra</case>
+    <case>org.joda.time.TestDateTime_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestInstant_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testGetMethods</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testGetters</case>
+    <case>org.joda.time.TestDateTime_Basics.testGetters</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testGetters</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.TestInstant_Basics.testGet_DateTimeField</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_centuryOfEra</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetCenturyOfEra</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testSampleDate</case>
+    <case>org.joda.time.TestMutableDateTime_Basics.testGet_DateTimeFieldType</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testSampleDate</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetCenturyOfEra</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testGet_DateTimeField</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.TestDateTime_Basics.testGet_DateTimeField</case>
+    <case>org.joda.time.TestLocalDate_Basics.testGetters</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

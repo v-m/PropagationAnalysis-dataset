@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5535" time="330215">
+  <failing>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testCherryPickNoCommit</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testResetHard</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testCherryPick</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSingleDeletion</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testModifiedAndRenamed</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionOnMasterConflict</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionOnSideConflict</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testConflictingDeletedAndModified</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

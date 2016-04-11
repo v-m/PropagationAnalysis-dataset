@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1478" time="214983">
+  <failing>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTag</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoType4</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testValidTagHasNoTaggerHeader</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagInvalidTaggerHeader3</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagInvalidTaggerHeader1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoType2</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoTagHeader3</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoType3</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoTagHeader2</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoTagHeader1</case>
+    <case>org.eclipse.jgit.lib.ObjectCheckerTest.testInvalidTagNoType1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

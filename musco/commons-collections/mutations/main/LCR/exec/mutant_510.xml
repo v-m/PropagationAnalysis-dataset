@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_510" time="90377">
-  <failing>
-    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyGet</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

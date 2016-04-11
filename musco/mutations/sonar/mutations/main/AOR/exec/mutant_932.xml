@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_932" time="401288">
+  <failing>
+    <case>org.sonar.core.permission.PermissionTemplateDaoTest.should_create_permission_template</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.permission.PermissionTemplateDaoTest.should_normalize_kee_on_template_creation</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

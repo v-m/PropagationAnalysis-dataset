@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_521" time="53089">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testBooleans</case>
+    <case>com.google.gson.stream.JsonReaderTest.testNextFailuresDoNotAdvance</case>
+    <case>com.google.gson.stream.JsonReaderTest.testReadArray</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testJsonPrimitiveDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testHelloWorld</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPrematureEndOfInput</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNameValueSeparator</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientSemicolonDelimitedArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientSemicolonDelimitedNameValuePair</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictUnnecessaryArraySeparators</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientMultipleTopLevelValues</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientComments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictUnnecessaryArraySeparatorsWithSkipValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDeeplyNestedObjects</case>
+    <case>com.google.gson.stream.JsonReaderTest.testEmptyStringName</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPrematurelyClosed</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBitSetDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientUnnecessaryArraySeparators</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientTopLevelValueType</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

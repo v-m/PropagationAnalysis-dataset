@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3060" time="197871">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_RI</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_summer_Zone</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyToIntervalHourOfDay</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_winter</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay_Zone</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval_Zone</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_nullLocalTime_Zone</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testEpoch</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_long_PeriodType_Chronology1</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay_nullZone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_winter_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_Zone</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testToYearMonthDay</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationYear</case>
+    <case>org.joda.time.TestYearMonth_Basics.testToInterval_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_nullTOD_Zone</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testSampleDateWithZone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_summer</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_long_PeriodType_Chronology1</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testSampleDate</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToLocalTime</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testEqualsHashCode</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTimeAtStartOfDay</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_nullZone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_nullRI</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationMonth</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_long_Chronology1</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDateTime_nullZone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToLocalDate</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToDateTime_nullLocalTime</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_long_Chronology1</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_Zone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_nullTOD</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

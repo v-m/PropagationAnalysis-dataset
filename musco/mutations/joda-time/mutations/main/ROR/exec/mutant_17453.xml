@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_17453" time="167057">
+  <failing>
+    <case>org.joda.time.TestYears.testMinus_int</case>
+    <case>org.joda.time.TestYears.testPlus_Years</case>
+    <case>org.joda.time.TestYears.testPlus_int</case>
+    <case>org.joda.time.TestYears.testMinus_Years</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

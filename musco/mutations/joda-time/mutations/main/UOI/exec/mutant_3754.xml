@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3754" time="155073">
+  <failing>
+    <case>org.joda.time.TestDateMidnight_Basics.testToInterval</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testMinus_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

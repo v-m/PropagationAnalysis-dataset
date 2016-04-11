@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_709" time="49959">
+  <failing>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingHierarchicalFollowedByNonstreamingHierarchical</case>
+    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesCustomSerialization</case>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testNonstreamingHierarchicalFollowedByNonstreaming</case>
+    <case>com.google.gson.functional.TypeAdapterPrecedenceTest.testStreamingFollowedByNonstreamingHierarchical</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

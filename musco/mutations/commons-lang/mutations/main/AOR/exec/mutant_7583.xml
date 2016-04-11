@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7583" time="87712">
+  <failing>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatDurationISO</case>
+    <case>org.apache.commons.lang3.time.StopWatchTest.testStopWatchSplit</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testLeftPad_StringIntChar</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatDurationHMS</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatDuration</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testAbbreviateMiddle</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testJiraLang281</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRepeat_CharInt</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testLeftPad_StringIntString</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRepeat_StringInt</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testLANG982</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testBugzilla38401</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testEdgeDurations</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRightPad_StringIntChar</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testLeftPad_StringInt</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatPeriodISOMethod</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatPeriod</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRightPad_StringIntString</case>
+    <case>org.apache.commons.lang3.time.StopWatchTest.testStopWatchSimpleGet</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRepeat_StringStringInt</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testCenter_StringInt</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testCenter_StringIntString</case>
+    <case>org.apache.commons.lang3.time.DurationFormatUtilsTest.testFormatPeriodISO</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testRightPad_StringInt</case>
+    <case>org.apache.commons.lang3.StringUtilsTest.testCenter_StringIntChar</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

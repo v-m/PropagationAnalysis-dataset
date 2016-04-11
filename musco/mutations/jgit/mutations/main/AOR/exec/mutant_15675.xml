@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15675" time="229946">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisOtherLockTo</case>
+    <case>org.eclipse.jgit.api.RenameBranchCommandTest.renameBranchExistingSection</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchHasPreviousLog</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testRenameLocalBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisToLockTo</case>
+    <case>org.eclipse.jgit.util.RefListTest.testRemoveMiddleOfList</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testRenameRemoteTrackingBranch</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testDelete</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchAlsoInPack</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefDirectoryTest.test_repack</case>
+    <case>org.eclipse.jgit.api.RenameBranchCommandTest.renameBranchMultipleConfigValues</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameRefNameColission2avoided</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testCreateForce</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameRefNameColission1avoided</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigLocalBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testDeleteForce</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchCannotLockAFileHEADisFromLockTo</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRenameLocalBranch</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRemoteBranch</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchNoPreviousLog</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testDeleteLoosePacked</case>
+    <case>org.eclipse.jgit.api.RenameBranchCommandTest.renameBranchNoConfigValues</case>
+    <case>org.eclipse.jgit.api.RenameBranchCommandTest.renameBranchSingleConfigValue</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameCurrentBranch</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

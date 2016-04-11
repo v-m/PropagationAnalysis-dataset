@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13583" time="178668">
+  <failing>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_plusDayMidGap_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_minusDay_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_DateTime_plusDay_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_RioBranco_Spring</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_Turk</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.test_getOffsetFromLocal_NewYork_Spring</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

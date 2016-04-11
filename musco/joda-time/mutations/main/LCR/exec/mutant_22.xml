@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_22" time="171907">
-  <failing>
-    <case>org.joda.time.TestInterval_Basics.testEqualsHashCode</case>
-    <case>org.joda.time.TestMutableInterval_Basics.testEqualsHashCode</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

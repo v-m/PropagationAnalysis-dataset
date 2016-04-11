@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_4706" time="62366">
-  <failing>
-    <case>org.joda.time.TestYearMonthDay_Constructors.testFactory_FromDateFields</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

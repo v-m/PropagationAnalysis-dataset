@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_157" time="315471">
+  <failing>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testSpecialGroupCase5</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testInversedGroupCase3</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testSpecialGroupCase6</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testInversedGroupCase2</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testCombinedRangesInOneGroupCase1</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testInversedGroupCase1</case>
+    <case>org.eclipse.jgit.fnmatch.FileNameMatcherTest.testInversedGroupCase0</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

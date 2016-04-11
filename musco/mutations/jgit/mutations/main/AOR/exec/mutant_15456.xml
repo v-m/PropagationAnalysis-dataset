@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15456" time="280780">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test022_createCommitTag</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_implicit_mixed_encoded</case>
+    <case>org.eclipse.jgit.util.RawParseUtils_ParsePersonIdentTest.testParsePersonIdent_incompleteCases</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_NoParents</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_bad_encoded</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitAmendWithoutAuthorShouldSetOriginalAuthorAndAuthorTime</case>
+    <case>org.eclipse.jgit.util.RawParseUtils_ParsePersonIdentTest.testParsePersonIdent_legalCases</case>
+    <case>org.eclipse.jgit.util.RawParseUtils_ParsePersonIdentTest.testParsePersonIdent_fuzzyCases</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testSomeCommits</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test021_createTreeTag</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_implicit_mixed_encoded</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_PublicParseMethod</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_explicit_encoded</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_implicit_UTF8_encoded</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test026_CreateCommitMultipleparents</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_explicit_bad_encoded</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitAmendWithAuthorShouldUseIt</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_implicit_UTF8_encoded</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testCommitRange</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_explicit_bad_encoded2</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_bad_encoded2</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitParseTest.testParse_explicit_encoded</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test009_CreateCommitOldFormat</case>
+    <case>org.eclipse.jgit.internal.storage.file.T0003_BasicTest.test020_createBlobTag</case>
+    <case>org.eclipse.jgit.api.CommitAndLogCommandTest.testLogWithFilter</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParseAllFields</case>
+    <case>org.eclipse.jgit.revwalk.RevTagParseTest.testParse_PublicParseMethod</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

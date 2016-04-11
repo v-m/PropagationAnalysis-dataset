@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6796" time="148898">
+  <failing>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyWithMaximumValueMillisOfDayDSTGap</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

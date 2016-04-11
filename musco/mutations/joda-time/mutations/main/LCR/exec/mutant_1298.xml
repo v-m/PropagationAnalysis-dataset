@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1298" time="62926">
+  <failing>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyEqualsHashCodeYear</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyEquals</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyEquals</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7874" time="143611">
+  <failing>
+    <case>org.joda.time.TestPartial_Constructors.testConstructorEx8_TypeArray_intArray_duplicate</case>
+    <case>org.joda.time.TestPartial_Constructors.testConstructorEx7_TypeArray_intArray_inOrder</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

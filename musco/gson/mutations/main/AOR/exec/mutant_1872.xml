@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1872" time="68377">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testDeeplyNestedObjects</case>
-    <case>com.google.gson.stream.JsonReaderTest.testDeeplyNestedArrays</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

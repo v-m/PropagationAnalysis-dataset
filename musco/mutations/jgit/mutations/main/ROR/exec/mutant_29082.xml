@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_29082" time="322593">
+  <failing>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testCreateBranchAtHiddenCommitFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownTreeFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

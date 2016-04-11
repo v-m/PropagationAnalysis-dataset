@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_289" time="51002">
+  <failing>
+    <case>com.google.gson.functional.VersioningTest.testVersionedUntilSerialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedUntilDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonMixingSinceAndUntilSerialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonMixingSinceAndUntilDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

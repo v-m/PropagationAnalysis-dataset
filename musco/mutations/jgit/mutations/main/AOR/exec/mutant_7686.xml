@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7686" time="337970">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcReflogTest.testPackRepoWithCorruptReflog</case>
+    <case>org.eclipse.jgit.api.GarbageCollectCommandTest.testGConeCommit</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testPackCommitsAndLooseOne</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcReflogTest.testPackCommitsAndLooseOneNoReflog</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcReflogTest.testPackCommitsAndLooseOneWithPruneNowNoReflog</case>
+    <case>org.eclipse.jgit.api.GarbageCollectCommandTest.testGCmoreCommits</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testPack2Commits</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testDonePruneTooYoungPacks</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcKeepFilesTest.testKeepFiles</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testClose</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcPruneNonReferencedTest.testPackCommitsAndLooseOneWithPruneNow</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testIgnoreNonExistingObjectsWithBitmaps</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testPackAllObjectsInOnePack</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcDirCacheSavesObjectsTest.testDirCacheSavesObjectsWithPruneNow</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcDirCacheSavesObjectsTest.testDirCacheSavesObjects</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcConcurrentTest.concurrentRepack</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

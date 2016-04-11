@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_586" time="86181">
+  <failing>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.test_IO_246</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testSplitOnTokens</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatch2</case>
+    <case>org.apache.commons.io.filefilter.FileFilterTestCase.testDeprecatedWildcard</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatch</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatchCaseSpecified</case>
+    <case>org.apache.commons.io.FilenameUtilsWildcardTestCase.testMatchOnSystem</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1401" time="406912">
+  <failing>
+    <case>org.eclipse.jgit.lib.ConfigTest.testBooleanWithNoValue</case>
+    <case>org.eclipse.jgit.lib.ConfigTest.test002_ReadWithSubsection</case>
+    <case>org.eclipse.jgit.lib.ConfigTest.test001_ReadBareKey</case>
+    <case>org.eclipse.jgit.lib.ConfigTest.test006_readCaseInsensitive</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

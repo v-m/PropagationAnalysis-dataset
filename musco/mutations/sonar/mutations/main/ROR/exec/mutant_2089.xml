@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2089" time="657912">
+  <failing>
+    <case>org.sonar.jpa.session.JpaDatabaseSessionTest.shouldThrowNonUniqueResultException</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.jpa.session.DatabaseSessionTest.testGetSingleResultWithTwoResults</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5549" time="374255">
+  <failing>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitNewSubmodule</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffCached</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.newFileInIndexThenModifiedInWorkTree</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiffRootNullToTree</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDelete</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestSymlinkThenMissing</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_DetectConflict</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListAddedFileInInitialCommit</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListAddedFileBetweenTwoCommits</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testNoDF_NoGap</case>
+    <case>org.eclipse.jgit.treewalk.TreeWalkBasicDiffTest.testMissingSubtree_DetectFileAdded_FileModified</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListChangesInWorkingTree</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.multipleEdits</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.indexDelete</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListDeletionBetweenTwoCommits</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexAdd</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_GapByOne</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.indexAdd</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldMarkEntriesWhenGivenMarkTreeFilter</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiffRootTreeToNull</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_NoGap</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestMissingThenSymlink</case>
+    <case>org.eclipse.jgit.treewalk.NameConflictTreeWalkTest.testDF_SkipsSeenSubtree</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

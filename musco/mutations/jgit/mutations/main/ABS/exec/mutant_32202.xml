@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_32202" time="364267">
+  <failing>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testListBranchesWithContains</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.oneCommit</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withCommitLoadedByDifferentRevWalk</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withMerge</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.twoCommits</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.multipleBranches</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2879" time="66561">
-  <failing>
-    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testContainsAll</case>
-    <case>org.apache.commons.collections4.collection.CompositeCollectionTest.testCollectionContainsAll</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

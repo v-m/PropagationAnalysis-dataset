@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1174" time="50605">
+  <failing>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonWithUnversionedClassesSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonAcceptsEscapedAndNonEscapedJsonDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testRawCollectionSerialization</case>
+    <case>com.google.gson.functional.EscapingTest.testEscapingObjectFields</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrornWithCause</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrorWithoutCause</case>
+    <case>com.google.gson.functional.UncategorizedTest.testGsonInstanceReusableForSerializationAndDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testWildcardCollectionField</case>
+    <case>com.google.gson.functional.ObjectTest.testNullFieldsSerialization</case>
+    <case>com.google.gson.functional.CollectionTest.testCollectionOfBagOfPrimitivesSerialization</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTreeObjectType</case>
+    <case>com.google.gson.functional.DelegateTypeAdapterTest.testDelegateInvoked</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithTransientFieldsSerialization</case>
+    <case>com.google.gson.functional.JsonTreeTest.testToJsonTree</case>
+    <case>com.google.gson.functional.ObjectTest.testNestedSerialization</case>
+    <case>com.google.gson.functional.ParameterizedTypesTest.testTypesWithMultipleParametersSerialization</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithCause</case>
+    <case>com.google.gson.functional.UncategorizedTest.testStaticFieldsAreNotSerialized</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfObjectsSerialization</case>
+    <case>com.google.gson.GsonBuilderTest.testExcludeFieldsWithModifiers</case>
+    <case>com.google.gson.functional.EscapingTest.testGsonDoubleDeserialization</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubClassSerialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testWriterForSerialization</case>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithoutCause</case>
+    <case>com.google.gson.functional.ObjectTest.testArrayOfArraysSerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testBagOfPrimitivesSerialization</case>
+    <case>com.google.gson.JsonParserTest.testReadWriteTwoObjects</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

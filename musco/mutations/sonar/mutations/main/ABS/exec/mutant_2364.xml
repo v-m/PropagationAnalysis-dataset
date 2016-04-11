@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2364" time="800284">
+  <failing>
+    <case>org.sonar.core.user.DeprecatedUserFinderTest.shouldFindUserById</case>
+    <case>org.sonar.core.user.DeprecatedUserFinderTest.shouldFindUserByLogin</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.user.UserDaoTest.deactivate_user</case>
+    <case>org.sonar.core.user.UserDaoTest.update_user</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

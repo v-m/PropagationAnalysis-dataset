@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2099" time="51895">
-  <failing>
-    <case>com.google.gson.internal.LinkedTreeMapTest.testPutNonComparableKeyFails</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

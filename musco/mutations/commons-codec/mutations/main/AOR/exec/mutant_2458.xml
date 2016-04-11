@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2458" time="118744">
+  <failing>
+    <case>org.apache.commons.codec.digest.UnixCryptTest.testUnixCryptWithoutSalt</case>
+    <case>org.apache.commons.codec.digest.UnixCryptTest.testUnixCryptNullData</case>
+    <case>org.apache.commons.codec.digest.UnixCryptTest.testUnixCryptExplicitCall</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

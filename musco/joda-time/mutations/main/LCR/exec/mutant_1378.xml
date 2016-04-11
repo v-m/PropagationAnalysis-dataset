@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1378" time="143091">
-  <failing>
-    <case>org.joda.time.field.TestPreciseDurationField.test_equals</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

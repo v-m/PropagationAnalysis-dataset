@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3509" time="52721">
+  <failing>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsBaseType</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForTopLevelObject</case>
+    <case>com.google.gson.functional.InstanceCreatorTest.testInstanceCreatorReturnsSubTypeForField</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithEscapedNewlineCharacter</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

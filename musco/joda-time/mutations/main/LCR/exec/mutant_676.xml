@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_676" time="138703">
-  <failing>
-    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

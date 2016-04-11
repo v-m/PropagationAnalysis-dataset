@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2468" time="49915">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionIsOffsetByBom</case>
+    <case>com.google.gson.stream.JsonReaderTest.testBomIgnoredAsFirstCharacterOfDocument</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

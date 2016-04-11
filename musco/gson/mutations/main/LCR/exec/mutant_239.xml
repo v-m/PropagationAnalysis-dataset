@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_239" time="52452">
-  <failing>
-    <case>com.google.gson.functional.MapTest.testComplexKeysSerialization</case>
-    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_858" time="50501">
-  <failing>
-    <case>com.google.gson.MixedStreamTest.testReadNulls</case>
-    <case>com.google.gson.FieldAttributesTest.testNullField</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

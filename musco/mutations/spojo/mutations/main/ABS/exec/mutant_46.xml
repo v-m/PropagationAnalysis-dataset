@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_46" time="2996">
+  <failing>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropArrayStr</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayProbe</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayInt</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyExcludePropArrayStr</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.copyPropArrayInt</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

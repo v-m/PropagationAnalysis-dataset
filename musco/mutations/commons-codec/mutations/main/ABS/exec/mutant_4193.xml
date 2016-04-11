@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4193" time="97990">
+  <failing>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testMd5Hex</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testSha256</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testMd2Hex</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testSha384</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testShaHex</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testSha1Hex</case>
+    <case>org.apache.commons.codec.digest.DigestUtilsTest.testSha512</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

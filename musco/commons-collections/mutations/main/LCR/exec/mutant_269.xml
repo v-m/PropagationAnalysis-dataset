@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_269" time="112118">
-  <failing>
-    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testEnsureDuplicateObjectsCauseException</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1968" time="654722">
+  <failing>
+    <case>org.sonar.core.purge.PurgeConfigurationTest.do_not_delete_directory_by_default</case>
+    <case>org.sonar.core.purge.PurgeConfigurationTest.should_delete_all_closed_issues</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.purge.PurgeDaoTest.should_delete_old_closed_issues</case>
+    <case>org.sonar.core.purge.PurgeConfigurationTest.should_delete_only_old_closed_issues</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

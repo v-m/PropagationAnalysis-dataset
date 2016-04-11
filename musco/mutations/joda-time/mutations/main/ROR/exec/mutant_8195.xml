@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8195" time="146029">
+  <failing>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinusMinutes_int</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinusSeconds_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_feb29</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2015</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2014</case>
+    <case>org.joda.time.chrono.TestGJChronology.testYearEndAddDays</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2013</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_feb29</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlusHours_int</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinusMillis_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2010</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+    <case>org.joda.time.chrono.TestGJChronology.testPartialGetAsText</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithTime_int_int_int_int</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlusMinutes_int</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlusMillis_int</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinus_RP</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlusSeconds_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2011</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2012</case>
+    <case>org.joda.time.TestLocalTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2010</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithTime_LocalTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfCentury</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalTime_simple</case>
+    <case>org.joda.time.TestLocalTime_Basics.testMinusHours_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

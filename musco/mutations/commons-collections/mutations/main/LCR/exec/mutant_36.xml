@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_36" time="126759">
+  <failing>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testListSetByIndex</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testSetInBiggerList</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testUniqueListReInsert</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testSetDownwardsInList</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testSet</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testSetUpwardsInList</case>
+    <case>org.apache.commons.collections4.list.SetUniqueListTest.testUniqueListDoubleInsert</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

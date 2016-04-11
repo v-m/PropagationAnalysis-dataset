@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1800" time="109347">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.forAllButLastDoIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

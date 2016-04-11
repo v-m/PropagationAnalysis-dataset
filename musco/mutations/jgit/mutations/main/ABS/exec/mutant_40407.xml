@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_40407" time="358901">
+  <failing>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseFullIndexLine_NoMode</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseAbbrIndexLine_WithMode</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseRename100_OldStyle</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseModeChange</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_NoBinary</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testDeleteD</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_AddNoNewline</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseUnicodeName_DeleteFile</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_ConfigCaseInsensitive</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_FixNoNewline</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseFullIndexLine_WithMode</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseUnicodeName_NewFile</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_GitBinaryNoForwardHunk</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseAbbrIndexLine_NoMode</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryDelta</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryLiteral</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseCopy100</case>
+    <case>org.eclipse.jgit.patch.FileHeaderTest.testParseRename100_NewStyle</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

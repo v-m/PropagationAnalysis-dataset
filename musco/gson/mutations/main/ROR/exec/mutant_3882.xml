@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3882" time="52636">
-  <failing>
-    <case>com.google.gson.FieldAttributesTest.testModifiers</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

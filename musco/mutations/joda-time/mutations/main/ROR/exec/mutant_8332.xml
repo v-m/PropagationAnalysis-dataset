@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8332" time="198889">
+  <failing>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

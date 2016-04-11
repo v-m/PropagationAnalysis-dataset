@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_542" time="54092">
-  <failing>
-    <case>com.google.gson.internal.LinkedHashTreeMapTest.testEqualsAndHashCode</case>
-    <case>com.google.gson.internal.LinkedHashTreeMapTest.testForceDoublingAndRehash</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

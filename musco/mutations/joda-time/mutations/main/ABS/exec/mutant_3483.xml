@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3483" time="166318">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_chrono</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDateTime</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicTTime</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_offsetParsed</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_zone</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_colon_parseZ</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple</case>
+    <case>org.joda.time.chrono.TestISOChronology.testMinYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_offsetParsed</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicTimeNoMillis</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_noColon_parseZ</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicDateTime</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_chrono</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateTime</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTime</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicTTimeNoMillis</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_timeNoMillis</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_tTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_simple</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_tTimeNoMillis</case>
+    <case>org.joda.time.chrono.TestISOChronology.testMaxYear</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDateTimeNoMillis</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_offsetParsed</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicWeekDateTimeNoMillis</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_dateTimeNoMillis</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_ordinalDateTime</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicOrdinalDateTimeNoMillis</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTimeNoMillis</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalTime_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_time</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_basicDateTimeNoMillis</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

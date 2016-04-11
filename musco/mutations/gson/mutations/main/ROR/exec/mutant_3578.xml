@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3578" time="54630">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderPathTest.testSkipNestedStructures</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArray</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipTopLevelObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testSkipArrayAfterPeek</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

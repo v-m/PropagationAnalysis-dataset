@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3328" time="218733">
+  <failing>
+    <case>org.eclipse.jgit.ignore.IgnoreNodeTest.testSlashOnlyMatchesDirectory</case>
+    <case>org.eclipse.jgit.ignore.FastIgnoreRuleTest.testSimplePatternsDoNotMatch</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testDirModeAndNoRegex</case>
+    <case>org.eclipse.jgit.attributes.AttributesMatcherTest.testTrailingSlash</case>
+    <case>org.eclipse.jgit.ignore.IgnoreNodeTest.testNegationAllExceptJavaInSrcAndExceptChildDirInSrc</case>
+    <case>org.eclipse.jgit.ignore.IgnoreMatcherParametrizedTest.testNameOnlyMatches</case>
+    <case>org.eclipse.jgit.attributes.AttributesMatcherTest.testNameOnlyMatches</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

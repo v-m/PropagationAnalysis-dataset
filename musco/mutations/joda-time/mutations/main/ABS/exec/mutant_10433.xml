@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10433" time="163268">
+  <failing>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddDays</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.TestIllegalFieldValueException.testGJCutover</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusYears_positiveToNegative_crossCutover</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

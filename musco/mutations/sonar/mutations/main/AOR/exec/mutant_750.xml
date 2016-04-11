@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_750" time="395499">
+  <failing>
+    <case>org.sonar.core.qualityprofile.db.ActiveRuleKeyTest.parse_fail_when_less_than_three_colons</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

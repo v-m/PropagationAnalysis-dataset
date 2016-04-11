@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1890" time="142484">
+  <failing>
+    <suite>org.joda.time.format.TestDateTimeFormatterBuilder</suite>
+    <suite>org.joda.time.TestStringConvert</suite>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int</case>
+    <case>org.joda.time.TestAll.initializationError</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetHours_int</case>
+    <case>org.joda.time.TestDateTimeZone.testForID_String</case>
+    <case>org.joda.time.TestDateTimeZone.testTransitionFixed</case>
+    <case>org.joda.time.TestDateTimeZone.testGetOffsetFixed</case>
+    <case>org.joda.time.TestDateTimeZone.testEqualsHashCode</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetMillis_int</case>
+    <case>org.joda.time.TestDateTimeZone.testGetOffsetFixed_RI</case>
+    <case>org.joda.time.TestAllPackages.initializationError</case>
+    <case>org.joda.time.format.TestAll.initializationError</case>
+    <case>org.joda.time.TestDateTimeZone.testSerialization2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3124" time="61842">
+  <failing>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testLeap_5_13</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testLeap_6_13</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9009" time="353954">
+  <failing>
+    <case>org.eclipse.jgit.util.QuotedStringGitPathStyleTest.testDequote_UnknownEscapeQ</case>
+    <case>org.eclipse.jgit.util.QuotedStringGitPathStyleTest.testDequote_Empty2</case>
+    <case>org.eclipse.jgit.util.QuotedStringGitPathStyleTest.testDequote_RawUTF8</case>
+    <case>org.eclipse.jgit.util.QuotedStringGitPathStyleTest.testDequote_RawLatin1</case>
+    <case>org.eclipse.jgit.util.QuotedStringGitPathStyleTest.testDequote_LoneBackslash</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

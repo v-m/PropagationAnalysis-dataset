@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_800" time="207737">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroDefault</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorComplex</case>
+    <case>org.joda.time.format.TestISOPeriodFormat.testFormatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_regEx</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorIfFieldsAfter</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorIfFieldsBefore</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorSimple</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_FormatOneField</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testPeriod</case>
+    <case>org.joda.time.format.TestISOPeriodFormat.testFormatStandard_negative</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_FormatOneField</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_283" time="2338">
-  <failing>
-    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testAddRuleMetadata5</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

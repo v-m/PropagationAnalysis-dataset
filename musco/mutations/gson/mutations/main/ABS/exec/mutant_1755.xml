@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1755" time="50531">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegersWithFractionalPartSpecified</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

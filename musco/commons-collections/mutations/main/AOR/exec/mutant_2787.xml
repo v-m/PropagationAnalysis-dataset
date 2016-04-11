@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2787" time="109584">
-  <failing>
-    <case>org.apache.commons.collections4.ListUtilsTest.testPartition</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

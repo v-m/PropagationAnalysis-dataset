@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1083" time="157140">
+  <failing>
+    <case>org.joda.time.TestDays.testFactory_standardDaysIn_RPeriod</case>
+    <case>org.joda.time.TestSeconds.testFactory_standardSecondsIn_RPeriod</case>
+    <case>org.joda.time.TestHours.testFactory_standardHoursIn_RPeriod</case>
+    <case>org.joda.time.TestWeeks.testFactory_standardWeeksIn_RPeriod</case>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testFactory_standardPeriodIn_RPeriod</case>
+    <case>org.joda.time.TestMinutes.testFactory_standardMinutesIn_RPeriod</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

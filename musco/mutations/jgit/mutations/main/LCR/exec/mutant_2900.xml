@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2900" time="1746799">
+  <failing />
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToHighMarkMulitpleBlocks</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFastForwardRebaseWithAutoStash</case>
+    <case>org.eclipse.jgit.internal.storage.file.GcBasicPackingTest.testNotPackTwice</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRemoveOverlappingBare</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithMultipleHeadBranches</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.api.RevertCommandTest.testRevertConflictMarkers</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleFixup</case>
+    <case>org.eclipse.jgit.internal.storage.file.ObjectDirectoryTest.testConcurrentInsertionOfBlobsToTheSameNewFanOutDirectory</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionTag</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.revwalk.RevCommitListTest.testFillToUnknownCommit</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRenameLocalBranch</case>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testCherryPick</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleSquashAndModifyMessage</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+  </hanging>
+</mutation-execution>

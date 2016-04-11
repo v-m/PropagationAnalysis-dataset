@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_960" time="61755">
-  <failing>
-    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_shortDate</case>
-    <case>org.joda.time.format.TestDateTimeFormat.testParse_pivotYear</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

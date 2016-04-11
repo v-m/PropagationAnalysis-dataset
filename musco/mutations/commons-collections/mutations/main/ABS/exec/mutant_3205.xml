@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3205" time="112648">
+  <failing>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesRemoveAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapPutNullKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testKeySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRetainAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFirstKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFailFastValues</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testKeySetRetainAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapHashCode</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testKeySetIteratorRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSynchronizedRemoveFromEntrySet</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testLastKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testAccessOrder</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testKeySetRemoveAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testLRU</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testInternalState_getEntry_int</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesRetainAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testKeySetClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFailFastKeySet</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMakeMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFullMapCompatibility</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSynchronizedRemoveFromMapIterator</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemoveChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testRemoveLRU</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSynchronizedRemoveFromValues</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testInternalState_Buckets</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetContains3</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemove3</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemove2</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemove1</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetRemoveAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testClone</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testReset</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetContains1</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testLRUMultiKeyMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testEntrySetContains2</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testValuesClearChangesMap</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testSynchronizedRemoveFromKeySet</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testPreviousKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapClear</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testFailFastEntrySet</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapPutNullValue</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testNextKey</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testMapToString</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

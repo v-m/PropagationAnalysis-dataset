@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3340" time="211524">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_bufferMethods</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertySetTextDayOfWeek</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_fromDay</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textAdjoiningMonthDOW_UK</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textMonthApr_Korean</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrinterParserMethods</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_dayOfWeekText</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_writerMethods</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono_and_zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_zone</case>
+    <case>org.joda.time.format.TestTextFields.testWeekdayNames</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetDayOfWeek</case>
+    <case>org.joda.time.TestLocalDate_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_dayOfWeekShortText</case>
+    <case>org.joda.time.tz.TestCompiler.test_2400_last</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_chrono</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_appendableMethods</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseMutableDateTime_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testPrint_locale</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToString_String_Locale</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetTextDayOfWeek</case>
+    <case>org.joda.time.format.TestDateTimeFormatStyle.testForStyle_fullDate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

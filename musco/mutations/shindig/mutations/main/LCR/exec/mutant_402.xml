@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_402" time="78659">
+  <failing>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testAddObserverNotifiesImmediately</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testGetTokenTimeToLive</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testReplaceContainer</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testPropertyTypes</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testNulledPropertiesRemainNulledAfterSeveralTransactions</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testPropertyTypes</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testExpressionInheritance</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testUnknownContainer</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testNulledPropertiesRemainNulledAfterSeveralTransactions</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testReplaceContainer</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testAddObserverNotifiesImmediately</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testReadSameContainer</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testContainersAreMergedRecursively</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testReadSameContainer</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testMalformed</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testChangingContainers</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testRemoveContainer</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testWrongContainer</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.parseWithDefaultInheritance</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testInheritance</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.parseWithDefaultInheritance</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testClearContainerConfig</case>
+    <case>org.apache.shindig.auth.BasicSecurityTokenCodecTest.testGetTokenTimeToLive</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testGetContainers</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.expressionEvaluationUsingParent</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testContainersAreMergedRecursively</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.testCommonEnvironmentAddedToAllContainers</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.aliasesArePopulated</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testGetContainers</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testAddNewContainer</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.testNullEntriesOverrideEntriesInParent</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testAliasesArePopulated</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testAliasesArePopulated</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testClearContainerConfig</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testCreateToken</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testAddNewContainer</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.aliasesArePopulated</case>
+    <case>org.apache.shindig.config.ExpressionContainerConfigTest.testRemoveContainer</case>
+    <case>org.apache.shindig.config.BasicContainerConfigTest.testInheritance</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testExpired</case>
+    <case>org.apache.shindig.config.JsonContainerConfigLoaderTest.expressionEvaluationUsingParent</case>
+    <case>org.apache.shindig.auth.BlobCrypterSecurityTokenCodecTest.testAnonymous</case>
+    <case>org.apache.shindig.config.JsonContainerConfigTest.testCommonEnvironmentAddedToAllContainers</case>
+  </failing>
+  <ignored>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfStringsFails</case>
+    <case>org.apache.shindig.expressions.jasper.JasperExpressionsTest.booleanCoercionOfNumbersFails</case>
+    <case>org.apache.shindig.common.servlet.HttpUtilTest.testCORSmultiple</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

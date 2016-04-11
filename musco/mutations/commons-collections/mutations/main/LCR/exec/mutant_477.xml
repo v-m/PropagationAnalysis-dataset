@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_477" time="153733">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>org.apache.commons.collections4.map.LRUMapTest.testRemoveLRUBlocksRemoveScan</case>
+  </hanging>
+</mutation-execution>

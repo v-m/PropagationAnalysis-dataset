@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_19138" time="345259">
+  <failing>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testBareRepo</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionBranch</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRemoveOverlappingBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testReplaceManifestBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRepoManifestCopyFile</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionTag</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testIncludeTag</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testNonDefaultRemotes</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testAddRepoManifest</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevision</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionBare</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRemoteAlias</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRepoManifestGroups</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

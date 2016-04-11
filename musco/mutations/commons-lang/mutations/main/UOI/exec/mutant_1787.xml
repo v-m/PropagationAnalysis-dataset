@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1787" time="86993">
+  <failing>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLocales_Short_BC</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testAmPm</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLocales_Short_AD</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testSpecialCharacters</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testParseLongShort</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLowYearPadding</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testParses</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLang538</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLocales_ShortNoEra_AD</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testQuotes</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testTzParses</case>
+    <case>org.apache.commons.lang3.time.DateFormatUtilsTest.testDateTimeISO</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testLocales_ShortNoEra_BC</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testShortDateStyleWithLocales</case>
+    <case>org.apache.commons.lang3.time.FastDateFormatTest.testParseSync</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testParseNumerics</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testParseZone</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.testMilleniumBug</case>
+    <case>org.apache.commons.lang3.time.FastDateParserTest.test1806</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

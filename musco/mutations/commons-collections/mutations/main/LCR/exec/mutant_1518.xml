@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1518" time="110172">
+  <failing>
+    <case>org.apache.commons.collections4.trie.PatriciaTrieTest.initializationError</case>
+    <case>org.apache.commons.collections4.trie.UnmodifiableTrieTest.initializationError</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

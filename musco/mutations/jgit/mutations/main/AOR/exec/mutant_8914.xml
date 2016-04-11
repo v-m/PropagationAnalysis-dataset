@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8914" time="388664">
+  <failing>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutAnnotatedTag</case>
+    <case>org.eclipse.jgit.api.LsRemoteCommandTest.testLsRemoteWithoutLocalRepository</case>
+    <case>org.eclipse.jgit.api.LsRemoteCommandTest.testLsRemote</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWhenDestinationDirectoryExistsAndIsNotEmpty</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryExplicitGitDirBare</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithMultipleHeadBranches</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testListAllTagsInRepositoryInOrder</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryExplicitGitDir</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommitsWithTag</case>
+    <case>org.eclipse.jgit.api.LsRemoteCommandTest.testLsRemoteWithHeads</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testDeleteFullName</case>
+    <case>org.eclipse.jgit.api.LsRemoteCommandTest.testLsRemoteWithTags</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranch</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithTagName</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithUpdatedTagShouldNotTryToUpdateLocal</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryOnlyOneBranch</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testHardResetOnTag</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryExplicitGitDirNonStd</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutLightweightTag</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTag</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepository</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithSubmodules</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTagForFetchedObjects</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranchShortName</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionTag</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepository</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testCreateFromAnnotatetdTag</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithNestedSubmodules</case>
+    <case>org.eclipse.jgit.api.TagCommandTest.testDelete</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithExplicitTagsShouldUpdateLocal</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneWithAutoSetupRebase</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testBareCloneRepositoryNullRemote</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

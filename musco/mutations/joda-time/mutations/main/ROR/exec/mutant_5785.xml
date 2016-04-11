@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5785" time="168339">
+  <failing>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseNegativeMillis2</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseNegativeMillis1</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite5IgnoringAffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroIfSupported</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyFirst</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_from_de</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_formatTwoFields</case>
+    <case>org.joda.time.TestMutablePeriod_Basics.testToString</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_from_nl</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorIfFieldsBefore</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple5IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_default</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorSimple</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroNever</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple6IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroDefault</case>
+    <case>org.joda.time.TestPeriod_Basics.testToString_PeriodFormatter</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorComplex</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_from_fr</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrintZeroRarelyLast</case>
+    <case>org.joda.time.format.TestISOPeriodFormat.testFormatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_from_de</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_from_pl</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_regEx</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_from_nl</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSeparatorIfFieldsAfter</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_formatStandard</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_formatTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_FormatOneField</case>
+    <case>org.joda.time.TestPeriod_Basics.testToString</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_formatStandard</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testPeriod</case>
+    <case>org.joda.time.format.TestISOPeriodFormat.testFormatStandard_negative</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_FormatOneField</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx5IgnoringAffix</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

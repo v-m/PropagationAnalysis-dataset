@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2815" time="48199">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictTopLevelValueType</case>
+    <case>com.google.gson.stream.JsonReaderTest.testNoTopLevelObject</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictTopLevelValueTypeWithSkipValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

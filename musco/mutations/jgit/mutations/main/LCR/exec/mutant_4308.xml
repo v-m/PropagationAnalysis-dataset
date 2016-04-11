@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4308" time="213965">
+  <failing>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMergeProgrammaticConfigurationImpliedTargetBranch</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithMergeConfig2</case>
+    <case>org.eclipse.jgit.notes.NoteMapMergerTest.testNonNotesWithoutNonNoteConflict</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeWithMessageOption</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testModifiedAndRenamed</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMergesWithUnrelatedSide2</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMergesWithUnrelatedSide1</case>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testSequentialCherryPick</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithoutConfig</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testResetHard</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testFilesAddedFromTwoBranches</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategiesNoCommit</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPick</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeRemovingFoldersWithoutFastForward</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMerge</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeSuccessAllStrategies</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryEditPreCommit</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testSquashMerge</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithMergeConfig</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges2</case>
+    <case>org.eclipse.jgit.api.CherryPickCommandTest.testCherryPickMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictFileCreationAndDeletion</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldIgnoreMergeCommits</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMergeProgrammaticConfiguration</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

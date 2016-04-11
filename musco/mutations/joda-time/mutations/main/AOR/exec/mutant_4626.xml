@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4626" time="182344">
+  <failing>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetCenturyOfEra</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetCenturyOfEra</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetCenturyOfEra</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

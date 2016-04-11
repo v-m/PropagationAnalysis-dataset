@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4531" time="216699">
+  <failing>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryContentMerge</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryEditPreCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.indexContentConflict</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedApplyOnOtherBranch</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.stashedContentMerge</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStash</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

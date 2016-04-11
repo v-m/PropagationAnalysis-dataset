@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2464" time="325088">
+  <failing>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListModificationBetweenTwoCommits</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_MultipleIdenticalDeletes</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testNoOutputStreamSet</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneDeleteManyAdds</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffModified</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_SameContentMultipleTimes</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_BreakBelowScore</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitSubmoduleUpdate</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRename</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListModificationInDirWithoutModifiedTrees</case>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testDiff</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_DontBreakAboveScore</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffTwoCommits</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OneRenameTwoUnrelatedFiles</case>
+    <case>org.eclipse.jgit.diff.PatchIdDiffFormatterTest.testSameDiff</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListModificationInDirWithModifiedTrees</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFollowFilterTest.testMultiRename</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testRenamedBoundLineDelete</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffWithPrefixes</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_BreakAll</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterTest.testDiff</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFollowFilterTest.testSingleRename</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.newFileInIndexThenModifiedInWorkTree</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyIndexChanged</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_RejoinIfUnpaired</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneRename</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_NewlinesOnly</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRenames_OnePair2</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testMoveToOtherDir</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_ManyRenames</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_BreakNone</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OnePair</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testRenameInSubDir</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneRenameOneModify</case>
+    <case>org.eclipse.jgit.api.DiffCommandTest.testDiffWithNegativeLineCount</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testTwoRenames</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_LastByteDifferent</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

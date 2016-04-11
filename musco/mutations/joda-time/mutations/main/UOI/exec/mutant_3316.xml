@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3316" time="234802">
+  <failing>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_31" time="61205">
+  <failing>
+    <case>com.google.gson.functional.ReadersWritersTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testFromJsonTree</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyDeserialization</case>
+    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
+    <case>com.google.gson.functional.CustomDeserializerTest.testJsonTypeFieldBasedDeserialization</case>
+    <case>com.google.gson.functional.MapTest.testMapNamePromotionWithJsonElementReader</case>
+    <case>com.google.gson.functional.RuntimeTypeAdapterFactoryFunctionalTest.testSubclassesAutomaticallySerialzed</case>
+    <case>com.google.gson.functional.JsonParserTest.testChangingCustomTreeAndDeserializing</case>
+    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
+    <case>com.google.gson.JsonParserTest.testReadWriteTwoObjects</case>
+    <case>com.google.gson.functional.JsonParserTest.testDeserializingCustomTree</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

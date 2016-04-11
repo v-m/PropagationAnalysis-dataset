@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_600" time="53281">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testStringWithLeadingSlash</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPosition</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionGreaterThanBufferSize</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverSlashSlashEndOfLineComment</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverUnquotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverCStyleComment</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverQuotedString</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionDeepPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithEscapedNewlineCharacter</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMissingValue</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStringEndingInSlash</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionIsOffsetByBom</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStringAsNumberWithTruncatedExponent</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedNumbers</case>
+    <case>com.google.gson.stream.JsonReaderTest.testDocumentWithCommentEndingInSlash</case>
+    <case>com.google.gson.stream.JsonReaderTest.testFailWithPositionOverHashEndOfLineComment</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

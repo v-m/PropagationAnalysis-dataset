@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14475" time="183267">
+  <failing>
+    <case>org.joda.time.TestInstant_Basics.testWithDurationAdded_RD_int</case>
+    <case>org.joda.time.TestInstant_Basics.testMinus_RD</case>
+    <case>org.joda.time.TestInstant_Basics.testWithDurationAdded_long_int</case>
+    <case>org.joda.time.TestInstant_Basics.testMinus_long</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

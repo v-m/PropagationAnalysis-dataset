@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2985" time="48973">
-  <failing>
-    <case>com.google.gson.stream.JsonReaderTest.testMixedCaseLiterals</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

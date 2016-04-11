@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1468" time="62299">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddDay</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyRoundHalfEvenMonthOfYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

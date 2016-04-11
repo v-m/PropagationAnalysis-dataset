@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8175" time="164537">
+  <failing>
+    <case>org.joda.time.chrono.TestGJChronology.testYearEndAddDays</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddMonths</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDateTime_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_yearOfEraParse</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_yearOfEra</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_monthDay_withDefaultYear_feb29</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

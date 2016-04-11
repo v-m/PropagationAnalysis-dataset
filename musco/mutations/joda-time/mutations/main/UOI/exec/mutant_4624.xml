@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4624" time="144409">
+  <failing>
+    <case>org.joda.time.TestPeriodType.testMaskYears</case>
+    <case>org.joda.time.TestPeriodType.testMaskHours</case>
+    <case>org.joda.time.TestPeriodType.testForFields7</case>
+    <case>org.joda.time.TestPeriodType.testMaskWeeks</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoYears</case>
+    <case>org.joda.time.TestPeriodType.testForFields3</case>
+    <case>org.joda.time.TestPeriodType.testForFields2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoMinutes</case>
+    <case>org.joda.time.TestPeriodType.testForFields5</case>
+    <case>org.joda.time.TestPeriodType.testForFields4</case>
+    <case>org.joda.time.TestPeriodType.testMaskMinutes</case>
+    <case>org.joda.time.TestPeriodType.testMaskMonths</case>
+    <case>org.joda.time.TestPeriodType.testMaskDays</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoDays</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoMonths</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoWeeks</case>
+    <case>org.joda.time.TestPeriod_Basics.testNormalizedStandard_periodType_monthsWeeks</case>
+    <case>org.joda.time.TestPeriodType.testMaskTwice1</case>
+    <case>org.joda.time.TestPeriodType.testMaskSeconds</case>
+    <case>org.joda.time.TestPeriodType.testMaskHoursMinutesSeconds</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoHours</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_long_long_NoSeconds</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

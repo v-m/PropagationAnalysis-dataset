@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_684" time="50612">
+  <failing>
+    <case>com.google.gson.MixedStreamTest.testWriteLenient</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleNaNSerializationNotSupportedByDefault</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatInfinitySerializationNotSupportedByDefault</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatNaNSerializationNotSupportedByDefault</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleInfinitySerializationNotSupportedByDefault</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinitySerializationNotSupportedByDefault</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinityFloatSerializationNotSupportedByDefault</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

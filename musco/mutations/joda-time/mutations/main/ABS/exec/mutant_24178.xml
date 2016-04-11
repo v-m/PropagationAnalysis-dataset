@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_24178" time="245679">
+  <failing>
+    <case>org.joda.time.TestPeriod_Constructors.testFactoryMillis</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple6IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx4IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple5IgnoringPrefix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixComposite5IgnoringAffix</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixPlural4IgnoringPrefix</case>
+    <case>org.joda.time.TestPeriod_Basics.testPeriodStatics</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixSimple4IgnoringPrefix</case>
+    <case>org.joda.time.TestPeriod_Basics.testPlusFields</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatSuffixRegEx5IgnoringAffix</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_regEx</case>
+    <case>org.joda.time.TestPeriod_Basics.testMinusFields</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

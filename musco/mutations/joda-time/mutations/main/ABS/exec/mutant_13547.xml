@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_13547" time="205095">
+  <failing>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1046" time="50772">
+  <failing>
+    <case>com.google.gson.functional.EnumTest.testEnumSet</case>
+    <case>com.google.gson.functional.InheritanceTest.testSubInterfacesOfCollectionDeserialization</case>
+    <case>com.google.gson.functional.CollectionTest.testFieldIsArrayList</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

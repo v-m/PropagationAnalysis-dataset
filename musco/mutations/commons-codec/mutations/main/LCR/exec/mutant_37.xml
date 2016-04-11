@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_37" time="98862">
+  <failing>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testCompatibilityWithOriginalVersion</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrGENERIC</case>
+    <case>org.apache.commons.codec.language.bm.PhoneticEngineRegressionTest.testSolrASHKENAZI</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

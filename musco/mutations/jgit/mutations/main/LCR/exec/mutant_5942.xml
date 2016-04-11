@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5942" time="362543">
+  <failing>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutRemoteTrackingWithoutLocalBranch</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.singlePushInsteadOf</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testBackup</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPush</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testScpStyleNoURIDecoding</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testMirror</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutRemoteTrackingWithUpstream</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testUploadPackFactory</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testTrackingUpdate</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testPush</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testSshProto</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testGitSshProto</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testGitProtoUnix</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.testFetch</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.singleInsteadOf</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushRefUpdate</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldNotFetchTagsFromOtherBranches</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithUpdatedTagShouldNotTryToUpdateLocal</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testSaveAddURI</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testSaveRemoveLastURI</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.noInsteadOf</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testScpStyleWithoutUserRelativePath</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTag</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushWithoutPushRefSpec</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testScpStyleWithoutUserAbsolutePath</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchShouldAutoFollowTagForFetchedObjects</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testSshGitProto</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testGitWithUserHome</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testGitProtoWindows</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.noPushInsteadOf</case>
+    <case>org.eclipse.jgit.api.FetchCommandTest.fetchWithExplicitTagsShouldUpdateLocal</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushWithRefSpecFromConfig</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.multipleInsteadOf</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testUploadPack</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testFetch</case>
+    <case>org.eclipse.jgit.transport.URIishTest.testScpStyleWithUser</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.multiplePushInsteadOf</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testReceivePackFactory</case>
+    <case>org.eclipse.jgit.transport.RemoteConfigTest.testSimple</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

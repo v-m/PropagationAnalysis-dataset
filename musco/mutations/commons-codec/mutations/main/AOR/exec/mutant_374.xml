@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_374" time="98858">
+  <failing>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testAaclan</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testAychlmajrForCodec122</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testExamples</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testVariationsMeyer</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testVariationsMella</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testEdgeCases</case>
+    <case>org.apache.commons.codec.language.ColognePhoneticTest.testHyphen</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

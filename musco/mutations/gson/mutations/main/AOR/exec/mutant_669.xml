@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_669" time="63389">
+  <failing>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testLargeSetOfRandomKeys</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

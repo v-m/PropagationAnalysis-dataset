@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1181" time="111827">
-  <failing>
-    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testSerializeDeserializeThenCompare</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

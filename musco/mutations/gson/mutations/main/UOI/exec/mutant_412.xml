@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_412" time="54149">
+  <failing>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testLargeSetOfRandomKeys</case>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testEqualsAndHashCode</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testDeserialize</case>
+    <case>com.google.gson.internal.LinkedTreeMapTest.testPutOverrides</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

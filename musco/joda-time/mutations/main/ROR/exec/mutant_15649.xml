@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_15649" time="206898">
-  <failing>
-    <case>org.joda.time.TestMonthDay_Basics.testToString_String_Locale</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

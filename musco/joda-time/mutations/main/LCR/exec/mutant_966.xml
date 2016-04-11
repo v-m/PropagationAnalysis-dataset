@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_966" time="86227">
-  <failing>
-    <case>org.joda.time.format.TestPeriodFormatterBuilder.testFormatPrefixRegEx3</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2706" time="112308">
-  <failing>
-    <case>org.apache.commons.collections4.multimap.UnmodifiableMultiValuedMapTest.testEqualsNull</case>
-    <case>org.apache.commons.collections4.multimap.TransformedMultiValuedMapTest.testEqualsNull</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

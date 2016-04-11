@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_274" time="49584">
-  <failing>
-    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesCustomSerialization</case>
-    <case>com.google.gson.functional.ObjectTest.testAnonymousLocalClassesSerialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

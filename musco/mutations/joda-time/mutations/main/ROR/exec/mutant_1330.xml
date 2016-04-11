@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1330" time="145761">
+  <failing>
+    <case>org.joda.time.convert.TestConverterManager.testGetPartialConverterOKMultipleMatches</case>
+    <case>org.joda.time.convert.TestConverterManager.testGetPartialConverterBadMultipleMatches</case>
+    <case>org.joda.time.convert.TestConverterManager.testRemovePartialConverter3</case>
+    <case>org.joda.time.convert.TestConverterManager.testRemovePartialConverter2</case>
+    <case>org.joda.time.convert.TestConverterManager.testAddPartialConverter4</case>
+    <case>org.joda.time.convert.TestConverterManager.testRemovePartialConverter1</case>
+    <case>org.joda.time.convert.TestConverterManager.testAddPartialConverter3</case>
+    <case>org.joda.time.convert.TestConverterManager.testAddPartialConverter2</case>
+    <case>org.joda.time.convert.TestConverterManager.testAddPartialConverter1</case>
+    <case>org.joda.time.convert.TestConverterManager.testGetPartialConverterRemovedNull</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

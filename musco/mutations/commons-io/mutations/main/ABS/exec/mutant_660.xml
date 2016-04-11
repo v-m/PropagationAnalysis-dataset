@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_660" time="84869">
+  <failing>
+    <case>org.apache.commons.io.output.TeeOutputStreamTest.testTee</case>
+    <case>org.apache.commons.io.output.CountingOutputStreamTest.testCounting</case>
+    <case>org.apache.commons.io.output.ProxyOutputStreamTest.testWrite</case>
+    <case>org.apache.commons.io.output.TaggedOutputStreamTest.testNormalStream</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

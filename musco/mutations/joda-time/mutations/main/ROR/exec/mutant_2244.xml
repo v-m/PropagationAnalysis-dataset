@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2244" time="154817">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_noColon</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_zoneAmount</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_zoneId_noColon_parseZ</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

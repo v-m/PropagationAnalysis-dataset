@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_13506" time="162946">
-  <failing>
-    <case>org.joda.time.TestDateTimeUtils.testGetIntervalChronology_RInterval</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

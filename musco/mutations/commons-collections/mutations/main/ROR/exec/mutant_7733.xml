@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7733" time="111873">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIterator2Test.testSet</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest.testListIterator</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIterator2Test.testWalkForwardAndBack</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest.testIterator</case>
+    <case>org.apache.commons.collections4.IteratorUtilsTest.testArrayListIterator</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest.testFullIterator</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest.testEmptyIterator</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIterator2Test.testEmptyIterator</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIteratorTest.testListIteratorSet</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIterator2Test.testEmptyListIteratorIsIndeedEmpty</case>
+    <case>org.apache.commons.collections4.iterators.ObjectArrayListIterator2Test.testFullIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

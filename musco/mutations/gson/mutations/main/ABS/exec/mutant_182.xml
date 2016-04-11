@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_182" time="49267">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testByteDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testValueVeryCloseToZeroIsZero</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

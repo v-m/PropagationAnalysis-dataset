@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3102" time="314753">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4SizeThinVsNoThin</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeDeltasVsNoDeltas</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2DeltasReuseOffsets</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack2SizeOffsetsVsRefs</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackIndexV1Test.testCompareEntriesOffsetsWithGetOffsets</case>
+    <case>org.eclipse.jgit.internal.storage.file.PackWriterTest.testWritePack4ThinPack</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

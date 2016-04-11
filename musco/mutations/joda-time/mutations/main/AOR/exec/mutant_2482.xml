@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2482" time="194140">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.chrono.TestGJChronology.testMaximumValue</case>
+    <case>org.joda.time.TestDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddWrapFieldToCopyDay</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddToCopyDay</case>
+    <case>org.joda.time.TestYearMonthDay_Properties.testPropertyAddDay</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithDurationAdded_RP_int</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyRoundHalfEvenMonthOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddDayOfMonth</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyRoundHalfFloorMonthOfYear</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthEnd</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyRoundCeilingMonthOfYear</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthMiddle</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyAddToCopyDay</case>
+    <case>org.joda.time.format.TestTextFields.testMonthNames_monthStart</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyDay</case>
+    <case>org.joda.time.TestLocalDate_Basics.testPlus_RP</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMonthOfYear</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyRoundHalfCeilingMonthOfYear</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyGetMonth</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddDayOfWeek</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfYear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldDayOfMonth</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddDayOfYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_134" time="111310">
+  <failing>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testCursorNextIndexMid</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveByListSetByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testCursorConcurrentModification</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextRemoveByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousSetByIterator</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextRemoveIndex1ByList</case>
+    <case>org.apache.commons.collections4.list.CursorableLinkedListTest.testInternalState_CursorNextNextPreviousRemoveByIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

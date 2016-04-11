@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8173" time="50828">
+  <failing>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetOverrideHierarchyIncludingInterfaces</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeExactMethod</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeMethod</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadDeclaredNamedField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testGetDeclaredField</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testInvokeExactConstructor</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteDeclaredNamedField</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadFieldForceAccess</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadDeclaredNamedStaticField</case>
+    <case>org.apache.commons.lang3.event.EventUtilsTest.testBindEventsToMethod</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testGetMatchingAccessibleMethod</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeStaticMethod</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testNullArgument</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAccessibleInterfaceMethod</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testGetAccessibleConstructorFromDescription</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testNullArgument</case>
+    <case>org.apache.commons.lang3.event.EventUtilsTest.testBindFilteredEventsToMethod</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testGetAccessibleConstructor</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetOverrideHierarchyExcludingInterfaces</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAccessibleInterfaceMethodFromDescription</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testInvokeExactStaticMethod</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testReadField</case>
+    <case>org.apache.commons.lang3.reflect.ConstructorUtilsTest.testInvokeConstructor</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetMatchingAccessibleMethod</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAccessiblePublicMethodFromDescription</case>
+    <case>org.apache.commons.lang3.reflect.FieldUtilsTest.testWriteDeclaredNamedStaticField</case>
+    <case>org.apache.commons.lang3.reflect.MethodUtilsTest.testGetAccessiblePublicMethod</case>
+    <case>org.apache.commons.lang3.event.EventUtilsTest.testAddEventListener</case>
+    <case>org.apache.commons.lang3.event.EventUtilsTest.testBindEventsToMethodWithEvent</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

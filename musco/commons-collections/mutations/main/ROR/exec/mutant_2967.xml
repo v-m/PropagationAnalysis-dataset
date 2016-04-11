@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2967" time="53873">
-  <failing>
-    <case>org.apache.commons.collections4.collection.TransformedCollectionTest.testTransformedCollection_decorateTransform</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_634" time="48761">
-  <failing>
-    <case>com.google.gson.functional.ObjectTest.testStringFieldWithNumberValueDeserialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1602" time="335635">
+  <failing>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testStageState_simulated_bug</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testConflicting</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testStageState_mergeAndReset_bug</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testStageState</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testConflictingDeletedAndModified</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

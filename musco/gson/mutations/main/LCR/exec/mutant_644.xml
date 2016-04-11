@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_644" time="50035">
-  <failing>
-    <case>com.google.gson.stream.JsonWriterTest.testNonFiniteDoubles</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

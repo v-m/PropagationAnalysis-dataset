@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1698" time="160255">
-  <failing>
-    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
-    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

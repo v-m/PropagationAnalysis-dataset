@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5876" time="325165">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_7</case>
+    <case>org.eclipse.jgit.dircache.DirCacheBuilderTest.testBuildOneFile_FinishWriteCommit</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestSymlinkThenFolder</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_9</case>
+    <case>org.eclipse.jgit.treewalk.FileTreeIteratorTest.testIsModifiedSymlinkAsFile</case>
+    <case>org.eclipse.jgit.dircache.DirCacheEntryTest.testCopyMetaDataWithStage</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileSimple</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullWithMergeConfig</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_16</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testUpdateWorkingDirectoryFromIndex2</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testCheckoutOutChanges</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testAdded</case>
+    <case>org.eclipse.jgit.treewalk.FileTreeIteratorTest.testDirCacheMatchingId</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testUpdateSmudgedEntries</case>
+    <case>org.eclipse.jgit.api.StatusCommandTest.testDifferentStates</case>
+    <case>org.eclipse.jgit.dircache.DirCacheBuilderTest.testBuildOneFile_Commit</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutAutoCrlfTrue</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testDirectoryFileConflicts_1</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testStageState_mergeAndReset_bug</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testDeletionAndConflict</case>
+    <case>org.eclipse.jgit.dircache.DirCacheEntryTest.testCopyMetaDataWithoutStage</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_19603" time="143881">
+  <failing>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

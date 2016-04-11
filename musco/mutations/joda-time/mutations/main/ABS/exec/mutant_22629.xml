@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_22629" time="173097">
+  <failing>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWeekOfWeekyear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddDayOfMonth</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddDayOfYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddYear</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddDayOfWeek</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddMonthOfYear</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

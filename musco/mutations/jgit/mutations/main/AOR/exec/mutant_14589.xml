@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_14589" time="343073">
+  <failing>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeidWithReplacementWithChangeIdInCommitMessage</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeidWithSpacesBeforeId</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeid</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeidWithReplacementInLastLine</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testIndexOfChangeId</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeidWithReplacementInLastLineNoLineBreak</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testChangeIdAlreadySet</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testChangeIdAlreadySetWithReplacement</case>
+    <case>org.eclipse.jgit.util.ChangeIdUtilTest.testHasChangeidWithReplacement</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

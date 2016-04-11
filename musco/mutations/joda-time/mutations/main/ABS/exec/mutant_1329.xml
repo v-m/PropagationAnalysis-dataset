@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1329" time="168029">
+  <failing>
+    <case>org.joda.time.TestDays.testFactory_daysBetween_RInstant</case>
+    <case>org.joda.time.TestSeconds.testFactory_secondsIn_RInterval</case>
+    <case>org.joda.time.TestHours.testFactory_hoursBetween_RInstant</case>
+    <case>org.joda.time.TestYears.testFactory_yearsIn_RInterval</case>
+    <case>org.joda.time.TestMonths.testFactory_monthsBetween_RInstant</case>
+    <case>org.joda.time.TestWeeks.testFactory_weeksBetween_RInstant</case>
+    <case>org.joda.time.TestDays.testFactory_daysIn_RInterval</case>
+    <case>org.joda.time.TestSeconds.testFactory_secondsBetween_RInstant</case>
+    <case>org.joda.time.TestBaseSingleFieldPeriod.testFactory_between_RInstant</case>
+    <case>org.joda.time.TestDateTimeUtils.testOffsetMillisToZero</case>
+    <case>org.joda.time.TestYears.testFactory_yearsBetween_RInstant</case>
+    <case>org.joda.time.TestWeeks.testFactory_weeksIn_RInterval</case>
+    <case>org.joda.time.TestMinutes.testFactory_minutesBetween_RInstant</case>
+    <case>org.joda.time.TestHours.testFactory_hoursIn_RInterval</case>
+    <case>org.joda.time.TestMinutes.testFactory_minutesIn_RInterval</case>
+    <case>org.joda.time.TestMonths.testFactory_monthsIn_RInterval</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

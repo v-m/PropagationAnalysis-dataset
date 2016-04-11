@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1330" time="650128">
-  <failing>
-    <case>org.sonar.core.technicaldebt.DefaultTechnicalDebtModelTest.characteristic_by_id</case>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

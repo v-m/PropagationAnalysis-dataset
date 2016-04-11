@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1517" time="159657">
+  <failing>
+    <case>org.joda.time.chrono.TestISOChronology.testCutoverAddYears</case>
+    <case>org.joda.time.TestYears.testFactory_yearsBetween_RInstant</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.TestYears.testFactory_yearsIn_RInterval</case>
+    <case>org.joda.time.TestYears.testFactory_yearsBetween_RPartial</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

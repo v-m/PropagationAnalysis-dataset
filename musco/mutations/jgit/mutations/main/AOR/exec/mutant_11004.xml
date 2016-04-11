@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11004" time="298516">
+  <failing>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadString_LenHELO</case>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadStringRaw4</case>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadString_Len0001</case>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadString_Len0003</case>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadString_Len0002</case>
+    <case>org.eclipse.jgit.transport.PacketLineInTest.testReadACK_Invalid1</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

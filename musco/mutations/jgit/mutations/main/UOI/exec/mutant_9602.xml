@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9602" time="322371">
+  <failing>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyX</case>
+    <case>org.eclipse.jgit.patch.PatchCcErrorTest.testError_CcTruncatedOld</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyY</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testFileHeader</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testFailureF2</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyZ</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testFailureF1</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_CcNewFile</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_ConfigCaseInsensitive</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_BothISO88591</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_FixNoNewline</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testTypes</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyE</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testModifyNL1</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA1Sub</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext0</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext1</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_GitBinaryLiteral</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_DiffCc</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_Convert</case>
+    <case>org.eclipse.jgit.patch.EditListTest.testHunkHeader</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext10</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext3</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext5</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_NoBinary</case>
+    <case>org.eclipse.jgit.patch.PatchTest.testParse_AddNoNewline</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_GarbageBetweenFiles</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_TruncatedNew</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_OneFileCc</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA1</case>
+    <case>org.eclipse.jgit.api.ApplyCommandTest.testAddA2</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_TruncatedOld</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_BodyTooLong</case>
+    <case>org.eclipse.jgit.diff.DiffFormatterReflowTest.testContext100</case>
+    <case>org.eclipse.jgit.patch.PatchErrorTest.testError_DisconnectedHunk</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

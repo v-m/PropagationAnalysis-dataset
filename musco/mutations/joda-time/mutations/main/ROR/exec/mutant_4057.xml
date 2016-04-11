@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4057" time="149333">
+  <failing>
+    <suite>org.joda.time.format.TestDateTimeFormatterBuilder</suite>
+    <suite>org.joda.time.TestStringConvert</suite>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_sameStates</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_text</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_zone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo</case>
+    <case>org.joda.time.tz.TestBuilder.testSerialization</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_offsetParsed</case>
+    <case>org.joda.time.TestDateTimeZone.testGetOffsetFixed</case>
+    <case>org.joda.time.TestDateTimeZone.testEqualsHashCode</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetMillis_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseEndYear</case>
+    <case>org.joda.time.TestDateTimeZone.testForTimeZone_TimeZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseEndYear</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testCompute</case>
+    <case>org.joda.time.TestAllPackages.initializationError</case>
+    <case>org.joda.time.tz.TestBuilder.testForwardTransitions</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone2</case>
+    <case>org.joda.time.TestDateTimeZone.testTimeZoneConversion</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone3</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_baseStartYear</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveCompute</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetHoursMinutes_int_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState</case>
+    <case>org.joda.time.tz.TestCompiler.testCompile</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_chrono</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testReset</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29_newYork_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_zone</case>
+    <case>org.joda.time.TestAll.initializationError</case>
+    <case>org.joda.time.TestDateTimeZone.testGetOffsetFixed_RI</case>
+    <case>org.joda.time.format.TestAll.initializationError</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_avoidSideEffects</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthOnly_parseStartYear</case>
+    <case>org.joda.time.TestDateTimeZone.testTransitionFixed</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_startOfYear</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.TestDateTimeZone.testSerialization2</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2010</case>
+    <case>org.joda.time.tz.TestBuilder.testReverseTransitions</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_OfYear</case>
+    <case>org.joda.time.TestDateTimeZone.testForID_String</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_newYork_startOfYear</case>
+    <case>org.joda.time.TestDateTimeZone.testForOffsetHours_int</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_simple_precedence</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_twoStates</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_feb29_tokyo_endOfYear</case>
+    <case>org.joda.time.format.TestDateTimeParserBucket.testSaveRestoreState_offset</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseInto_monthDay_withDefaultYear_feb29_newYork</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

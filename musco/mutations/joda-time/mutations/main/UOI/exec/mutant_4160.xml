@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4160" time="187965">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_autumnDST</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

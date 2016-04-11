@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10566" time="111428">
+  <failing>
+    <case>org.apache.commons.collections4.trie.PatriciaTrie2Test.testPreviousKey</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

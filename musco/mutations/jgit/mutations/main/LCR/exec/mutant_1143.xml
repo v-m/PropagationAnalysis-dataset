@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1143" time="313979">
+  <failing>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModify</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedMasterChangeOtherCommit</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyInSubfolder</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryEditPreCommit</case>
+    <case>org.eclipse.jgit.api.StatusCommandTest.testDifferentStatesWithPaths</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testModified</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithModificationShouldNotDeleteData</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedMasterChangeBaseCommit</case>
+    <case>org.eclipse.jgit.api.StatusCommandTest.testDifferentStates</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedTopicChange</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldLeaveWorkspaceUntouchedWithUnstagedChangesConflict</case>
+    <case>org.eclipse.jgit.lib.IndexDiffTest.testAssumeUnchanged</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithUnstagedMasterChange</case>
+    <case>org.eclipse.jgit.api.StashApplyCommandTest.workingDirectoryModifyIndexChanged</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

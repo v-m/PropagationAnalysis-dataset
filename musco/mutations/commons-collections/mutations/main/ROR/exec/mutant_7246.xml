@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7246" time="107723">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testSameAsDecorated</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testEmptyIterator</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testObjectEqualsSelf</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testMaxGreaterThanSize</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testCanonicalFullCollectionExists</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testOffsetGreaterThanSize</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemove</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testEqualsNull</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testBounded</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveMiddle</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveUnsupported</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testNegativeMax</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveLast</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testCanonicalEmptyCollectionExists</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testObjectHashCodeEqualsContract</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveFirst</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testEmptyBounded</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveCalledTwice</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testObjectHashCodeEqualsSelfHashCode</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveWithoutCallingNext</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testSimpleSerialization</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testFullIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

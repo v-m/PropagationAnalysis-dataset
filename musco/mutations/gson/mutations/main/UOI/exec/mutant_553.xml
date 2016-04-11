@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_553" time="53075">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatNaNDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleInfinityDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNonFiniteDoubles</case>
+    <case>com.google.gson.functional.MapTest.testNumberKeyDeserialization</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientVeryLongNumber</case>
+    <case>com.google.gson.stream.JsonReaderTest.testStrictQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientQuotedNonFiniteDoubles</case>
+    <case>com.google.gson.functional.PrimitiveTest.testFloatInfinityDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinityDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testNegativeInfinityFloatDeserialization</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDoubleNaNDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

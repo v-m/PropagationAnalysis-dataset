@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2479" time="661219">
+  <failing>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.resource.ResourceDaoTest.find_root_project_by_component_key</case>
+    <case>org.sonar.core.resource.ResourceDaoTest.find_root_project_by_component_Id</case>
+    <case>org.sonar.core.resource.ResourceDaoTest.find_parent_by_component_id</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

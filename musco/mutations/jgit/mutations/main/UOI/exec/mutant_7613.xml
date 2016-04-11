@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7613" time="309999">
+  <failing>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommitsWithSkipAndMaxCount</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logPathWithSkip</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFilterTest.testFilter_NONE_And_MY_ALL</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logPathWithMaxCount</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFilterTest.testFilter_MY_ALL_And_NONE</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

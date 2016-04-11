@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_7264" time="200221">
-  <failing>
-    <case>org.joda.time.TestDuration_Basics.testToStandardDays</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

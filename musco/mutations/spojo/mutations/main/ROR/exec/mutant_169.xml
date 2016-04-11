@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_169" time="2601">
+  <failing>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTEStringNull2</case>
+    <case>com.github.sworm.spojo.utils.SpojoUtilsTest.deriveClass</case>
+    <case>com.github.sworm.spojo.SpojoTest.testShrinkTStringUnDerivableSource</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3161" time="110028">
+  <failing>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testInternalState</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

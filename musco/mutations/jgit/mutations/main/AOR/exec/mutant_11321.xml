@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11321" time="352776">
+  <failing>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testWrap</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testRevisionBranch</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testExpandFromDestination_Wildcard</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutRemoteTrackingWithoutLocalBranch</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testCreateBranchAtHiddenCommitFails</case>
+    <case>org.eclipse.jgit.api.GitConstructionTest.testOpen</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testWildcardInMiddleOfDestionation</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushAfterGC</case>
+    <case>org.eclipse.jgit.lib.BranchConfigTest.getRemoteTrackingBranchShouldHandleNormalCase</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownTreeFails</case>
+    <case>org.eclipse.jgit.lib.BranchConfigTest.getTrackingBranchShouldHandleNormalCaseForRemoteTrackingBranch</case>
+    <case>org.eclipse.jgit.api.CheckoutCommandTest.testCheckoutRemoteTrackingWithUpstream</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testUploadPackFactory</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testTrackingUpdate</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testPush</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesTrackingRef</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testWriteSingleRef</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryWithBranch</case>
+    <case>org.eclipse.jgit.api.PushCommandTest.testPushRefUpdate</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.resolveUpstream</case>
+    <case>org.eclipse.jgit.lib.BranchConfigTest.getRemoteTrackingBranchShouldHandleOtherMapping</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryOnlyOneBranch</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testForceRemotesOrigin</case>
+    <case>org.eclipse.jgit.api.CloneCommandTest.testCloneRepositoryCustomRemote</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingUnknownBlobFails</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testWildcardAtStart</case>
+    <case>org.eclipse.jgit.transport.TransportTest.testFindRemoteRefUpdatesWildcardNoTracking</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testReplaceManifestBare</case>
+    <case>org.eclipse.jgit.lib.BranchTrackingStatusTest.shouldWorkInNormalCase</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenCommonBlobFails</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testWildcardInMiddleOfSource</case>
+    <case>org.eclipse.jgit.gitrepo.RepoCommandTest.testCopyFileBare</case>
+    <case>org.eclipse.jgit.lib.BranchTrackingStatusTest.shouldWorkWithoutMergeBase</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testSuccess</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRemoteBranch</case>
+    <case>org.eclipse.jgit.transport.BundleWriterTest.testIncrementalBundle</case>
+    <case>org.eclipse.jgit.transport.RefSpecTest.testWildcardMirror</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testUsingHiddenDeltaBaseFails</case>
+    <case>org.eclipse.jgit.transport.ReceivePackAdvertiseRefsHookTest.testFilterHidesPrivate</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testFetch</case>
+    <case>org.eclipse.jgit.transport.TestProtocolTest.testReceivePackFactory</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

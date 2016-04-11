@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1933" time="52476">
-  <failing>
-    <case>com.google.gson.internal.LinkedTreeMapTest.testRemoveRootDoesNotDoubleUnlink</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

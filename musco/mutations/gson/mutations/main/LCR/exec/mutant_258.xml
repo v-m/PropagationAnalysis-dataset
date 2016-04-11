@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_258" time="50555">
+  <failing>
+    <case>com.google.gson.functional.VersioningTest.testVersionedUntilSerialization</case>
+    <case>com.google.gson.VersionExclusionStrategyTest.testClassAndFieldAreAheadInVersion</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedClassesDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedUntilDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonMixingSinceAndUntilSerialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedGsonMixingSinceAndUntilDeserialization</case>
+    <case>com.google.gson.functional.VersioningTest.testVersionedClassesSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

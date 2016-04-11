@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_9186" time="110526">
+  <failing>
+    <case>org.apache.commons.collections4.comparators.ComparatorChainTest.testBadListComparatorChain</case>
+    <case>org.apache.commons.collections4.comparators.ComparatorChainTest.testBadNoopComparatorChain</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

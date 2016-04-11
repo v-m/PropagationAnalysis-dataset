@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5015" time="110491">
+  <failing>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapClear</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapPutAll</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapPut</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

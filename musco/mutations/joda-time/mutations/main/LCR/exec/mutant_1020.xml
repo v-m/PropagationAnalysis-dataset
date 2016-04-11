@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1020" time="168869">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_ObjectLocalDateTime</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_simple</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_ObjectYearMonthDay</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_ObjectLocalDateTime</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_Object_Chronology_crossChronology</case>
+    <case>org.joda.time.TestLocalDate_Constructors.testConstructor_ObjectLocalDate</case>
+    <case>org.joda.time.TestLocalDateTime_Constructors.testConstructor_Object_Chronology_crossChronology</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

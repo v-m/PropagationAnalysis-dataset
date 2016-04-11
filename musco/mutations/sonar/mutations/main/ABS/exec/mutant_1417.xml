@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1417" time="394715">
+  <failing>
+    <case>org.sonar.core.persistence.dialect.H2Test.testFetchSizeForScrolling</case>
+    <case>org.sonar.core.persistence.dialect.PostgreSqlTest.testFetchSizeForScrolling</case>
+    <case>org.sonar.core.persistence.dialect.OracleTest.testFetchSizeForScrolling</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

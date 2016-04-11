@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_16839" time="171323">
+  <failing>
+    <case>org.joda.time.TestPeriodType.testDayTime</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_PeriodType2</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_RP2</case>
+    <case>org.joda.time.TestPeriodType.testMaskHours</case>
+    <case>org.joda.time.TestPeriodType.testYearMonthDay</case>
+    <case>org.joda.time.TestPeriodType.testYearWeekDay</case>
+    <case>org.joda.time.TestPeriodType.testMillis</case>
+    <case>org.joda.time.TestPeriodType.testForFields3</case>
+    <case>org.joda.time.TestPeriodType.testForFields2</case>
+    <case>org.joda.time.TestPeriodType.testMaskMonths</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_PeriodType2</case>
+    <case>org.joda.time.TestPeriodType.testForFields1</case>
+    <case>org.joda.time.TestPeriodType.testTime</case>
+    <case>org.joda.time.TestPeriodType.testMaskTwice2</case>
+    <case>org.joda.time.TestPeriodType.testMaskSeconds</case>
+    <case>org.joda.time.TestPeriod_Basics.testPlusFields</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetPeriod_8ints2</case>
+    <case>org.joda.time.TestPeriodType.testYearMonthDayTime</case>
+    <case>org.joda.time.TestPeriod_Basics.testMinusFields</case>
+    <case>org.joda.time.TestPeriodType.testYearDayTime</case>
+    <case>org.joda.time.TestPeriodType.testMaskYears</case>
+    <case>org.joda.time.TestPeriodType.testYearWeekDayTime</case>
+    <case>org.joda.time.TestPeriodType.testYearDay</case>
+    <case>org.joda.time.TestPeriod_Basics.testWith</case>
+    <case>org.joda.time.TestPeriodType.testMaskWeeks</case>
+    <case>org.joda.time.TestPeriodType.testStandard</case>
+    <case>org.joda.time.TestPeriodType.testMaskMinutes</case>
+    <case>org.joda.time.TestPeriodType.testMaskDays</case>
+    <case>org.joda.time.TestPeriod_Basics.testWithFields3</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testSetYears</case>
+    <case>org.joda.time.TestPeriodType.testMaskMillis</case>
+    <case>org.joda.time.TestPeriod_Basics.testWithFields1</case>
+    <case>org.joda.time.TestMutablePeriod_Updates.testMergePeriod_RP2</case>
+    <case>org.joda.time.TestPeriodType.testMaskHoursMinutesSeconds</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

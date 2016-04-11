@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_638" time="209048">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneParis</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseZoneTokyo</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithAutoLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_parseWrongOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneBahiaBanderas</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localPrintParseOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseShortNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseLongNameWithLookup</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_localParseWrongOffsetAndZone</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneTokyo</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_appendTimeZoneId</case>
+    <case>org.joda.time.format.TestDateTimeFormatterBuilder.test_printParseZoneDawsonCreek</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

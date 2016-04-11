@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2689" time="45876">
+  <failing>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonObjectAsDoubleWrapper</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonArrayAsDoublePrimitive</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonObjectAsFloatPrimitive</case>
+    <case>com.google.gson.functional.PrimitiveTest.testDeserializeJsonArrayAsFloatWrapper</case>
+    <case>com.google.gson.stream.JsonReaderTest.testIntegerMismatchFailuresDoNotAdvance</case>
+    <case>com.google.gson.stream.JsonReaderTest.testPeekMuchLargerThanLongMinValue</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

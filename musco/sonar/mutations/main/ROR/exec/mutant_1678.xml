@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1678" time="656579">
-  <failing>
-    <case>org.sonar.core.user.DefaultUserTest.test_object_methods</case>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

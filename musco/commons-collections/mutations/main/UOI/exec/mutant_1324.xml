@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1324" time="113534">
-  <failing>
-    <case>org.apache.commons.collections4.trie.PatriciaTrieTest.testPrefixMapRemoval</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

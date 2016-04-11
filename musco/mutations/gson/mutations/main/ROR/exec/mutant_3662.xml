@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3662" time="45165">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testMapSerializationEmpty</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testUrlNullSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValue</case>
+    <case>com.google.gson.functional.PrettyPrintingTest.testEmptyMapField</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnValue</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnName</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testDirectedAcyclicGraphSerialization</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerializeObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testMultipleTopLevelValues</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrornWithCause</case>
+    <case>com.google.gson.stream.JsonWriterTest.testEmptyArray</case>
+    <case>com.google.gson.functional.PrintFormattingTest.testCompactFormattingLeavesNoWhiteSpace</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testSerializedNameOnExceptionFields</case>
+    <case>com.google.gson.JsonParserTest.testParseMixedArray</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testSerializeNullsFalse</case>
+    <case>com.google.gson.functional.UncategorizedTest.testObjectEqualButNotSameSerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testJsonObjectSerialization</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testErrorWithoutCause</case>
+    <case>com.google.gson.functional.NullObjectAndFieldTest.testPrintPrintingObjectWithNulls</case>
+    <case>com.google.gson.stream.JsonWriterTest.testStrictWriterDoesNotPermitMultipleTopLevelValues</case>
+    <case>com.google.gson.stream.JsonWriterTest.testWriterCloseIsIdempotent</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testNestedObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testDeepNestingArrays</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithCause</case>
+    <case>com.google.gson.functional.ObjectTest.testSingletonLists</case>
+    <case>com.google.gson.stream.JsonWriterTest.testDeepNestingObjects</case>
+    <case>com.google.gson.stream.JsonWriterTest.testEmptyObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testLenientWriterPermitsMultipleTopLevelValues</case>
+    <case>com.google.gson.internal.bind.JsonTreeWriterTest.testNestedArray</case>
+    <case>com.google.gson.functional.ObjectTest.testClassWithNoFieldsSerialization</case>
+    <case>com.google.gson.functional.TreeTypeAdaptersTest.testSerializeId</case>
+    <case>com.google.gson.stream.JsonWriterTest.testBadNestingArray</case>
+    <case>com.google.gson.MixedStreamTest.testWriteClosed</case>
+    <case>com.google.gson.functional.ThrowableFunctionalTest.testExceptionWithoutCause</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnStructure</case>
+    <case>com.google.gson.functional.ArrayTest.testEmptyArraySerialization</case>
+    <case>com.google.gson.functional.ObjectTest.testEmptyCollectionInAnObjectSerialization</case>
+    <case>com.google.gson.functional.CircularReferenceTest.testSelfReferenceIgnoredInSerialization</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testNoExposedFieldSerialization</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.stream.JsonWriterTest.testClosedWriterThrowsOnFlush</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithWildcardValues</case>
+    <case>com.google.gson.functional.PrimitiveTest.testMoreSpecificSerialization</case>
+    <case>com.google.gson.functional.ExposeFieldsTest.testExposedInterfaceFieldSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

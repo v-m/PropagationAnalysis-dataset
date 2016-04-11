@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_303" time="64142">
+  <failing>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapRemove</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testClone4</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapEquals</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapContainsKey</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapSize</case>
+    <case>org.apache.commons.collections4.map.LinkedMapTest.testRemoveByIndex</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testSerialisation4</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapToString</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapContainsValue</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapIsEmpty</case>
+    <case>org.apache.commons.collections4.map.Flat3MapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testNullHandling</case>
+    <case>org.apache.commons.collections4.map.HashedMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testPutAll</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapPut</case>
+    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMapGet</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testCaseInsensitive</case>
+    <case>org.apache.commons.collections4.map.CaseInsensitiveMapTest.testLocaleIndependence</case>
+    <case>org.apache.commons.collections4.map.ReferenceIdentityMapTest.testMapPutAll</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

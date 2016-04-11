@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_39353" time="352394">
+  <failing>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testEgitHistory</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testMergeBlockedBySelf</case>
+    <case>org.eclipse.jgit.patch.PatchCcErrorTest.testError_CcTruncatedOld</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadOneLine</case>
+    <case>org.eclipse.jgit.revwalk.MaxCountRevFilterTest.testMaxCountRevFilter</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testSideBranch</case>
+    <case>org.eclipse.jgit.dircache.DirCacheCGitCompatabilityTest.testReadIndex_DirCacheTree</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFilterTest.testCommitTimeRevFilter</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.test2SideBranches</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkPathFilter6012Test.test1</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_CcNewFile</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkSortTest.testSort_TOPO_REVERSE</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadLineWithMissingComment</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.cherryPick</case>
+    <case>org.eclipse.jgit.revwalk.SkipRevFilterTest.testSkipRevFilter</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testMergeBlockedByOther</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadTwoLine</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testMerged</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkCullTest.testProperlyCullAllAncestors_LongHistory</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testBug300282_1</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkFilterTest.testFilter_NO_MERGES</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNoCacheObjectIdSubclass</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testMergeCommitOneParentShallow</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testDanglingCommitShouldContinueLane</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadWhileAppendIsInProgress</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testMultipleMerges</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkSortTest.testSort_TOPO</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkSortTest.testSort_COMMIT_TIME_DESC_OutOfOrder2</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_OneFileCc</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkSortTest.testSort_COMMIT_TIME_DESC_OutOfOrder1</case>
+    <case>org.eclipse.jgit.revwalk.DateRevQueueTest.testInsertOutOfOrder</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testTwoRoots2</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testDuplicateParents</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkShallowTest.testMergeCommitEntirelyShallow</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testTwoRoots1</case>
+    <case>org.eclipse.jgit.revwalk.DateRevQueueTest.testCloneFIFO</case>
+    <case>org.eclipse.jgit.dircache.DirCacheCGitCompatabilityTest.testReadWriteV3</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testBug368927</case>
+    <case>org.eclipse.jgit.revplot.PlotCommitListTest.testBug419359</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testSpecificEntryNumber</case>
+    <case>org.eclipse.jgit.junit.TestRepositoryTest.amendRef</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

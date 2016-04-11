@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8068" time="354462">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForEditInCaseOfConflict</case>
+    <case>org.eclipse.jgit.merge.SimpleMergeTest.testTrivialTwoWay_disjointhistories</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldNotFailIfUserAddCommentLinesInPrepareSteps</case>
+    <case>org.eclipse.jgit.lib.ReflogResolveTest.resolveReflogParent</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDerefTag</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseEndsIfLastStepIsEdit</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutRepository</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForRewordInCaseOfConflict</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDistance</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testRenameBranchAlsoInPack</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSquashFirstCommitShouldFail</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testParseLookupPath</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveFixupWithBlankLines</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutSecond</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleFixup</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveReword</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveFixupFirstCommitShouldFail</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.testDistance_past_root</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldSquashInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testInteractiveRebaseWithModificationShouldNotDeleteDataOnAbort</case>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testFileModeChangeAndContentChangeNoConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutMultiple</case>
+    <case>org.eclipse.jgit.lib.RepositoryResolveTest.invalidNames</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMixedSquashAndFixup</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveMultipleSquash</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveSingleSquashAndModifyMessage</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

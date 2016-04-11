@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_652" time="53035">
+  <failing>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testPutNonComparableKeyFails</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testContainsNonComparableKeyReturnsFalse</case>
+    <case>com.google.gson.internal.LinkedHashTreeMapTest.testForceDoublingAndRehash</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

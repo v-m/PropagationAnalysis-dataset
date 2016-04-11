@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_453" time="68351">
+  <failing>
+    <case>org.apache.commons.io.monitor.FileAlterationMonitorTestCase.testMonitor</case>
+    <case>org.apache.commons.io.monitor.FileAlterationMonitorTestCase.testDefaultConstructor</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testToString</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testFileCreate</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testFileDelete</case>
+    <case>org.apache.commons.io.monitor.FileAlterationMonitorTestCase.testThreadFactory</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testFileUpdate</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testDirectory</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testObserveSingleFile</case>
+    <case>org.apache.commons.io.monitor.FileAlterationMonitorTestCase.testAddRemoveObservers</case>
+    <case>org.apache.commons.io.monitor.FileAlterationObserverTestCase.testAddRemoveListeners</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testSkip_RequiredCharsets</case>
+    <case>org.apache.commons.io.input.CharSequenceInputStreamTest.testMarkReset_RequiredCharsets</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

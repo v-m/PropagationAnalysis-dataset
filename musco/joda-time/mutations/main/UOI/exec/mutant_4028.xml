@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_4028" time="192915">
-  <failing>
-    <case>org.joda.time.TestDuration_Basics.testToStandardMinutes_overflow</case>
-    <case>org.joda.time.TestDuration_Basics.testToStandardMinutes</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

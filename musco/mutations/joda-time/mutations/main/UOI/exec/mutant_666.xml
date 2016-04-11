@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_666" time="173894">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2015</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2014</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2013</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2010</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

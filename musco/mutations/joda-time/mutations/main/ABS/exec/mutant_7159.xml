@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7159" time="195355">
+  <failing>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textHalfdayAM_France</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormatParse_textHalfdayAM_UK</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

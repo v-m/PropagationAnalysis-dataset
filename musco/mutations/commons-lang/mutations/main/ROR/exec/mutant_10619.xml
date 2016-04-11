@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_10619" time="47154">
+  <failing>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testInt</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testCharArray</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionEqualsExcludeFields</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionHashCodeExcludeFields</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testShort</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testDoubleArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testChar</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testByteArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testFloatArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testDouble</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testBoolean</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testShortArray</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionHashCode</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testReflectionHierarchyCompare</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testReflectionHierarchyCompareTransients</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testReflectionCompare</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionEquals</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testBooleanArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testObjectsNotSameNorEqual</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testReflectionHierarchyEquals</case>
+    <case>org.apache.commons.lang3.builder.CompareToBuilderTest.testReflectionHierarchyCompareExcludeFields</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testObject</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testObjectArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testByte</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testIntArray</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testCyclicalObjectReferences</case>
+    <case>org.apache.commons.lang3.builder.HashCodeBuilderTest.testReflectionHierarchyHashCode</case>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testContains</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testLongArray</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testFloat</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testLong</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

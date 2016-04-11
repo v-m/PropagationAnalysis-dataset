@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5499" time="113906">
+  <failing>
+    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testArrayConstructor</case>
+    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testListConstructor</case>
+    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testConstructorPlusAdd</case>
+    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testUnknownObjectBehavior</case>
+    <case>org.apache.commons.collections4.comparators.FixedOrderComparatorTest.testAddAsEqual</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

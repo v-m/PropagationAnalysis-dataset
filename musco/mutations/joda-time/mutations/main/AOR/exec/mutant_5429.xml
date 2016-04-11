@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5429" time="169193">
+  <failing>
+    <case>org.joda.time.field.TestScaledDurationField.test_getDifference_long_int</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

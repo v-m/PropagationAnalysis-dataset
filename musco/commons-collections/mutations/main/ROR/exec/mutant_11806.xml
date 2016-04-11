@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_11806" time="110769">
-  <failing>
-    <case>org.apache.commons.collections4.ArrayStackTest.testNewStack</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

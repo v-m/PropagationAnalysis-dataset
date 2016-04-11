@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_3128" time="48157">
+  <failing>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testMultiBooleanArray</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testBooleanArray</case>
+    <case>org.apache.commons.lang3.builder.EqualsBuilderTest.testBooleanArrayHiddenByObject</case>
+    <case>org.apache.commons.lang3.ArrayUtilsTest.testIsEquals</case>
+    <case>org.apache.commons.lang3.builder.DiffBuilderTest.testBooleanArray</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testArrayList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testLinkedList</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderMutateInspectConcurrencyTest.testConcurrency</case>
+    <case>org.apache.commons.lang3.builder.ReflectionToStringBuilderConcurrencyTest.testCopyOnWriteArrayList</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

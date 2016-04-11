@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7641" time="202117">
+  <failing>
+    <case>org.joda.time.TestDateTimeComparator.testWOW</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDate</case>
+    <case>org.joda.time.TestDateTime_Basics.testWithers</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertySetWeekOfWeekyear</case>
+    <case>org.joda.time.format.TestDateTimeFormat.testFormat_weekyearOfEra_twoDigit</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testWithers</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2016</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTimeComparator.testWOYY</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2012</case>
+    <case>org.joda.time.chrono.TestGJDate.test_plusWeekyears_positiveToZero_crossCutover</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2011</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_year_month_week_2010</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTime</case>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2011</case>
+    <case>org.joda.time.chrono.TestBuddhistChronology.testKeyYears</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2012</case>
+    <case>org.joda.time.format.TestDateTimeFormatter.testParseLocalDate_weekyear_month_week_2010</case>
+    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyAddWrapFieldWeekOfWeekyear</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyGetMaxMinValuesWeekOfWeekyear</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeekyears</case>
+    <case>org.joda.time.format.TestISODateTimeFormatParsing.test_weekDateTimeNoMillis</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.TestLocalDate_Basics.testWithers</case>
+    <case>org.joda.time.TestDateMidnight_Basics.testWithers</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

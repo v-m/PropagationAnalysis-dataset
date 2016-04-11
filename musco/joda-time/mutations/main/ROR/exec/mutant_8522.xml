@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_8522" time="160837">
-  <failing>
-    <case>org.joda.time.chrono.TestGJChronology.testLeapYearRulesConstruction</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

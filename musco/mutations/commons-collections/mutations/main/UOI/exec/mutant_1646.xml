@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1646" time="109711">
+  <failing>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.isFull</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError5</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError4</case>
+    <case>org.apache.commons.collections4.CollectionUtilsTest.maxSize</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError1</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError3</case>
+    <case>org.apache.commons.collections4.queue.CircularFifoQueueTest.testRemoveError2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_7518" time="70306">
+  <failing>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_Zone</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings</case>
+    <case>org.joda.time.TestLocalDateTime_Basics.testToDate_springDST_2Hour40Savings_Zone</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

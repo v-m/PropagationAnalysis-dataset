@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3789" time="169727">
-  <failing>
-    <case>org.joda.time.TestDateTimeComparator.testStaticGetInstance</case>
-    <case>org.joda.time.TestDateTimeComparator.testStaticGetInstanceLowerUpper</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

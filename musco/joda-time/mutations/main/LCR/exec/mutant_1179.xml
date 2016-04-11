@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1179" time="190655">
-  <failing>
-    <case>org.joda.time.TestChronology.testEqualsHashCode_Limit</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

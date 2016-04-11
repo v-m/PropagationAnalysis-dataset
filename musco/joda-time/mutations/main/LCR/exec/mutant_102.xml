@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_102" time="153551">
-  <failing>
-    <case>org.joda.time.TestBaseSingleFieldPeriod.testFactory_between_RPartial</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

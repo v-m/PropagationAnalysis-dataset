@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1479" time="111375">
+  <failing>
+    <case>org.apache.commons.collections4.map.PassiveExpiringMapTest.testZeroTimeToLive</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

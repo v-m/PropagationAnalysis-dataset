@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_140" time="168676">
-  <failing>
-    <case>org.joda.time.convert.TestStringConverter.testGetDurationMillis_Object2</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

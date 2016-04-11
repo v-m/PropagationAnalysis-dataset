@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_6111" time="151106">
+  <failing>
+    <case>org.joda.time.tz.TestFixedDateTimeZone.testHashCode</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

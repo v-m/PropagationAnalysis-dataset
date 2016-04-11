@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_41178" time="333585">
+  <failing>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_CcDeleteFile</case>
+    <case>org.eclipse.jgit.patch.PatchCcErrorTest.testError_CcTruncatedOld</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_CcNewFile</case>
+    <case>org.eclipse.jgit.patch.GetTextTest.testGetText_DiffCc</case>
+    <case>org.eclipse.jgit.patch.PatchCcTest.testParse_OneFileCc</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

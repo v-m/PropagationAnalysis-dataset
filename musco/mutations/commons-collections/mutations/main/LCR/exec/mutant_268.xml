@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_268" time="112913">
+  <failing>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionRemoveAll</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testDecoratedCollectionIsIndexedOnCreation</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testEnsureDuplicateObjectsCauseException</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionToString</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testAddedObjectsCanBeRetrievedByKey</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionIsEmpty</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionToArray</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testSerializeDeserializeThenCompare</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionClear</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionSize</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testReindexUpdatesIndexWhenDecoratedCollectionIsModifiedSeparately</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionAddAll</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionRetainAll</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionAdd</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionIteratorRemove</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionContainsAll</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionContains</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionRemove</case>
+    <case>org.apache.commons.collections4.collection.IndexedCollectionTest.testCollectionIterator</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

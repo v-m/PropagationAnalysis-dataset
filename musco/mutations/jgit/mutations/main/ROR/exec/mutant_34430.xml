@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_34430" time="354667">
+  <failing>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withCommitLoadedByDifferentRevWalk</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.MergeCommandTest.testMergeInItself</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.withMerge</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.multipleBranches</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testListBranchesWithContains</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommitsWithMaxCount</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommitsWithSkip</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullLocalConflict</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullConflict</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testDelete</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullMerge</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.oneCommit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveReword</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullFastForward</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testCreateForce</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommits</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigLocalBranch</case>
+    <case>org.eclipse.jgit.api.LogCommandTest.logAllCommitsWithSkipAndMaxCount</case>
+    <case>org.eclipse.jgit.api.PullCommandTest.testPullLocalConflict</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRenameLocalBranch</case>
+    <case>org.eclipse.jgit.api.BranchCommandTest.testPullConfigRemoteBranch</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testUpToDate</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullConflict</case>
+    <case>org.eclipse.jgit.revwalk.RevWalkUtilsReachableTest.twoCommits</case>
+    <case>org.eclipse.jgit.api.PullCommandWithRebaseTest.testPullFastForwardWithBranchInSource</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

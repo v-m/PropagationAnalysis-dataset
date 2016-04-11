@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_11098" time="171366">
+  <failing>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysSydney</case>
+    <case>org.joda.time.TestDateTimeZoneCutover.testBug2182444_ausNSW</case>
+    <case>org.joda.time.TestDateTimeZone.testForID_String_old</case>
+    <case>org.joda.time.tz.TestCompiler.test_Amman_2005</case>
+    <case>org.joda.time.tz.TestCompiler.test_Amman_2004</case>
+    <case>org.joda.time.tz.TestCompiler.test_Amman_2006</case>
+    <case>org.joda.time.TestDateTimeZone.testPatchedNameKeysSydneyHistoric</case>
+    <case>org.joda.time.tz.TestCompiler.test_Amman_2003</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1494" time="379090">
+  <failing>
+    <case>org.sonar.core.permission.UserWithPermissionTemplateDaoTest.select_only_user_with_permission</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+    <case>org.sonar.core.permission.UserWithPermissionDaoTest.select_only_user_with_permission</case>
+    <case>org.sonar.core.permission.UserWithPermissionDaoTest.select_only_user_without_permission</case>
+    <case>org.sonar.core.permission.UserWithPermissionTemplateDaoTest.select_only_user_without_permission</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

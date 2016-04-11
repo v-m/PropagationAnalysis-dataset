@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_187" time="51328">
+  <failing>
+    <case>com.google.gson.functional.JsonParserTest.testBadFieldTypeForDeserializingCustomTree</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testWrongType</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.functional.JsonParserTest.testBadTypeForDeserializingCustomTree</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNulls</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testNestedArrays</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

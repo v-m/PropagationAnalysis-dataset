@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_686" time="317166">
+  <failing>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_MultipleIdenticalDeletes</case>
+    <case>org.eclipse.jgit.internal.storage.file.AbbreviationTest.testAbbreviateLooseBlob</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneDeleteManyAdds</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_SameContentMultipleTimes</case>
+    <case>org.eclipse.jgit.lib.AbbreviatedObjectIdTest.testEquals_Full</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_BreakBelowScore</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestSymlinkThenMissing</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OneRenameTwoUnrelatedFiles</case>
+    <case>org.eclipse.jgit.lib.AbbreviatedObjectIdTest.testEquals_Short</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_PathBreaksTie</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldReportFileModeChange</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_BreakAll</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexAdd</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryModifyIndexChanged</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryDeleteIndexEdit</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testBreakModify_RejoinIfUnpaired</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneRename</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.workingDirectoryCleanIndexModify</case>
+    <case>org.eclipse.jgit.internal.storage.file.AbbreviationTest.testAbbreviateOnEmptyRepository</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_NewlinesOnly</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRenames_OnePair2</case>
+    <case>org.eclipse.jgit.internal.storage.file.AbbreviationTest.testAbbreviatePackedBlob</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_ManyRenames</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_OnePair</case>
+    <case>org.eclipse.jgit.diff.DiffEntryTest.shouldListChangesInWorkingTree</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testExactRename_OneRenameOneModify</case>
+    <case>org.eclipse.jgit.internal.storage.file.AbbreviationTest.testAbbreviateIsActuallyUnique</case>
+    <case>org.eclipse.jgit.diff.RenameDetectorTest.testInexactRename_LastByteDifferent</case>
+    <case>org.eclipse.jgit.symlinks.SymlinksTest.fileModeTestMissingThenSymlink</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

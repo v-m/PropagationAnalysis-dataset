@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3832" time="49155">
-  <failing>
-    <case>com.google.gson.functional.InternationalizationTest.testStringsWithUnicodeChineseCharactersSerialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

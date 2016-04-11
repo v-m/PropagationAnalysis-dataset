@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_15541" time="323995">
+  <failing>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefDetachedUnbornHead</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testUpdateRefDetached</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadLineWithMissingComment</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadOneLine</case>
+    <case>org.eclipse.jgit.api.StashCreateCommandTest.refLogIncludesCommitMessage</case>
+    <case>org.eclipse.jgit.internal.storage.file.RefUpdateTest.testNoCacheObjectIdSubclass</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadWhileAppendIsInProgress</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testSpecificEntryNumber</case>
+    <case>org.eclipse.jgit.internal.storage.file.ReflogReaderTest.testReadTwoLine</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

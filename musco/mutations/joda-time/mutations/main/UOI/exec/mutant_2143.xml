@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2143" time="88236">
+  <failing>
+    <case>org.joda.time.chrono.TestIslamicChronology.testSampleDate1</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testEpoch</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

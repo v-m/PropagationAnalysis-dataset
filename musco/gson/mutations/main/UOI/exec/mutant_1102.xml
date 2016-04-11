@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_1102" time="54745">
-  <failing>
-    <case>com.google.gson.functional.CircularReferenceTest.testCircularSerialization</case>
-    <case>com.google.gson.functional.CircularReferenceTest.testSelfReferenceArrayFieldSerialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

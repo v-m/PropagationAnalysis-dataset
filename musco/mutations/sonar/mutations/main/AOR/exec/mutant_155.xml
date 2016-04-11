@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_155" time="663188">
+  <failing>
+    <case>org.sonar.core.issue.workflow.IssueWorkflowTest.fail_if_unknown_status_on_automatic_trans</case>
+    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

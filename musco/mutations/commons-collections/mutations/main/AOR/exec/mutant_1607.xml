@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1607" time="116124">
+  <failing>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testBounded</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveMiddle</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveLast</case>
+    <case>org.apache.commons.collections4.iterators.BoundedIteratorTest.testRemoveFirst</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

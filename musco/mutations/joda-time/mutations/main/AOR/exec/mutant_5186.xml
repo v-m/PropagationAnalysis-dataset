@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5186" time="176520">
+  <failing>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldMinute</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldSecond</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldHour</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMinute</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopySecond</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyHour</case>
+    <case>org.joda.time.field.TestPreciseDateTimeField.test_addWrapField_long_int</case>
+    <case>org.joda.time.TestLocalDateTime_Properties.testPropertyAddWrapFieldToCopyMilli</case>
+    <case>org.joda.time.TestLocalTime_Properties.testPropertyPlusWrapFieldMilli</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

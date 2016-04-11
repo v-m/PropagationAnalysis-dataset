@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4415" time="278692">
+  <failing />
+  <ignored />
+  <hanging>
+    <case>org.joda.time.chrono.TestGJChronology.testTimeOfDayAdd</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testWithFieldAdded6</case>
+    <case>org.joda.time.chrono.TestISOChronology.testTimeOfDayAdd</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddMinute</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddSecond</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddHour</case>
+    <case>org.joda.time.TestTimeOfDay_Properties.testPropertyAddMilli</case>
+    <case>org.joda.time.TestPartial_Basics.testWithFieldAddWrapped7</case>
+    <case>org.joda.time.TestPartial_Basics.testWithFieldAddWrapped6</case>
+    <case>org.joda.time.TestTimeOfDay_Basics.testWithFieldAdded7</case>
+  </hanging>
+</mutation-execution>

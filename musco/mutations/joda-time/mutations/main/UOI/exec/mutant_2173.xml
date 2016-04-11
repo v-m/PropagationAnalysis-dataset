@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2173" time="52865">
+  <failing>
+    <case>org.joda.time.chrono.gj.MainTest.testChronology</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddDays</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddYears</case>
+    <case>org.joda.time.TestIllegalFieldValueException.testGJCutover</case>
+    <case>org.joda.time.chrono.TestGJChronology.testCutoverAddWeeks</case>
+    <case>org.joda.time.TestDateTimeUtils.test_julianDay</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestGJChronology.testParseEquivalence</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testEpoch</case>
+    <case>org.joda.time.chrono.TestIslamicChronology.testEpoch</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

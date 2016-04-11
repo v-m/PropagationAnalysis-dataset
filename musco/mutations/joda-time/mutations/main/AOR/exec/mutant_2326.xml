@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2326" time="161548">
+  <failing>
+    <case>org.joda.time.TestInterval_Basics.testToPeriod</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RI_RP3</case>
+    <case>org.joda.time.TestInterval_Constructors.testConstructor_RP_RI3</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToPeriod_PeriodType1</case>
+    <case>org.joda.time.TestDateTime_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testCalendar</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testLeap_6_13</case>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodAfterStart1</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_long_PeriodType_Chronology1</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testLeap_6_13</case>
+    <case>org.joda.time.TestLocalDate_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval</case>
+    <case>org.joda.time.TestDateMidnight_Properties.testPropertyEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestInterval_Basics.testWithPeriodBeforeEnd1</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_long_PeriodType_Chronology1</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testSampleDate</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToInterval_nullZone</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD</case>
+    <case>org.joda.time.TestMutableInterval_Basics.testToPeriod</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testSampleDate</case>
+    <case>org.joda.time.TestInterval_Basics.testToPeriod_PeriodType1</case>
+    <case>org.joda.time.TestYearMonthDay_Basics.testToDateTime_TOD_nullZone</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testDurationMonth</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testDurationMonth</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testLeap_5_13</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_long_long_Chronology1</case>
+    <case>org.joda.time.TestLocalDate_Basics.testEqualsHashCodeLenient</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_long_long_Chronology1</case>
+    <case>org.joda.time.chrono.TestEthiopicChronology.testLeap_5_13</case>
+    <case>org.joda.time.chrono.TestCopticChronology.testCalendar</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

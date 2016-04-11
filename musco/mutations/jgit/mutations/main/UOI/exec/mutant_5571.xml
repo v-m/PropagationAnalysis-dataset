@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_5571" time="346143">
+  <failing>
+    <case>org.eclipse.jgit.lib.DirCacheCheckoutTest.testResetHard</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutOursWhenNoBase</case>
+    <case>org.eclipse.jgit.dircache.DirCachePathEditTest.testPathEditShouldBeCalledForEachStage</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseWithAutoStashConflictOnApply</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testMixedResetWithUnmerged</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutOurs</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutOfConflictingFileShouldThrow</case>
+    <case>org.eclipse.jgit.api.AddCommandTest.testAddWithConflicts</case>
+    <case>org.eclipse.jgit.api.CommitCommandTest.commitOnlyShouldCommitUnmergedPathAndNotAffectOthers</case>
+    <case>org.eclipse.jgit.api.ResetCommandTest.testPathsResetWithUnmerged</case>
+    <case>org.eclipse.jgit.api.PathCheckoutCommandTest.testCheckoutTheirs</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

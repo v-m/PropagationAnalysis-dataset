@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_272" time="45135">
+  <failing>
+    <case>com.google.gson.functional.MapTest.testMapSerializationEmpty</case>
+    <case>com.google.gson.functional.MapTest.testWriteMapsWithEmptyStringKey</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValue</case>
+    <case>com.google.gson.functional.PrettyPrintingTest.testEmptyMapField</case>
+    <case>com.google.gson.DefaultMapJsonSerializerTest.testEmptyMapSerialization</case>
+    <case>com.google.gson.DefaultMapJsonSerializerTest.testNonEmptyMapSerialization</case>
+    <case>com.google.gson.DefaultMapJsonSerializerTest.testEmptyMapNoTypeSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapOfMapSerialization</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMapWithSerializer</case>
+    <case>com.google.gson.functional.MapTest.testSerializeMaps</case>
+    <case>com.google.gson.functional.MapTest.testComplexKeysSerialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testNullSerialization</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testPropertiesSerialization</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValues</case>
+    <case>com.google.gson.functional.TypeVariableTest.testTypeVariablesViaTypeParameter</case>
+    <case>com.google.gson.functional.MapTest.testInterfaceTypeMap</case>
+    <case>com.google.gson.functional.MapTest.testMapWithQuotes</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMultipleEnableComplexKeyRegistrationHasNoEffect</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfParameterizedSubclassFields</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testSerializeComplexMapWithTypeAdapter</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValuesSerialized</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullValueButSerializeNulls</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithIntegerKeys</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForMapElementSerializationWithType</case>
+    <case>com.google.gson.ObjectTypeAdapterTest.testSerializeNullValue</case>
+    <case>com.google.gson.functional.MapTest.testRawMapSerialization</case>
+    <case>com.google.gson.functional.MapTest.testParameterizedMapSubclassSerialization</case>
+    <case>com.google.gson.functional.MapTest.testSerializeMapOfMaps</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithNullKey</case>
+    <case>com.google.gson.functional.PrettyPrintingTest.testMap</case>
+    <case>com.google.gson.functional.MapTest.testMapSubclassSerialization</case>
+    <case>com.google.gson.functional.MapTest.testGeneralMapField</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testMapOfSubclassFields</case>
+    <case>com.google.gson.functional.CustomTypeAdaptersTest.testCustomAdapterInvokedForMapElementSerialization</case>
+    <case>com.google.gson.functional.StreamingTypeAdaptersTest.testSerializeMap</case>
+    <case>com.google.gson.functional.TypeVariableTest.testAdvancedTypeVariables</case>
+    <case>com.google.gson.functional.MapTest.testMapSerializationWithWildcardValues</case>
+    <case>com.google.gson.functional.ObjectTest.testDateAsMapObjectField</case>
+    <case>com.google.gson.functional.MoreSpecificTypeSerializationTest.testListOfSubclassFields</case>
+    <case>com.google.gson.functional.MapAsArrayTypeAdapterTest.testMapWithTypeVariableSerialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

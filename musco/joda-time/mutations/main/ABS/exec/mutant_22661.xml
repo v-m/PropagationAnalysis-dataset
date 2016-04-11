@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_22661" time="140030">
-  <failing>
-    <case>org.joda.time.TestMutableDateTime_Properties.testPropertyRoundHalfEvenHourOfDay</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

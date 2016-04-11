@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_661" time="642703">
-  <failing>
-    <case>org.sonar.core.platform.PluginClassloaderFactoryTest.create_classloader_compatible_with_with_old_api_dependencies</case>
-    <case>org.sonar.core.properties.PropertiesDaoTest.findNotificationSubscribers</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_4411" time="112109">
+  <failing>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.CollectionSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.TransformedSortedBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.PredicatedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.SynchronizedBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.TreeBagTest.testBagToArrayPopulate</case>
+    <case>org.apache.commons.collections4.bag.UnmodifiableBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.PredicatedSortedBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.CollectionBagTest.testCollectionToArray2</case>
+    <case>org.apache.commons.collections4.bag.HashBagTest.testBagToArrayPopulate</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

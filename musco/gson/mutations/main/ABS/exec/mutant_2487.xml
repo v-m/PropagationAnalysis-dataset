@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2487" time="50072">
-  <failing>
-    <case>com.google.gson.functional.PrimitiveTest.testLongAsStringDeserialization</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

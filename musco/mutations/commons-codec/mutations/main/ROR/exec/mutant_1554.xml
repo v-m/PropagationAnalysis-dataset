@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1554" time="106817">
+  <failing>
+    <case>org.apache.commons.codec.language.MatchRatingApproachEncoderTest.testCompare_Forenames_UNA_OONAGH_ShouldSuccessfullyMatchButDoesNot</case>
+  </failing>
+  <ignored>
+    <case>org.apache.commons.codec.binary.Base64Test.testHugeLineSeparator</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

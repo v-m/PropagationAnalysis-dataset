@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_492" time="52696">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testLenientNameValueSeparator</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

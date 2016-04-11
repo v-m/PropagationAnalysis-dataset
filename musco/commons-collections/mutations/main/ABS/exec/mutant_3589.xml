@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_3589" time="112222">
-  <failing>
-    <case>org.apache.commons.collections4.map.MultiKeyMapTest.testMultiKeyRemove</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_2328" time="58224">
-  <failing>
-    <case>com.google.gson.internal.LinkedTreeMapTest.testLargeSetOfRandomKeys</case>
-    <case>com.google.gson.functional.ExclusionStrategyFunctionalTest.testExclusionStrategyWithMode</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

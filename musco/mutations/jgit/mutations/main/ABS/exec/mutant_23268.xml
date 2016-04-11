@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_23268" time="375157">
+  <failing>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testRenamedBoundLineDelete</case>
+    <case>org.eclipse.jgit.api.BlameCommandTest.testDeleteMiddleLines</case>
+    <case>org.eclipse.jgit.api.blame.BlameGeneratorTest.testBoundLineDelete</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

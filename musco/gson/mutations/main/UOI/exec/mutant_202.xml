@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_202" time="50073">
-  <failing>
-    <case>com.google.gson.GenericArrayTypeTest.testOurTypeFunctionality</case>
-    <case>com.google.gson.GenericArrayTypeTest.testNotEquals</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

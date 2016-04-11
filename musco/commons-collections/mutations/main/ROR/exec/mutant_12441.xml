@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_12441" time="112097">
-  <failing>
-    <case>org.apache.commons.collections4.iterators.IteratorChainTest.testRemoveFromFilteredIterator</case>
-    <case>org.apache.commons.collections4.iterators.LazyIteratorChainTest.testRemoveFromFilteredIterator</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_8715" time="347389">
+  <failing>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testMergeFirstStopOnLastConflictAndSkip</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForEditInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseInteractiveEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictCommitAndContinue</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndFailContinueIfFileIsDirty</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldSquashInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnLastConflictAndContinue</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMerges1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebasePreservingMergesWithUnrelatedSide1</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndContinue</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldFixupInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseEndsIfLastStepIsEdit</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testRebaseShouldStopForRewordInCaseOfConflict</case>
+    <case>org.eclipse.jgit.api.RebaseCommandTest.testStopOnConflictAndContinueWithNoDeltaToMaster</case>
+  </failing>
+  <ignored>
+    <case>org.eclipse.jgit.transport.URIishTest.testFileWithUserHome</case>
+    <case>org.eclipse.jgit.api.HugeFileTest.testAddHugeFile</case>
+  </ignored>
+  <hanging />
+</mutation-execution>

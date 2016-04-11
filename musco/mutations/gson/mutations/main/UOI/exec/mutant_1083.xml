@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_1083" time="50179">
+  <failing>
+    <case>com.google.gson.stream.JsonWriterTest.testDoubles</case>
+    <case>com.google.gson.stream.JsonWriterTest.testPrettyPrintObject</case>
+    <case>com.google.gson.stream.JsonWriterTest.testNonFiniteDoubles</case>
+    <case>com.google.gson.stream.JsonWriterTest.testPrettyPrintArray</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

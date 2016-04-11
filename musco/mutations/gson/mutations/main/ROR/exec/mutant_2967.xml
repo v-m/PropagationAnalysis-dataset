@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_2967" time="63662">
+  <failing>
+    <case>com.google.gson.stream.JsonReaderTest.testBooleans</case>
+    <case>com.google.gson.internal.bind.JsonElementReaderTest.testBooleans</case>
+    <case>com.google.gson.stream.JsonReaderPathTest.testPath</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMalformedDocuments</case>
+    <case>com.google.gson.stream.JsonReaderTest.testMixedCaseLiterals</case>
+    <case>com.google.gson.functional.DefaultTypeAdaptersTest.testBitSetDeserialization</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

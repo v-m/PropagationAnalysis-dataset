@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_332" time="2319">
+  <failing>
+    <case>com.github.sworm.spojo.config.SpojoConfigurationTest.testIterateExtendsFrom3</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>

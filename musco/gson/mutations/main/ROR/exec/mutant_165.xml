@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mutation-execution id="mutant_165" time="53355">
-  <failing>
-    <case>com.google.gson.internal.bind.JsonElementReaderTest.testStringsFromNumbers</case>
-    <case>com.google.gson.functional.TypeHierarchyAdapterTest.testTypeHierarchy</case>
-  </failing>
-  <ignored />
-  <hanging />
-</mutation-execution>

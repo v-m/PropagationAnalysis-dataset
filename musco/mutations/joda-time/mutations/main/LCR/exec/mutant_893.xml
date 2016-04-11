@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mutation-execution id="mutant_893" time="167842">
+  <failing>
+    <case>org.joda.time.format.TestISOPeriodFormatParsing.testParseStandard7</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseOneField</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoPeriod_Object7</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_de_parseTwoFields</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object1</case>
+    <case>org.joda.time.TestStringConvert.testYears</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_nl_parseTwoFields</case>
+    <case>org.joda.time.format.TestISOPeriodFormatParsing.testParseStandard11</case>
+    <case>org.joda.time.TestWeeks.testFactory_parseWeeks_String</case>
+    <case>org.joda.time.format.TestISOPeriodFormatParsing.testParseStandard10</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object_PeriodType1</case>
+    <case>org.joda.time.format.TestPeriodFormatParsing.testParseStandard1</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormatterBuilder.testMonthsAndMinutesAreConsideredSeparateAndCaseIsNotIgnored</case>
+    <case>org.joda.time.TestStringConvert.testWeeks</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseTwoFields</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology4</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology5</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_en_withLocale_pt</case>
+    <case>org.joda.time.TestPeriod_Constructors.testConstructor_Object1</case>
+    <case>org.joda.time.TestStringConvert.testMonths</case>
+    <case>org.joda.time.TestStringConvert.testDays</case>
+    <case>org.joda.time.TestYears.testFactory_parseYears_String</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseTwoFields</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_es_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pt_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_pl_parseTwoFields</case>
+    <case>org.joda.time.TestDays.testFactory_parseDays_String</case>
+    <case>org.joda.time.TestMonths.testFactory_parseMonths_String</case>
+    <case>org.joda.time.TestMutablePeriod_Constructors.testConstructor_Object_PeriodType1</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology1</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_getDefault_parseOneField</case>
+    <case>org.joda.time.format.TestPeriodFormat.test_wordBased_fr_parseTwoFields</case>
+    <case>org.joda.time.convert.TestStringConverter.testSetIntoInterval_Object_Chronology2</case>
+  </failing>
+  <ignored />
+  <hanging />
+</mutation-execution>
