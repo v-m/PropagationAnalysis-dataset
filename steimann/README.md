@@ -60,10 +60,14 @@ We consider followin graphs:
    - the related `smf.run.xml` file;
    - an archive (`mutations.7z`) which contains the list of impacted test when run the test cases on the mutant;
  - a folder `flstats` containig statistics for fault localization obtained for each project (for contribution purposes):
-   - `pminer.csv`: without considering causal edges;
-   - `softwearn.csv`: with considering causal edges;
-   - `softwearn_random.csv`: with considering causal edges (second generation including random fault locator stats).
+    - `pminer.csv`: without considering causal edges;
+    - `softwearn.csv`: with considering causal edges (#Eon edges is not working in this generated version !);
+    - `softwearn_random.csv`: with considering causal edges (second generation including random fault locator stats);
+    - `softwearn_20160615_ksp1.csv`: with considering causal edges obtained using no KSP (shortest path only) and using a generation seed of "20160615".
 
+## Data exploration
+
+Files contained in folder `flstats` can be explored using the python script in [PropagationAnalysis project](https://github.com/v-m/PropagationAnalysis), file `scripts/faultloc.py` ([read more](https://github.com/v-m/PropagationAnalysis/tree/master/scripts)).
 ## Contributions
 
 Soon...
