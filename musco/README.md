@@ -48,5 +48,5 @@ All versions used in research papers are reported in this repo.
 
 
 ## Contributions
-
- * A Learning Algorithm for Change Impact Prediction (**Vincenzo Musco**, Antonin Carette, Martin Monperrus, Philippe Preux), In Proceedings of the International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering, 2016.
+ * __Vincenzo Musco__, Martin Monperrus, Philippe Preux. *A Large Scale Study of Call Graph-based Impact Prediction using Mutation Testing.* Software Quality Journal, 2016 (to appear). 
+ * __Vincenzo Musco__, Antonin Carette, Martin Monperrus, Philippe Preux. *A Learning Algorithm for Change Impact Prediction.* 5th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering, May 2016, Austin, USA. 
